@@ -7,6 +7,8 @@ https://github.com/nanoporetech/dorado/
 ### Detail
 This repository contains methylation data in methylbed format, generated using ONT Dorado's modified-base calling pipeline from Oxford Nanopore Technologies (ONT) sequencing data. The files provide per-base methylation calls, specifically for CpG methylation (5mC), derived from long-read sequencing.
 
+### AGP API
+https://github.com/ATCC-Bioinformatics/genome_portal_api
 
 ### File Format
 methylbed: A tab-delimited format extending the BED specification, containing methylation call information.
