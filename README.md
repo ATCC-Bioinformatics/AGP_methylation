@@ -2,15 +2,12 @@
 <a href="https://genomes.atcc.org/"><img src="https://github.com/ATCC-Bioinformatics/genome_portal_api/blob/dev/images/Genome Portal_728x90.jpg" alt="Clickable-Awesome-Portal-portal" /></a>
 
 # AGP_methylation
-Repository to contain all code and scripts related to methylation basecalling on Oxford Nanopore Technologies data directoed toward the ATCC® Genome Portal.
+Repository to contain all code and scripts related to methylation basecalling on Oxford Nanopore Technologies data directed toward the ATCC® Genome Portal. Data can be retrieved through the API in methylbed format, generated using ONT Dorado's modified-base calling pipeline from Oxford Nanopore Technologies (ONT) sequencing data. The files provide per-base methylation calls, specifically for CpG methylation (5mC), derived from long-read sequencing.
 
 Please note that the ATCC® Genome Portal is a living database and some datasets were produced prior to current modified-basecalling technology became available (e.g., samples were sequenced on the R9 flowcells prior to the release of R10).
 
 ### dorado link
 https://github.com/nanoporetech/dorado/
-
-### Detail
-This repository contains methylation data in methylbed format, generated using ONT Dorado's modified-base calling pipeline from Oxford Nanopore Technologies (ONT) sequencing data. The files provide per-base methylation calls, specifically for CpG methylation (5mC), derived from long-read sequencing.
 
 ### AGP API
 https://github.com/ATCC-Bioinformatics/genome_portal_api
