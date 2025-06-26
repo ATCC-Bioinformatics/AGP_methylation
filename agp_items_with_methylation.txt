@@ -267,7 +267,7 @@ a98071646d054737	25758	Clostridium novyi
 bf44d0588f784290	25776	Clostridium malenominatum
 1236dfb00dc54a8d	25780	Clostridium paraputrificum
 ccb5dc3efd2244f8	25783	Clostridium cadaveris
-6.97952E+15	25874	Vibrio cholerae
+6979520816914916	25874	Vibrio cholerae
 36fd786e4b8049c5	25916	Listonella pelagia
 75cdfd911fb1444b	25917	Vibrio nereis
 89c4f126c55c4592	25927	Obesumbacterium proteus
