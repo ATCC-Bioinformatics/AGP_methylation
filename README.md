@@ -6,6 +6,11 @@ Repository to contain all code and scripts related to methylation basecalling on
 
 Please note that the ATCC® Genome Portal is a living database and some datasets were produced prior to current modified-basecalling technology became available (e.g., samples were sequenced on the R9 flowcells prior to the release of R10).
 
+## Genomes with available methylation datasets
+For a list of genomes that currently have methylation data on the AGP, refer to [this table](agp_items_with_methylation.txt). This table will be continually updated as we add more methylation data to the AGP.
+
+## Additional Links
+
 ### dorado link
 https://github.com/nanoporetech/dorado/
 
