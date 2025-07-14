@@ -370,6 +370,7 @@ f35f5a8115e9434d	26	Escherichia coli
 749441eb0f584b87	262	Pseudomonas aeruginosa
 908f5284e79547ba	264	Serratia marcescens
 e760ee4c7b8849a9	27010	Corynebacterium diphtheriae
+5ababed266564e3a	27013	Aeromonas salmonicida subsp. masoucida
 b9eb13405ccb4524	27023	Mycobacterium obuense
 935f67eef2ee4734	27024	Mycobacterium rhodesiae
 67712364bd0a49b0	27026	Citrobacter koseri
@@ -506,7 +507,6 @@ bd200060ca5c49fb	29631	Salmonella enterica subsp. enterica serovar Typhimurium
 b8413565adf740f7	29632	Serratia marcescens
 63cf696f79a741b8	29633	Serratia marcescens
 4f50e53478084592	29635	Serratia marcescens
-67037ea2179f4bbe	29660	Pseudoalteromonas undina
 67037ea2179f4bbe	29660	Pseudoalteromonas undina
 30e2021d04724e75	29681	Saccharopolyspora rectivirgula
 6bcf837f9b934863	29710	Azospirillum brasilense
@@ -1263,6 +1263,7 @@ c3a801428a424f92	53643	Pandoraea communis
 da8f8369bc254989	6008	Clostridium septicum
 f588ae2b5dae496a	6013	Clostridium pasteurianum
 fd53e5607c6049e1	607	Mycobacterium smegmatis
+d75c11c1fcca4580	61	Niallia circulans
 3cecd1e71e4a4467	6207	Propionibacterium freudenreichii subsp. freudenreichii
 b5e4a0c073fb4ef8	621	Gluconobacter oxydans
 fd35feb0e12c4af6	624	Streptococcus agalactiae
@@ -1328,7 +1329,6 @@ dd95e41c13164507	700325	Leclercia adecarboxylata
 31858e51fd864365	700326	Vibrio mimicus
 cf2f546aead9434e	700342	Aquamonas haywardensis
 e873747ed35542d6	700344	Neisseria meningitidis
-25ff8e759d034930	700345	Shewanella pealeana
 25ff8e759d034930	700345	Shewanella pealeana
 2968166c821f46a0	700348	Brevibacterium otitidis
 6bb7e37d9fbb4fb9	700351	Mycobacterium mageritense
@@ -1422,7 +1422,6 @@ c2c88e7c673a4557	7901	Aggregatibacter aphrophilus
 88f30bd0f66d46ef	8041	Lactiplantibacillus pentosus
 9d6b8b7156bb4c11	8073	Shewanella xiamenensis
 b7a5f3810c8248fe	809	Corynebacterium xerosis
-50fdde278af04605	8090	Citrobacter freundii
 50fdde278af04605	8090	Citrobacter freundii
 61531f24254f4b17	8142	Haemophilus influenzae
 d8c0f8e86bd64b84	8193	Moraxella catarrhalis
@@ -1917,6 +1916,7 @@ d8d6948b74c84a9b	TSD-296	Mycolicibacter vasticus
 74f4775a298244c8	TSD-30	Robinsoniella peoriensis
 971bcb210626484d	TSD-300	Aerococcus loyolae
 77581a2652354f08	TSD-303	Pseudomonas rubra
+35622fa83cb74a83	TSD-308	Pseudomonas noduli
 d66226ab2be844ac	TSD-31	Clostridium sp.
 b14eab1df9984cc3	TSD-312	Cupriavidus sp.
 2b773e438dea4a79	TSD-314	Cupriavidus consociatus
