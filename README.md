@@ -15,6 +15,7 @@ For a list of genomes that currently have methylation data on the AGP, refer to 
 https://github.com/nanoporetech/dorado/
 
 ### AGP API
+Methylation data can also be downloaded via the One Codex REST-API. Instructions on how to use the API and download methylation data can be found here: 
 https://github.com/ATCC-Bioinformatics/genome_portal_api
 
 ## Methylation calls
