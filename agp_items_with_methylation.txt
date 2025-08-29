@@ -1,30 +1,48 @@
 genome_id	catalog_num	portal_name
+2471ca4f04d74aeb	10005	Proteus mirabilis
+5c31bfa1615b44be	10014	Haemophilus parahaemolyticus
 c933744d53304798	10015	Streptococcus pneumoniae
 7c5ec03ed2294429	10054	Micrococcus luteus
 547dad76b5bf4568	10092	Clostridium chauvoei
 d6b68593e9e14c6c	10100	Enterococcus faecalis
+b75af156d5884319	10149	Geobacillus stearothermophilus
 d9725f7bc85847e7	10197	Pseudomonas aeruginosa
 8bb6461c24f348da	10200	Acidovorax cattleyae
+cabdf00ff3194c2a	10206	Bacillus pseudomycoides
 2ab50c606d2a4a48	10211	Haemophilus influenzae
 a1b0c996db054a91	10240	Micrococcus luteus
+10215720709641d1	10241	Lactiplantibacillus plantarum
+68a53c0ead1b487e	10245	Komagataeibacter oboediens
+643a075013644e49	10273	Klebsiella pneumoniae subsp. pneumoniae
+ff6dcd54d48d470f	10343	Streptococcus pneumoniae
 0c9cde9e046f4a99	10353	Streptococcus pneumoniae
+7faf132fc6264550	10354	Streptococcus pneumoniae
 14ef88570f2f440c	10356	Streptococcus pneumoniae
+257b6551ff4b493a	10357	Streptococcus pneumoniae
 39bffc8f291c4558	10358	Streptococcus pneumoniae
 5a7d6093f1854cb8	10359	Streptococcus pneumoniae
 1887d2a7343546df	10363	Streptococcus pneumoniae
 fe05998a4c2a4f13	10366	Streptococcus pneumoniae
 3db86a2e0b384893	10368	Streptococcus pneumoniae
 ccb75eb2bf884f05	10370	Streptococcus pneumoniae
+85a99111b1224306	10379	Gemella haemolysans
 679099575a0e4c52	10380	Bordetella pertussis
+c412817026164f3b	10386	Lactobacillus helveticus
+139b1b9e0f6a4316	10389	Streptococcus pyogenes
 40d76ae1c746493d	10398	Salmonella enterica subsp. enterica serovar Pullorum
+9ed384e4b50e4ebe	10400	Aerococcus viridans
+80914eace3154fe1	10543	Clostridium perfringens
+3eb94b74730641e1	10544	Pasteurella multocida subsp. multocida
 f6693b48dd6647cc	10558	Streptococcus gordonii
 ca5860aec21a457d	10625	Citrobacter braakii
+2a6b9610632d4ec3	10700	Corynebacterium pseudodiphtheriticum
 e657e22f481c4e04	10701	Corynebacterium pseudodiphtheriticum
 9b7489b34ccf48f1	10705	Lactobacillus delbrueckii subsp. lactis
 7c77aad9d0b042dc	10717	Salmonella enterica subsp. enterica serovar Rubislaw
 bbfac4abbd944b9e	10718	Salmonella enterica subsp. enterica serovar Adelaide
 d576c5640b6d4ea5	10719	Salmonella enterica subsp. enterica serovar Paratyphi B
 c3b14df85d6b480e	10721	Salmonella enterica subsp. enterica serovar Javiana
+5f1b3be2990e4804	10722	Salmonella enterica subsp. enterica serovar Tennessee
 0c257d6b0158412f	10727	Salmonella enterica subsp. enterica serovar Florida
 a875db18418c4a37	10735	Erysipelothrix rhusiopathiae
 e0c0bbab75974e09	10778	Priestia megaterium
@@ -32,25 +50,40 @@ e0c0bbab75974e09	10778	Priestia megaterium
 1b5c1d451fe6408e	10799	Escherichia coli
 f018c1aa4ba24ea7	10801	Aeromonas salmonicida subsp. achromogenes
 6d31e9dfdc95458a	10821	Komagataeibacter hansenii
+c7682c01cc0640fa	10829	Sphingomonas paucimobilis
+d68fde33c4ca49d9	10830	Leuconostoc mesenteroides subsp. mesenteroides
 fd86dbfb930842eb	10856	Burkholderia cepacia
 e2256bda53314438	10873	Clostridium perfringens
 43a8b1f6a1ec4677	10874	Neisseria gonorrhoeae
+bb46c638af9f4174	10881	Weissella confusa
+c7450b1b81b14325	10953	Fusobacterium nucleatum subsp. polymorphum
+8f5a13def30b4334	10973	Moraxella osloensis
 64db18dd9f474f58	11039	Pasteurella multocida subsp. gallicida
+e9f5d8f1fb744235	11040	Photobacterium phosphoreum
 985b87d566c54ea1	11060	Shigella sonnei
 cbd53014658b47cc	11076	Neisseria sp.
 f8f4ccd7c8554606	11105	Escherichia coli
+33e83a6b24cb4344	11126	Shigella sp.
 79e18629d2a540d0	11170	Rhodospirillum rubrum
 b17cc123011344f9	11229	Escherichia coli
 37a420d258794a4d	11249	Staphylococcus hyicus
 5ab0f62cbefb4574	11296	Klebsiella pneumoniae subsp. ozaenae
 0b73bef5d3b34672	11303	Escherichia coli
+0852f3d69fe34959	11330	Comamonas aquatica
 970f47a8f6c3482d	11332	Aquaspirillum polymorphum
 6232f9ccb37b4256	11334	Giesbergeria giesbergeri
 af3f1e614f564b78	11367	Serratia liquefaciens
+9d713a3edc224dfe	11370	Escherichia coli
 42f96651d18b4224	11376	Aneurinibacillus aneurinilyticus
+622e8f45420d4d31	11420	Enterococcus faecalis
+3212a90120ee484d	11426	Brevundimonas vesicularis
 8be9a2a04e9b413a	11437	Clostridium sporogenes
+1e0e8c5884d44764	11443	Lacticaseibacillus rhamnosus
 5635357f23ad4cd3	11454	Lactococcus lactis subsp. lactis
+c55d957de22a46ca	11506	Lactobacillus johnsonii
+9cc200683cc24390	11509	Brochothrix thermosphacta
 e7a04767c31c4c5c	11511	Salmonella enterica subsp. enterica serovar Paratyphi A
+7d6ba66110594ecb	11551	Xanthomonas vesicatoria
 09be1ea6695c436c	11561	Priestia megaterium
 1ad0dc12480c4a41	11568	Brevundimonas diminuta
 61998881d2494764	11576	Enterococcus durans
@@ -61,23 +94,36 @@ cd276d16a30e4b0e	11631	Staphylococcus simulans
 49f15e8ff01c4817	11635	Saccharopolyspora erythraea
 58314d121be84ea7	11637	Xanthomonas citri pathovar mangiferaeindicae
 f4367af8dead4ed8	11688	Neisseria gonorrhoeae
+8b112c6de5c14b58	11700	Enterococcus faecalis
 c7eef7f3acc04353	11742	Ligilactobacillus salivarius
 9074588ed5fe4b58	11758	Mycobacterium phlei
+9c4325c2692f4534	11775	Escherichia coli
 b2761eb9e8ac40d7	11827	Cutibacterium acnes
 228df777f27c4071	11835	Shigella dysenteriae
+8e81e3b5f3bf465c	11845	Riemerella anatipestifera
 cd2a1e3dcd764d76	11859	Sporosarcina pasteurii
+0900f1128a5a4e56	11863	Bifidobacterium bifidum
 3a26f1822c7348a7	11883	Cupriavidus oxalaticus
 9803feedb8da465c	11884	Cupriavidus sp.
 0cf5969ab2cb4e77	11913	Corynebacterium diphtheriae
+8d23599b2b4b4c0f	11947	Flavobacterium aquatile
 64ba31a4bb354e86	11956	Clostridium chauvoei
 c2ec26dcdce443b9	11959	Acinetobacter pittii
+cde73bd7ba7246a9	11960	Yersinia pseudotuberculosis
 5b9e34b008194f50	11975	Lactobacillus acidophilus
+924f43538085420e	11976	Lactobacillus fermentum
 116107f2661c46e1	11984	Streptomyces griseus subsp. griseus
+ead1c586239440ae	11985	Vibrio sp.
+729288cfbc7446f7	11996	Comamonas testosteroni
 46afbdcee2154933	12007	Salmonella enterica subsp. enterica serovar Cubana
+8201152ba5824bf9	12011	Salmonella enterica subsp. enterica serovar Choleraesuis
+4ff2857aa4174e9a	12012	Citrobacter braakii
+bb1e778fe4874f03	12014	Escherichia coli
 62b76a882d094926	12016	Geobacillus stearothermophilus
 9822b6d85c9e41c7	12022	Shigella flexneri
 418918bfecd9436f	12024	Shigella flexneri
 dded1045d55841ea	12026	Shigella flexneri
+fe7a76b6711249a0	12028	Shigella boydii
 b3d42795c61f4c52	12029	Shigella boydii
 1dd3fab449434f46	12030	Shigella boydii
 c2144bd3654b4b0b	12033	Shigella boydii
@@ -96,23 +142,43 @@ ff163e3fa4814c43	12224	Vibrio cholerae
 e7752677a42643ef	12325	Salmonella enterica subsp. diarizonae
 6a2e048c8c894a3a	12357	Streptococcus pyogenes
 4635f645a7044f7f	12364	Streptococcus pyogenes
+0e18b30b55524806	12370	Streptococcus pyogenes
 90067354c8884e45	12384	Streptococcus pyogenes
+743c54b2be284787	12388	Streptococcus dysgalactiae subsp. equisimilis
 bec9b564547e47e7	12392	Streptococcus sp.
 2208b767e6c1403e	12394	Streptococcus dysgalactiae subsp. equisimilis
+d0086122911a4977	12400	Streptococcus agalactiae
 c0b8add20793486c	12401	Streptococcus agalactiae
+929f34bbfbfb46c2	12403	Streptococcus agalactiae
 a31555d6160245b5	12435	Escherichia coli
+3bf1ccdc63414f61	12453	Proteus mirabilis
+2041e20fbac74ffb	12473	Janthinobacterium lividum
 20dbe537d00a4423	12478	Mycobacterium kansasii
 459ce9e49ad748bd	12630	Streptomyces virginiae
 2024a871828a4f61	12633	Pseudomonas putida
 8e70773b7342451b	12642	Veillonella atypica
 b017379d3d3c498f	12698	Micrococcus yunnanensis
 d0262d68b4074255	12705	Streptomyces graminofaciens
+0c4e4e9dcdd24152	12706	Weissella viridescens
+070105d9cf2c4f4a	12715	Staphylococcus warneri
 dab77664c8d44563	12742	Bordetella pertussis
+a3854cd19df84f70	12810	Escherichia coli
+c0f9115be4ed4a03	12826	Bacillus weihenstephanensis
 78e11e5542e94131	12841	Obesumbacterium proteus
+65247b9a7ef14474	12853	Streptomyces kanamyceticus
+9f9fc4903bfe431d	12856	Aneurinibacillus aneurinilyticus
+48e1ea677c4b4bdb	12868	Cronobacter sakazakii
 b642f770ccce4ca6	12879	Acetobacter pasteurianus subsp. pasteurianus
 d5c9b2ba7a014867	12905	Lysinibacillus macroides
 f15238f8c06c43c1	12915	Clostridium perfringens
+6c8ab65de0fc4ade	12916	Clostridium perfringens
 04a80c0d6fc443fc	12917	Clostridium perfringens
+1d1da670886d431d	12928	Streptococcus agalactiae
+996e95809582433a	12945	Pasteurella multocida subsp. multocida
+4682f9f7ea63475c	12947	Pasteurella multocida subsp. multocida
+fee44a9b65cc4b78	12948	Pasteurella multocida subsp. multocida
+8ecd406de42b4ba6	13027	Escherichia coli
+2e2b7c32c0b4433d	13028	Brenneria nigrifluens
 e6516d60faf24f3a	13030	Klebsiella oxytoca
 a44a409c25f24312	13036	Salmonella enterica subsp. enterica serovar Pullorum
 1d1eb743a59e4cf9	13077	Neisseria meningitidis
@@ -123,20 +189,32 @@ bd27d30e728447f7	13105	Neisseria meningitidis
 17556f8ac30046f4	13113	Neisseria meningitidis
 28576d3efd8849ed	13118	Neisseria flavescens
 a1200370d3ff4dd8	13119	Neisseria flavescens
+e30036d1ad7e4c4f	13120	Neisseria flavescens
+10003c6c5bb24d02	13127	Cellvibrio gilvus
 c9e7826aae884428	132	Klebsiella pneumoniae subsp. pneumoniae
 811c3bbb364a4826	13252	Aggregatibacter aphrophilus
 d8abb2537da8425a	13253	Elizabethkingia meningoseptica
+a2b49a2dfd2242e8	13313	Shigella dysenteriae
 9d6ae9bdd1d34ec1	13314	Salmonella enterica subsp. arizonae
+6bd184666f034741	13337	Hafnia alvei
+d1693d5a79f941bb	13338	Sphaerotilus natans
+94a0361a6e5a413c	13419	Streptococcus salivarius subsp. salivarius
 37b41270fb8e4bff	13428	Salmonella enterica subsp. enterica serovar Paratyphi C
 1da72c8d7c7b42e0	13472	Bacillus cereus
 f59ddd88695e4962	13511	Halomonas halodenitrificans
 dada25c864b44f03	13513	Staphylococcus cohnii subsp. cohnii
+cd0dc4796f664a78	13518	Macrococcus caseolyticus
 8e97025437424671	13543	Paracoccus denitrificans
 a244069c70e94ac5	13565	Staphylococcus aureus
 e0e2aeab4c1d4725	13619	Faecalicatena orotica
+8352ae94412d475c	13636	Stenotrophomonas maltophilia
+4ae72ff5f4274fcf	13676	Escherichia coli
 621232a45cfe49a8	13727	Arthrobacter ramosus
 6c19608ef19b45d6	13758	Mycobacterium salmoniphilum
+f3e20acba6ff4966	13812	Corynebacterium diphtheriae
 ce0b96c8928e4d69	13843	Stenotrophomonas maltophilia
+013c42c9abbe419c	13867	Pseudomonas sp.
+5c8fe95e6c75416b	13870	Corynebacterium acetoacidophilum
 f98b60b591ed4d1e	13881	Sporosarcina ureae
 5806c112240e41eb	13882	Klebsiella pneumoniae subsp. pneumoniae
 ccb3b44bc5f5406d	13884	Klebsiella pneumoniae subsp. rhinoscleromatis
@@ -152,109 +230,184 @@ ad30f652078d4b5f	13932	Listeria monocytogenes
 60f7ef6772424c16	13985	Pseudomonas chlororaphis subsp. aureofaciens
 ad0a1fdbd71149e7	14025	Enterococcus avium
 814482244337467e	14028	Salmonella enterica subsp. enterica serovar Typhimurium
+7aa4dfcb52ff4106	14029	Plesiomonas shigelloides
 8eee572f6b64480c	14033	Vibrio cholerae
 4762a1df84684ac8	14035	Vibrio cholerae
+32405dfe12d34e87	14041	Serratia marcescens
+066bf349abf24672	14100	Vibrio cholerae
 a2844da087684299	14101	Vibrio cholerae
 0cef0cb23fff443e	14102	Vibrio cholerae
 e35b0ae6f79244b5	14103	Vibrio cholerae
 ded2660140db42e0	14104	Vibrio cholerae
 497973867f374cde	14150	Pseudomonas fluorescens
 03e61b3df546418d	14153	Proteus mirabilis
+9294025c729d487f	14169	Escherichia coli
 8fe1f8857ba84779	14174	Aeromonas salmonicida subsp. salmonicida
+d92087da22904765	14201	Leptotrichia buccalis
+46b961222e784c5c	14203	Pseudomonas aeruginosa
+3854f560fb9b4e09	14206	Pseudomonas aeruginosa
 f58b2860f30e4670	14212	Pseudomonas aeruginosa
 0a81571c56bd46d0	14221	Neisseria subflava
+ff0bf61bb3c74f81	14277	Mycoplasma salivarium
+db21a2dc2b464ce4	14289	Streptococcus pyogenes
 19727232420847c2	14293	Acinetobacter sp.
 08f33f8a08034e6a	14365	Lactococcus cremoris
 ef59d2777f644134	14393	Pseudoalteromonas haloplanktis
+c5d4832ea55844f2	14405	Pseudomonas stutzeri
 af073a42c9654692	14434	Weissella confusa
 7e7952e02d0d46d9	14455	Bordetella bronchiseptica
 93b13b3a358b4298	14456	Clavibacter michiganensis subsp. michiganensis
+ab3cd62400a340d1	14458	Staphylococcus aureus
 66f81a59a3764119	14461	Serratia grimesii
 8f140381337441c0	14468	Mycobacterium smegmatis
+400dae09c1eb40fd	14470	Mycobacterium gordonae
 7bfb2f69417349a0	14474	Mycobacterium flavescens
+430d48ecac0742cb	14479	Rhizobium leguminosarum
 cd0eaca6203e4c11	14480	Rhizobium leguminosarum
+aca63bb0380c4a3a	14485	Streptococcus thermophilus
 df404af71ca5407c	14487	Janthinobacterium lividum
 304992dc67024776	14501	Clostridium innocuum
 138fd0a03ba140f3	14506	Enterococcus faecalis
+fad39f1e524144ac	14511	Streptomyces griseochromogenes
 57696de3f6cb4e54	14545	Pseudomonas septica
 8eb50b37a1e84d82	14563	Desulfovibrio alaskensis
 c82234a017a74d1b	14573	Clostridium tertium
+a4f7da4d82b242c1	14574	Bacillus badius
+e22ee0d8b28a4e23	14575	Cytobacillus firmus
 2c7694c56e2441f3	14577	Lysinibacillus sphaericus
 f78998fbab984571	14579	Bacillus cereus
 025f30858d144748	14582	Vibrio alginolyticus
+8006e3edcd67422d	14594	Bacillus licheniformis
 7c35dfcfb5864f4b	14629	Nocardia otitidiscaviarum
+276b918c70214eb2	14635	Aquamicrobium sp.
 57099e88ccba446c	14647	Streptobacillus moniliformis
 d2b31598ad9b435f	14659	Moraxella caviae
 20474abdd97a49b3	14667	Curvibacter delicatus
+acf809964feb492f	14669	Curvibacter lanceolatus
 1f0b89b2895b413d	14670	Herbaspirillum huttiense subsp. huttiense
 a1a084712a8c4fec	14685	Neisseria cinerea
 79e23b54ef2040c9	14707	Paenibacillus lentimorbus
 6b5915033bc141ad	14734	Vibrio cholerae
+b2a7f2196057427a	14756	Serratia marcescens
+cc97fff2232e4bec	14780	Massilia sp.
+a8d105d2880f448f	14820	Sphingomonas echinoides
+da93ecbeaa044bd8	14835	Gluconacetobacter liquefaciens
+4f8182197e5b48ab	14899	Streptomyces nodosus
+6011f310391345f4	14909	Pseudomonas alcaligenes
+242ef3a2ecc64380	14921	Streptomyces azureus
 8ab79b43d78d43fb	14930	Amycolatopsis lurida
 db15e0aa44f74674	14931	Limosilactobacillus fermentum
 e7f08bddd1d547d8	14932	Lactobacillus fermentum
+5d8c62ade1b1441a	14940	Clostridium symbiosum
 84d95447a6c84bee	14955	Finegoldia magna
+ebb71efd49304b7a	14963	Peptoniphilus asaccharolyticus
+5e48d3a089224e45	14987	Acinetobacter calcoaceticus
 f8d6da1604dd41cc	14990	Staphylococcus epidermidis
+c9029e603b8a459c	15009	Lactobacillus helveticus
 fda1ead3165c47db	15032	Prevotella intermedia
 c7a86e3c7b5240d4	15033	Prevotella intermedia
 2dae500d5d3a4bad	15036	Agromyces sp.
+284ec27bf7654027	15057	Pseudoalteromonas piscicida
 0d414137685c4d40	15080	Mycobacterium parascrofulaceum
 32759133d9c64fa9	15099	Stenotrophomonas maltophilia
 653aec319e3b40c5	15144	Escherichia coli
 6ab91f5914334f12	15145	Peredibacter starrii
+389b551643504ab5	15146	Proteus mirabilis
+89196243211e4efa	15173	Achromobacter denitrificans
 7e342e28a7d7450a	15174	Psychrobacter urativorans
 9011bde8b55a4105	15220	Micrococcus luteus
+42e04c62d9f84dff	15224	Escherichia coli
+6191e8d3eae74629	15237	Bordetella parapertussis
 6316d4dc9fa84d9e	15245	Bacillus subtilis
+f366d160b72f4a1e	15246	Alcaligenes faecalis subsp. faecalis
 9572e4c194e94659	15252	Caulobacter vibrioides
 46f76d0d48ca40c3	15253	Caulobacter henricii
 9299cae414b54a4c	15257	Caulobacter fusiformis
 cc657366f4984a81	15279	Aquaspirillum putridiconchylium
 4adc1bfedec9463d	15290	Proteus mirabilis
+fe34b57a3adb46a6	15293	Mycoplasmoides pneumoniae
+ab625037a0834aa6	15296	Campylobacter fetus subsp. fetus
 e9df3c61deca4fc5	15306	Kocuria varians
+d117daf024114a69	15308	Acinetobacter baumannii
 22ff73bb1de442b1	15313	Listeria monocytogenes
 6d9dc0c78445421b	15356	Bdellovibrio bacteriovorus
 a80e1b7634614c5a	15361	Enterobacter asburiae
 6c2e5b66e6a14e0d	15363	Proteus mirabilis
 23ea1c59e32d4a5c	15376	Acidovorax facilis
+559c8b8718184c63	15377	Mycoplasmoides pneumoniae
+f5f88cd8ab1748a8	15380	Klebsiella pneumoniae subsp. pneumoniae
 2d09fc2bd746453d	15387	Insolitispirillum peregrinum subsp. peregrinum
+27ac6bf3a2f54d94	15389	Escherichia coli
+8c025fa69c594747	15391	Shigella flexneri
 80a58af93fe34c0f	15466	Thiomonas intermedia
+2413b2379e224b37	15467	Aeromonas hydrophila subsp. anaerogenes
 0a701866fecc4df7	15468	Aeromonas caviae
 6370f70caeda469e	15469	Edwardsiella tarda
 aeb25724183b4a58	15478	Salmonella enterica subsp. enterica serovar Choleraesuis
+9492a51c6cb04526	15480	Salmonella enterica subsp. enterica serovar Dublin
 17c03058ca1c4293	15483	Mycobacterium vaccae
+b13e646c7a3d42eb	15488	Metamycoplasma hominis
+4febf14b3854477f	15489	Escherichia coli
+51256f1ee2d242cc	15531	Mycoplasmoides pneumoniae
+6d3b4cffab56411f	15551	Vitreoscilla filiformis
 50ba877b9ad84885	15554	Alcaligenes faecalis subsp. faecalis
 851217cbaf9b45ef	15579	Clostridium sporogenes
 cca93ed4dc7b440e	15611	Salmonella enterica subsp. enterica serovar Vellore
+1f11ad2b23b541fa	15668	Delftia acidovorans
 aa8750b4f06f45f3	15669	Escherichia coli
 16fc238809904add	15677	Corynebacterium kutscheri
 f86cdb4f6e7e45d2	15678	Lactococcus sp.
 05caff30ac72477f	15692	Pseudomonas aeruginosa
 b6f369aa9f6844f1	15696	Bifidobacterium bifidum
 68008dd28b214932	15701	Bifidobacterium breve
+52bdca785caf47be	15702	Bifidobacterium longum subsp. infantis
 ed01aa54868b459b	15707	Bifidobacterium longum subsp. longum
+b5e6aa15f02c4d02	15713	Pectobacterium carotovorum
 dd510ae11116423d	15722	Streptomyces olivaceiscleroticus
 4bb74d56e3244b69	15734	Laceyella sacchari
+7ce35a42f8754579	15743	Pasteurella multocida subsp. multocida
 7d59e7080a9d4bef	15754	Mycobacterium gastri
+928cde1ec7104455	15755	Mycobacterium terrae
+8d53260427ee4ce6	15764	Klebsiella oxytoca
+1e284cd8adc24bd7	15769	Mycobacterium avium subsp. avium
+10c093e0f36741e3	15805	Salmonella enterica subsp. enterica serovar Zwickau
 7f780bd7a466483e	15820	Lacticaseibacillus zeae
 ebb0661dd45b4fbd	15826	Cardiobacterium hominis
 52f38695b86d4e56	15829	Microbacterium testaceum
+ad82f850ff224dca	15830	Curtobacterium luteum
+a28a39703cc64ed5	15832	Clostridium cellobioparum
 7664bfc402a14b98	15834	Rhizobium rhizogenes
 cc0111a746624790	15841	Bacillus amyloliquefaciens
+1dd9f9d783d147cb	15855	Streptomyces bacillaris
 ac2d955961d34ddf	15864	Streptomyces globisporus subsp. globisporus
+944f7a36eba34d00	15903	Rhodococcus erythropolis
 cda0876cbac540be	15912	Streptococcus parasanguinis
+08a9f40f408b4090	15914	Streptococcus oralis subsp. tigurinus
+b8a47663f0dc4a8c	15930	Prevotella loescheii
+2bde920b16694c4f	15947	Edwardsiella tarda
+a8f3004fba404f2b	15955	Rhizobium radiobacter
 27d17d46257b4e87	15957	Kocuria rhizophila
+b6d63f5c90084188	15958	Burkholderia pyrrocinia
+9bfb46c837234345	15970	Paenibacillus polymyxa
 304fd1fb9a4e48ee	15973	Acetobacter aceti
 827f8ac15d2746f0	15987	Actinomyces viscosus
 feaafeda0b7b431a	15992	Salmonella enterica subsp. enterica serovar Menden
 5e7b336ac9c7422d	167	Salmonella enterica subsp. enterica serovar Typhi
 9be0c755f97c4c8c	17000	Rhodopseudomonas palustris
 1384bc7ad0314192	17001	Rhodopseudomonas palustris
+dec7d1e560b844c9	17025	Cereibacter azotoformans
 3499b00b09c243ba	17026	Cereibacter johrii
 2ff8cc4fb669436a	17027	Cereibacter sphaeroides
 ea2ce57e2feb4d3a	17028	Cereibacter sphaeroides
+43c6db00b4a642e6	17100	Rhodomicrobium vannielii
+3e6fc929a30b407d	17411	Pseudomonas chlororaphis
+f01c8d451d5141db	17438	Delftia acidovorans
+26487e367d8d4fb1	17453	Pseudomonas putida
+6cb022184c7d43b6	17460	Burkholderia cepacia complex sp.
 ab8a0b9f9ab94107	17476	Delftia acidovorans
 d3cf3a620bf949ed	17484	Pseudomonas putida
 8d10a9b1387f4b81	17505	Acidovorax delafieldii
+52f8a0626bf744ac	17555	Pseudomonas paracarnis
 5838069b65274050	17645	Pseudomonas aeruginosa
 891e05aa4e1242fb	17666	Stenotrophomonas maltophilia
 d77784baf87c4b08	17673	Stenotrophomonas maltophilia
@@ -262,43 +415,69 @@ d4b95a4ae8af4a42	17675	Stenotrophomonas maltophilia
 cf559bc487264772	17677	Stenotrophomonas maltophilia
 7b99968bd6b14676	17678	Stenotrophomonas forensis
 20797ae6ab2343fe	17679	Stenotrophomonas maltophilia
+c6c62e7a92e6461a	17697	Cupriavidus necator
 4938a01744974308	17743	Veillonella rodentium
 5bda697990cc4e52	17744	Veillonella atypica
+6b9f3241c8164edb	17746	Veillonella ratti
 31c1835c591f4d6d	17747	Veillonella criceti
+fb0ddd170c14405e	17748	Veillonella dispar
 ff90e0b533f24276	17750	Vibrio alginolyticus
+9f3ba81247e14ec0	17752	Megasphaera elsdenii
 530e3801bc3640cc	17753	Megasphaera elsdenii
 b4344a453eb24373	17759	Burkholderia cepacia
+6a9c9b7127d34739	17765	Burkholderia cepacia
 ae95d771cf08406c	17806	Stenotrophomonas maltophilia
+13f806d695ac4199	17857	Clostridioides difficile
 f6d29c2a2b854b17	17858	Clostridioides difficile
 8ce63473d9694761	17874	Clostridium perfringens
+fd5eb1feb5bd4e20	17895	Rhodococcus rhodochrous
+92848752aabf4b24	17899	Allochromatium vinosum
+56cd7f2555824098	17902	Acinetobacter calcoaceticus
 84d54ee9a2c04b76	17905	Acinetobacter sp.
+3854a24851984b16	17906	Acinetobacter haemolyticus
 5b558b676f1a48a8	17907	Acinetobacter haemolyticus
 28d0500fe3de4a5c	17908	Acinetobacter junii
 a128f52d2e9540fe	17913	Acinetobacter haemolyticus
+75b21b7752264c52	17931	Rothia dentocariosa
 bc4b7183d76b435d	17957	Acinetobacter baumannii
 c8693ffc87b94f27	17960	Oligella urethralis
+5c01b185564f417c	17961	Acinetobacter baumannii
+c6b113b920694769	17967	Moraxella lacunata
 aee6dcaac30c4b5c	17968	Acinetobacter sp genomospecies 9
 5b0776a27ea64a94	17976	Acinetobacter indicus
+95047accab2e42a6	17980	Salmonella enterica subsp. enterica serovar Kahla
+f5eedabf43a14034	17981	Mycoplasma hyorhinis
 3a24480a47434a9a	17985	Acinetobacter lwoffii
+a1561e33c2274573	17989	Paucimonas lemoignei
 6e1f8d916ad646c2	17991	Serratia marcescens
 93bf5de599aa4828	18	Bacillus safensis
 c1e42f300b72450e	186	Kocuria rosea
 cd378caeabdb4c8f	19	Bordetella bronchiseptica
 d3ef57d680ba48a7	19001	Acinetobacter junii
 53abe0bee6cc4a7c	19003	Acinetobacter baumannii
+bb39a9872cfe4eb8	19004	Acinetobacter pittii
+956933ba279e4c99	19018	Alcaligenes faecalis subsp. faecalis
 7dadc788726345d1	19039	Actinomyces naeslundii
 c5607e8e6c8d4987	19041	Marinilabilia salmonicolor
 e3396b19c04541ed	19077	Mycobacterium avium
 7e46c3883be6437f	19095	Staphylococcus aureus
 3e749563fb1d4f01	19096	Curtobacterium pusillum
 08c0386c6c7c4eb4	19108	Vibrio sp.
+0694a2d3d13042ce	19110	Escherichia coli
 4d4cbaa8d73e4f97	19111	Listeria monocytogenes
 da1bf206779541b2	19112	Listeria monocytogenes
+11f28e6e8c594f37	19116	Listeria monocytogenes
+5afcf0c9168942c9	19118	Listeria monocytogenes
+a630b6411bdc4a05	19119	Listeria ivanovii subsp. ivanovii
 76085670e8514242	19120	Listeria grayi
 daf059bde94747f7	19138	Escherichia coli
+6d6b9a4e4ea14d21	19168	Acholeplasma granularum
 49b345b93aa844a5	19169	Fibrobacter succinogenes subsp. succinogenes
+228d5c8ca98048d4	19171	Butyrivibrio fibrisolvens
 f23d81ac4c2d46dd	19172	Deinococcus radiopugnans
 c10184f29e83465d	19187	Acinetobacter baumannii
+dd6d33e72f594b4c	19188	Xylanibacter brevis
+4a02332663154d4b	19189	Xylanibacter ruminicola
 22f0fa9d5b674ba7	19205	Selenomonas ruminantium subsp. lactilytica
 5895115c13774500	19214	Salmonella enterica subsp. enterica serovar Typhi
 32186409b5ed4a5c	19235	Mycobacterium chelonae
@@ -306,23 +485,33 @@ a59da83600b44a3e	19237	Mycobacterium chelonae chemovar niacinogenes
 7b4e8317315e41e2	19246	Actinomyces oris
 5970fd65f2614758	19250	Mycobacterium xenopi
 9a78342f0bf74bb5	19262	Pseudoalteromonas atlantica
+9c03aa2249374fed	19264	Listonella anguillarum
 78f91033f8994ae2	19274	Mycobacterium tuberculosis variant bovis BCG
 632f76adf5b749cd	19296	Nocardia brasiliensis
+cc1af1efbfd5480e	19299	Clostridium bifermentans
 ee6b43679e9e40b2	19304	Pseudomonas amygdali
 388ae367e4c34d80	19326	Leeuwenhoekiella marinoflava
 27c47ba880494492	19340	Mycobacterium diernhoferi
+a7d81dbe7d1b4ef7	19357	Gluconobacter oxydans
+1b85c90263b144d6	19366	Flavobacterium pectinovorum
 397b167fcb6d4da2	19367	Paracoccus denitrificans
 6363a22d031145ee	19395	Bordetella bronchiseptica
 c4478d6c4b4240a3	19398	Clostridium butyricum
 017d34a1eecf4bfc	19402	Clostridium novyi
+3932399928034ac4	19411	Trueperella pyogenes
 5ada8cf4050045b8	19412	Corynebacterium renale
+8a9457902c934130	19415	Aggregatibacter aphrophilus
 40521d41d4a34a34	19417	Glaesserella parasuis
 edfd222166ca4540	19418	Haemophilus influenzae
+cc325579ebe1443c	19420	Mycobacterium smegmatis
 6ff3c65d4d9e489b	19421	Mycobacterium avium subsp. avium
 6b6117d4e17f414f	19424	Neisseria gonorrhoeae
 46f315c05bdd40eb	19429	Pseudomonas aeruginosa
+67b365e6c1204dbd	19430	Salmonella enterica subsp. enterica serovar Typhi
 050c97456bdc41a8	19432	Enterococcus durans
 b6890c9e9268452d	19434	Enterococcus faecium
+f3c9e1cb14254fba	19438	Campylobacter fetus subsp. venerealis
+357775289a5e4be7	19525	Mycoplasma canis
 304f9647c4a8496c	19527	Mycobacterium thermoresistibile
 f6e4f64dbea64019	19529	Mycobacterium thermoresistibile
 13dc8d5ea2354c51	19530	Mycobacterium nonchromogenicum
@@ -330,22 +519,39 @@ f6e4f64dbea64019	19529	Mycobacterium thermoresistibile
 0633d8cbf2914a1a	19573	Neisseria animalis
 874b02f1c4e14ed8	19574	Clostridium perfringens
 86cfe9b217514368	19582	Pseudomonas aeruginosa
+36d4020c5f40494b	19614	Photobacterium indicum
 ec649a0288744292	19618	Streptomyces pseudoechinosporeus
+72ff12191b864e28	19624	Hylemonella gracilis
 d137ae85129842ae	19636	Staphylococcus aureus
 09319b12c56741dd	19637	Bacillus cereus
+4a6672c8744d4cdb	19660	Pseudomonas aeruginosa
 9ba2a6698b014799	19692	Proteus myxofaciens
 b01362b7f2804f42	19693	Neisseria mucosa
+5e9f769fe21546fe	19696	Neisseria mucosa
+62bd083fb0c24f49	19700	Halobacterium salinarum
 689846850eaa486f	19703	Acidithiobacillus thiooxidans
+05d4b8bc298144ed	19707	Nitrosococcus oceani
 2fe99cfb471a401d	19717	Halomonas halmophila
 92d42bfe33ea44a8	19724	Streptomyces althioticus
 7038750729f348b5	19752	Streptomyces albidoflavus
+299ed8efb3904997	19853	Escherichia coli
 7c50a35309734481	19854	Cellulophaga sp.
 f226e73f295c46bd	19858	Desulfotomaculum nigrificans
+a7b15abde5564fff	19860	Acidovorax avenae
+84906129475640e3	19867	Stenotrophomonas hibiscicola
 834321aa486347db	19945	Salmonella enterica subsp. enterica serovar Pullorum
 8a54fbf82e724646	19950	Enterococcus faecium
 fd66bc78942e4007	19975	Moraxella nonliquefaciens
+861ba11aa6b34ef5	19976	Moraxella osloensis
+9c4f3247ea354906	19981	Mycobacterium scrofulaceum
+dd029e5b1a9f4230	19986	Bacillus sp.
+54ab46b1cc08489d	19989	Mycoplasma fermentans
 d65c95e0e3984020	19992	Lactobacillus paragasseri
+1aa3e634d09a4a7c	21000	Clostridium histolyticum
+eba3f1c3cfba46df	21022	Arthrobacter sp.
+9ee79dc17c5f422b	21074	Serratia marcescens
 d467bd98691c45d8	21100	Proteus mirabilis
+59dbc5d311984fb8	21170	Corynebacterium ammoniagenes
 a83924722a814755	212	Achromobacter xylosoxidans
 a5c7581ac6f04273	21215	Klebsiella pneumoniae subsp. pneumoniae
 bb4038fe8e6146b6	21253	Corynebacterium glutamicum
@@ -353,14 +559,18 @@ c481d626a2f14402	21437	Leuconostoc citreum
 2ccf6fde3dec49ca	21439	Pseudomonas sp.
 2e8d7f3c61104899	21548	Streptococcus pyogenes
 94cacd85edfa4bf2	21573	Corynebacterium glutamicum
+18b6ecffe4664c61	21606	Cellulosimicrobium cellulans
 97c99fbef5724bae	21633	Streptoverticillium verticillium subsp. tsukushiense
 0e250509a9d244f4	21680	Agrobacterium fabrum
+67eddeae9fa2464a	21781	Pseudomonas syringae pathovar phaseolicola
 dee7eb571cef47af	21825	Neisseria gonorrhoeae
+3709e73652804300	21833	Evansella cellulosilytica
 3851c30da9fc45eb	21921	Ensifer adhaerens
 4273a71c6e9d4ece	21953	Rhodococcus sp.
 f160c6aeb9ae42e5	21988	Achromobacter denitrificans
 9b8b706b8c444a5b	23005	Mycobacterium vaccae
 df6253a3035242f8	23014	Mycobacterium vaccae
+d10d1fe06da0468e	23037	Mycobacterium smegmatis
 81e8dc048df94876	23044	Mycobacterium abscessus
 e23638c026694e3a	23045	Mycobacterium abscessus
 8b1bb16974984761	23050	Neisseria gonorrhoeae
@@ -371,47 +581,80 @@ f156134239dc487c	23069	Mycobacterium neoaurum
 8beb85299dd842ce	23090	Chitinophaga sancti
 0792a591d4ce4c8e	23103	Thermoflexibacter ruber
 d219944591164677	23206	Acholeplasma laidlawii
+eefe17f88e694e29	23207	Yersinia pseudotuberculosis
 a9e4853483574cd3	23221	Acinetobacter lwoffii
+2437dd550b044126	23228	Escherichia coli
 cdc3f5168aae4705	23232	Escherichia coli
 957db92d01b74e6e	23233	Escherichia coli
 eb23441f46494021	23235	Staphylococcus aureus
 6547647b5a0f460d	23246	Moraxella veridica
 d9d63487336247da	23271	Lactobacillus fermentum
 567df05c706f4a6c	23304	Sporosarcina psychrophila
+bf1d3612a45640b8	23309	Aeromonas eucrenophila
 4233abc7a47a4737	23330	Kingella kingae
 6c0d170699d34c6a	23331	Kingella kingae
+6f7e168ed05b4d79	23332	Kingella kingae
 d07102c5ffb24b8c	23348	Corynebacterium minutissimum
 73e321f30ff64c88	23355	Enterobacter pasteurii
+32393b4597e94dab	23357	Klebsiella pneumoniae subsp. pneumoniae
 8a2a6b30b77a4e80	23366	Mycobacterium aurum
+1e407241486d47f7	23374	Pantoea agglomerans
+f081eb55934f4f0e	23378	Xanthomonas cucurbitae
+2e81954464e949a4	23391	Mycoplasma felis
 b0d450f678a3424a	23409	Mycobacterium gordonae
 642f8819469b4736	23443	Streptomyces moderatus
 be8fe424669545af	23459	Brucella neotomae
+29e887534dc748d4	23463	Flavobacterium columnare
+d10cc02d46d449f3	23483	Pseudomonas putida
+921fd81d8c62412f	23502	Escherichia coli
+4ac2099e80244788	23506	Escherichia coli
 c6c649da5d3c44a0	23511	Escherichia coli
+685874c18fd14960	23564	Salmonella enterica subsp. enterica serovar Typhimurium
 c39e8232e74c48f6	23577	Xanthomonas campestris pathovar thirumalacharii
+dfd833ac230a4d1d	23581	Leptospira interrogans
+a9a153ea6c424bc4	23585	Morganella morganii subsp. morganii
 c109b95528a54270	23631	Escherichia coli
+bd8db8a200064a1c	23634	Devosia enhydra
 beba76b6ec514c72	23636	Mycoplasma buccale
+796c5c1cc0f34952	23641	Halothiobacillus neapolitanus
+da47d8bf70ef41e5	23644	Thiobacillus denitrificans
 1aa5d7d2d0b1424a	23657	Edwardsiella tarda
+916f873a41944f88	23685	Edwardsiella tarda
+c56b15c67ad04786	23714	Mycoplasma orale
 66acca6a657242fa	23716	Escherichia coli
+377ef90c440d444d	23724	Escherichia coli
 26e2f859d46d4f55	23735	Escherichia coli
 43092c50b5424d70	23740	Escherichia coli
 b136e5d7184b49c1	23746	Acetobacter aceti
+1218788bdbe349f4	23767	Komagataeibacter xylinus
 d0871a6cafdc4ea5	23769	Komagataeibacter hansenii
 1eea359f46e342a9	23833	Azorhizophilus paspali
+6d6faa094fca4ddf	23834	Eikenella corrodens
+fd3aae8774e94c3f	23835	Pseudomonas asplenii
+3fad87f65f7b4990	23838	Mycoplasma arginini
 4870e8995a1549ff	23843	Bacillus amyloliquefaciens
 c8636515276542cd	23844	Bacillus amyloliquefaciens
 842797e802754af1	23875	Streptomyces albogriseolus
+15abf391765a4c1a	23877	Streptomyces ambofaciens
 94ee9ee46a9d4bfe	23915	Streptomyces globisporus
 90a0b455525f49d1	23970	Neisseria lactamica
+6befbad81dfa4c15	23971	Neisseria lactamica
+7d9c152141ec4500	23974	Pseudomonas putida
 ea20add310a74af9	23982	Escherichia coli
 a9cd971d2b544307	23996	Pseudomonas aeruginosa
 3762bb5a76164d4e	23999	Pseudomonas aeruginosa
+660581d4f0714642	25016	Francisella philomiragia
 a67b99970e1a49ec	25079	Geodermatophilus obscurus
 2dc5dae985a24dda	25082	Spirochaeta aurantia subsp. aurantia
 64618ff9d55544e8	25083	Treponema stenostreptum
 746354b471a64715	25085	Acidaminococcus fermentans
+e97e2f57edf54f41	25094	Comamonas testosteroni
 eb174f6be0fe4fc3	25100	Mycobacterium kansasii
 6f61ef7f372b497e	25104	Thermus aquaticus
+799802dea4874a22	25174	Cellulomonas humilata
+68ea04ed54fe4a64	25176	Acholeplasma axanthum
 b23494882d8c4142	25178	Staphylococcus aureus
+c58f47fc0de949de	25196	Nitrosospira multiformis
 a80338e5ae264119	25199	Myxococcus fulvus
 5452f81018684a38	25200	Myxococcus sp.
 e42bae6724064866	25207	Cupriavidus necator
@@ -419,10 +662,16 @@ e42bae6724064866	25207	Cupriavidus necator
 6b569cb597ad41ba	25238	Moraxella catarrhalis
 1ec96d49cc764e91	25245	Lysobacter sp.
 1b39b56f2883455c	25246	Lysobacter sp.
+cd88a1c5d31942cb	25250	Escherichia coli
+26ca925d37244538	25252	Escherichia coli
+ec6288e1a1a34532	25253	Escherichia coli
+f8d27adad0a34fdb	25260	Porphyromonas asaccharolytica
 cc915045895343e1	25274	Mycobacterium intracellulare
 3ab7022d036346e4	25275	Mycobacterium simiae
+4fe09c37968f4cca	25276	Mycobacterium asiaticum
 4f9f50a15b494ceb	25285	Bacteroides fragilis
 5415e8eb5ceb47da	25286	Fusobacterium necrophorum subsp. necrophorum
+34ddfa7090374c2e	25291	Mycobacterium avium subsp. avium
 255a35b5cae54d71	25295	Neisseria elongata subsp. elongata
 6d106fed56314878	25296	Rothia mucilaginosa
 32f5781e8d774865	25297	Acinetobacter sp.
@@ -432,21 +681,34 @@ cc915045895343e1	25274	Mycobacterium intracellulare
 79b2a2e0ddd04b6f	25404	Escherichia coli
 d52c615fbc8d471d	25409	Citrobacter koseri
 e238193968dd4b07	25410	Citrobacter koseri
+068f152640ba43b1	25411	Pseudomonas mendocina
+ca59cb53329843ee	25419	Serratia marcescens
 21e0d6e3824f46e8	25422	Streptomyces albidoflavus
 87d9288fdbf64ddc	25477	Streptomyces noboritoensis
+16d4120509fa4e24	25521	Photobacterium leiognathi
+2fd2896a488f45d0	25523	Mycoplasmopsis bovis
+8739ae55ba724a45	25526	Bifidobacterium pseudolongum subsp. pseudolongum
+ab7a8fbad8044686	25527	Bifidobacterium animalis subsp. animalis
 2f2eccc73406405b	25533	Fusobacterium russii
 0035d916980d47fe	25537	Enterocloster clostridioformis
 1f820e0bbcf7429e	25552	Eubacterium multiforme
 19a10b83ba804af2	25556	Fusobacterium necrogenes
+4a4de2c8308b499d	25557	Fusobacterium mortiferum
 e67b5b15b9f14879	25559	Eggerthella lenta
 4cf45ccf8b2b4a1a	25563	Fusobacterium gonidiaformans
 054da8f884e84d96	25582	Thomasclavelia ramosa
+9ed32719c3c248cb	25591	Mycoplasma hyosynoviae
 1e4b17f4cdf94c9d	25598	Lactobacillus casei subsp. pseudoplantarum
 099e152ce8ee4a98	25607	Streptomyces sp.
+c52cf8d9ac194af0	25608	Burkholderia cenocepacia
+f934977bcc1f4deb	25609	Burkholderia cepacia
 7ab656f24692419d	25610	Burkholderia cenocepacia
 db7405db735e4cce	25615	Staphylococcus hominis subsp. hominis
 13e6a0920e404070	25619	Pseudomonas aeruginosa
 2d81177444d748f6	25644	Lactobacillus ruminis
+7fdc1ff89cbd4845	25668	Pseudomonas aeruginosa
+2014603b25b441f8	25742	Pediococcus acidilactici
+4f2821f662ac498c	25755	Clostridium tyrobutyricum
 e7a62bcde2614ff8	25756	Asaccharospora irregularis
 3dda59c3bac0459a	25757	Paraclostridium ghonii
 a98071646d054737	25758	Clostridium novyi
@@ -456,61 +718,90 @@ bf44d0588f784290	25776	Clostridium malenominatum
 1236dfb00dc54a8d	25780	Clostridium paraputrificum
 ccb5dc3efd2244f8	25783	Clostridium cadaveris
 219d1ec46dca4c73	25788	Enterococcus casseliflavus
+64b6d049db834dc4	25795	Mycobacterium neoaurum
 36132a91f1dc47da	25829	Morganella morganii subsp. morganii
 121db30f3c174593	25830	Morganella morganii subsp. morganii
 a706228052df410d	25840	Brucella ovis
+69c33d8c841e477d	25870	Vibrio cholerae
 df21d325926f487c	25873	Vibrio cholerae
-6.97952E+15	25874	Vibrio cholerae
+6979520816914916	25874	Vibrio cholerae
+9bfbe97a58d44e79	25903	Rhodospirillum rubrum
+8324022258404334	25915	Photobacterium angustum
 36fd786e4b8049c5	25916	Listonella pelagia
 75cdfd911fb1444b	25917	Vibrio nereis
 89c4f126c55c4592	25927	Obesumbacterium proteus
+a6f8f8ce3900471c	25929	Shigella flexneri
 387cc7e495354e59	25932	Providencia rettgeri
+2e08264c2ecb4bf9	25933	Proteus mirabilis
+c4204c89931041e3	25934	Mesomycoplasma hyopneumoniae
+2142a7611c0e4abf	25935	Duganella zoogloeoides
+567ea4302e5845a7	25936	Campylobacter fetus subsp. fetus
 5980958900fd4582	25944	Corallococcus sp.
 6c6767a42ad2485d	25960	Mycoplasma pirum
 e062d07a7d334538	25962	Bifidobacterium longum subsp. infantis
+0da259cb980743b9	25975	Streptococcus salivarius subsp. salivarius
+5e47e2d26e9e4343	25978	Nitrosomonas europaea
+554da15acf4c484b	25986	Collinsella aerofaciens
+defc7664fb9c495e	25996	Neisseria mucosa
 f35f5a8115e9434d	26	Escherichia coli
 749441eb0f584b87	262	Pseudomonas aeruginosa
 908f5284e79547ba	264	Serratia marcescens
 e760ee4c7b8849a9	27010	Corynebacterium diphtheriae
 5ababed266564e3a	27013	Aeromonas salmonicida subsp. masoucida
+3815c3c2bbd94f46	27021	Clostridium saccharoperbutylacetonicum
 b9eb13405ccb4524	27023	Mycobacterium obuense
 935f67eef2ee4734	27024	Mycobacterium rhodesiae
 67712364bd0a49b0	27026	Citrobacter koseri
+ee57e97d44ec40dc	27027	Citrobacter koseri
 77560513c29c46bc	27028	Citrobacter koseri
 9a3c104a2bc94851	27043	Vibrio nigripulchritudo
 5b09f6ac54504d8d	27044	Actinomyces oris
+b44689b3bc9b4dd7	27048	Rhodospirillum rubrum
 f1687c8a71c84c8e	27061	Achromobacter xylosoxidans
+c95ae35ab4ec42c4	27063	Achromobacter xylosoxidans
 a0d52e186b5a4513	27066	Alcaligenes sp.
 45911898b897441e	27070	Vibrio cholerae
 9d892cb2001e4269	27072	Actinobacillus rossii
 d59304a2dabc4373	27087	Treponema phagedenis
+f2f4f9291ca0458b	27090	Actinobacillus pleuropneumoniae
+3c4eaa579cbd4d59	27094	Enhydrobacter aerosaccus
 6ae17290da4144d1	27101	Streptosporangium nondiastaticum
 040540482a5643f2	27122	Halomonas pacifica
 90280db04c8543f8	27124	Halomonas cupida
+b7ab857a36114b8a	27126	Alteromonas macleodii
 fc683884de074956	27128	Halomonas aquamarina
 47f9f12759ab4cc5	27134	Arcobacter sp.
 ec86f6796d064a56	27137	Serratia marcescens
 b4a520da2b5e4348	27139	Lacticaseibacillus paracasei
 bba6c7793f3c4a98	27140	Mycoplasma dispar
 f3f5b3a1f89b4336	27143	Serratia marcescens
+5c756d5547ed438d	27155	Pantoea agglomerans
 9da02e92096d4cd8	27156	Citrobacter koseri
 27896998f763491a	27201	Mycobacterium smegmatis
 cbcf796dda9e4574	27209	Selenomonas ruminantium subsp. lactilytica
 a20d0f25430042bb	27210	Ruminococcus albus
 f708517bc926431c	27214	Escherichia coli
+e95b5dedb8064f16	27217	Staphylococcus aureus
+ca16196a49cf4c9d	27255	Ruminococcus bromii
 34774cdd553d48a4	27256	Escherichia coli
 7749587bcfb74d64	27257	Escherichia coli
+9544a8ae673d4856	27280	Mycobacterium aichiense
 7e1b94a0233a4143	27290	Mycobacterium tuberculosis variant bovis BCG
+1092aa74f94947ec	27304	Liquorilactobacillus mali
 2bfff2eac0ab4f3f	27305	Lentilactobacillus hilgardii
 a41c20fb07164a43	27315	Pseudomonas aeruginosa
+64e51b48d02a4a81	27316	Pseudomonas aeruginosa
 f9a4652ec5244648	27317	Pseudomonas aeruginosa
+8a207d1404334139	27318	Pseudomonas aeruginosa
 bb9b5331bd4d4fc8	27324	Clostridium perfringens
 8e4378850860434f	27325	Escherichia coli
 c178f712892d4890	27329	Methylobacterium radiotolerans
 9709bb88575a426b	27336	Streptococcus pneumoniae
 7e5b721e7ee342ea	27337	Peptostreptococcus anaerobius
+f95e91f4c0224170	27353	Mycobacterium engbaekii
 7e695cc46fbe4d74	27368	Mycoplasmopsis bovis
 4e316c28cb5e476a	27370	Bacillus subtilis
+b872d7ec613b45e7	27374	Campylobacter fetus subsp. fetus
 b1b98349fc2544f7	27375	Laceyella sacchari
 1ae425c7d3e64c50	27383	Flavobacterium acidurans
 63ce467649004472	274	Serratia marcescens
@@ -519,6 +810,7 @@ d14a923b059d467c	27402	Cellulosimicrobium cellulans
 d7828f4f3d014e48	27407	Mycobacterium agri
 e5703e27ef2a484c	27419	Streptomyces avidinii
 336c77433b6a4765	27426	Streptomyces cyaneogriseus
+0ed6b81199b44a79	27448	Streptomyces natalensis
 170b72e96cfe46bb	27489	Hyphomicrobium facile subsp. tolerans
 e5bb0ecd0e444161	27492	Hyphomicrobium facile subsp. ureaphilum
 bc583227eb0041f1	27511	Ralstonia pickettii
@@ -526,49 +818,71 @@ f19e90c90fc1447c	27512	Ralstonia pickettii
 57ddd26d1541447b	27513	Streptococcus constellatus subsp. constellatus
 5a6dedc36e1941ef	27515	Burkholderia stabilis
 753f9682591842ce	27518	Segatella oris
+205c20ea4bc24e7c	27519	Vibrio parahaemolyticus
 477e949bc3ac4c60	27534	Bifidobacterium dentium
 77fc1f0238bf4751	27536	Bifidobacterium animalis subsp. lactis
+babcfafd3a7f4d18	27557	Halalkalibacterium halodurans
+457d1329d1df4ca6	27560	Eubacterium ventriosum
 9d18d26a1ce8467f	27561	Photobacterium leiognathi
 df56a3e1bb744e07	27566	Micrococcus lylae
 4d916343c1694053	27567	Micrococcus lylae
+f45f42a32a23456c	27570	Rothia kristinae
 e6eb645fae344473	27628	Neisseria gonorrhoeae
 981c5353b20e4eb5	27632	Neisseria gonorrhoeae
+92691d1a5c414faf	27633	Neisseria gonorrhoeae
 00c4eb8149a94066	27634	Thermus thermophilus
 eadfae944d0d49ee	27650	Microvirgula aerodenitrificans
 5dd98756dc354dee	27661	Staphylococcus aureus
 5e4db0cdce38494f	27673	Bifidobacterium animalis subsp. animalis
 5d63a158fcab4fd0	27698	Staphylococcus aureus
+cbf5e27ca2a64283	27716	Mycoplasma flocculare
+a8cad1680acd4ca8	27721	Haemophilus ducreyi
+64f13031816740f4	27725	Fusobacterium varium
 3b9c4d5cbcfe49ef	27730	Thermobifida fusca
 e42a508796a64650	27739	Yersinia enterocolitica subsp. enterocolitica
+fd8cf1c5237d43c9	27746	Mycoplasma molare
 16d80fd3208f4824	27749	Gemmiger formicilis
 8a6960c444844ccc	27750	Eubacterium eligens
 5f7c303c7ccc454c	27752	Blautia hansenii
 801f8d811a094d96	27754	Bacteroides eggerthii
 e737e0476f05471f	27755	Dorea formicigenerans
+0065da8ad05843d7	27756	Ruminococcus torques
 78c00a7340ad4d90	27757	Clostridium nexile
+3bdce5607dcc4aee	27758	Coprococcus comes
 09097fdab8ab45e1	27759	Coprococcus eutactus
+977e04c79d1c48bb	27760	Ruminococcus callidus
+c3a35055e1fe4328	27761	Coprococcus catus
+a7fa067100d144c5	27766	Faecalibacterium prausnitzii
 ad101f6467284cd3	27768	Faecalibacterium prausnitzii
 3359d6c99a4e406b	27796	Lysobacter gummosus
 0f2ed270fac4415c	27799	Klebsiella pneumoniae subsp. pneumoniae
 c866d50ef52742c9	27807	Acidiphilium acidophilum
 edb6ea6079b44c75	27808	Gordonia amarae
+f8d92ec70391444f	27823	Streptococcus constellatus subsp. constellatus
 7b659b719e624e04	27824	Gemella morbillorum
 4b8a90c082194ada	27836	Staphylococcus warneri
+18749c7711004b68	27840	Staphylococcus capitis subsp. capitis
 937d36a8b6794e9f	27841	Staphylococcus capitis subsp. capitis
 8102a1bc769444a5	27843	Staphylococcus capitis subsp. capitis
 de051ce3d3414c09	27844	Staphylococcus hominis subsp. hominis
 ad7c8587eae14a44	27845	Staphylococcus hominis subsp. hominis
+c69a8cb717f54d88	27848	Staphylococcus simulans
+e5c9431caed54fa6	27852	Fusobacterium necrophorum subsp. necrophorum
+0256364a592b4991	27865	Carnobacterium maltaromaticum
+6055102149ca41ac	27869	Salmonella enterica subsp. enterica serovar Newport
 fee05e2f25ac4a9e	27872	Capnocytophaga ochracea
 d4bc640cc264408d	27883	Pasteurella aerogenes
 0c155d9c216c4e4c	27886	Methylobacterium organophilum
 560d848ff55044fb	27893	Nostoc sp.
 d8c491a063ad4d23	27898	Anabaena sp.
 aeda7c623df84db1	27919	Bifidobacterium pseudocatenulatum
+929b94e8a62046a7	27921	Mycoplasma opalescens
 6a9ea5c27c6c4566	27923	Myxococcus xanthus
 e10800c1a1d34b98	27924	Myxococcus xanthus
 c7b6ed57b9c74457	27925	Myxococcus xanthus
 a5720ebc74ff4226	27926	Myxococcus sp.
 cedf854bfb7b4842	27927	Myxococcus xanthus
+5bdb3dcd85bb46d6	27950	Chryseobacterium indoltheticum
 2a79e3ffbed04cc3	27956	Streptococcus agalactiae
 b4a87226eeff424d	27958	Streptococcus uberis
 f5c5a99a0ee64885	27969	Vibrio parahaemolyticus
@@ -584,24 +898,33 @@ c8db452d8c5b4e8d	27985	Enterobacter sp.
 c11909bc58dc4c3f	27993	Leclercia pneumoniae
 c338133242d54255	27996	Pantoea ananatis
 84321bde681d4ef0	29002	Pantoea agglomerans
+8acc8532c73f4844	29004	Cronobacter sakazakii
 be83c2af7c934842	29008	Klebsiella aerogenes
 215066bb8e1d42a9	29010	Klebsiella aerogenes
 2750481ed459488b	29021	Serratia marcescens
 aff945a3d05247de	29052	Mycoplasma hyorhinis
+ac6f0af3fb53407f	29055	Escherichia coli
 3db6e3ec130040d5	29059	Mammaliicoccus sciuri
 f1f9925814294180	29060	Mammaliicoccus sciuri
 6ce0d9d996a64be4	29061	Mammaliicoccus sciuri
 cb3965fff7ef4b20	29062	Mammaliicoccus sciuri
 eeba22484e4c40c1	29063	Citrobacter braakii
+9fef2ee39b454107	29065	Clostridium leptum
 7ba2f3fba58d468c	29066	Eubacterium siraeum
+4b1e799e78e640b6	29068	Sarcina ventriculi
+d5125b1eff154948	29082	Gloeobacter violaceus
+bf4f6c6a8f884ba4	29085	Mycoplasmoides pneumoniae
 cfb3e783b80d420d	29098	Desulfovibrio piger
 04af2bcec665468f	29099	Eubacterium ramulus
 8db8cc514a444835	29133	Nostoc punctiforme
 fffe31c9e08a43ac	29145	Azospirillum brasilense
 73e4169ec5e74299	29148	Bacteroides thetaiotaomicron
+bf37e27c53834421	29149	Ruminococcus gnavus
+5b1b00ed87c34858	29173	Anaerostipes hadrus
 4ee21dc2878747ec	29176	Ruminococcus lactaris
 d29596680a384c44	29181	Escherichia coli
 0141a04d6a684bef	29212	Enterococcus faecalis
+6e4b87af1ba041c7	29214	Escherichia coli
 b66ebed6e3e449e5	29219	Citrobacter braakii
 ecf0e9e307bc4b28	29221	Citrobacter youngae
 a16e5fdb99a94e98	29222	Citrobacter pasteurii
@@ -610,6 +933,8 @@ a16e5fdb99a94e98	29222	Citrobacter pasteurii
 7698eec4f45c4077	29227	Pantoea stewartii subsp. stewartii
 b423d367f2ba4c00	29233	Bacillus subtilis
 27f13045bd1a4e32	29236	Blautia coccoides
+40507d41628e45e7	29250	Fusobacterium perfoetens
+b895f1545efc468f	29256	Neisseria sicca
 e2ef0df498124a90	29259	Neisseria sicca
 003c7004ff8e418f	29260	Pseudomonas aeruginosa
 92e6178b58f846e3	29267	Pantoea cypripedii
@@ -617,52 +942,77 @@ d91e70cc44974050	29272	Dickeya parazeae
 94ed0db8fafa4b87	29276	Brenneria nigrifluens
 0ca66302ec634768	29277	Brenneria nigrifluens
 761a76a401404262	29279	Brenneria nigrifluens
+a4a589a452ee469a	29291	Brenneria rubrifaciens
 4a461b648610411d	29293	Brenneria rubrifaciens
 5c71dbf913954f73	29294	Brenneria salicis
 4c5ed8ee0d28442e	29304	Photorhabdus temperata
+8bb94c44c5c94913	29306	Vibrio vulnificus
 929f57fa442e40e5	29307	Vibrio vulnificus
 1c2ffa422dfe4f08	29327	Phocaeicola vulgatus
 670bf84ef65345c1	29329	Sphaerotilus montanus
 4c50b71350004654	29341	Halobacterium salinarum
+752b6d0968bc4770	29342	Mycoplasmoides pneumoniae
 0e91e5125dcf4e03	29343	Mycoplasmoides pneumoniae
+56e829192c22407d	29347	Pseudomonas sp.
 6c2ac3f5d903405e	29352	Burkholderia diffusa
+45811f9eb1ad4eb1	29358	Pediococcus damnosus
 3d9572d72b4b4238	29359	Pectinatus cerevisiiphilus
+4a28632499ab41a0	29366	Chloroflexus aurantiacus
+9a49a617e601486b	29399	Cutibacterium acnes
 c4319f80d5c1452a	29411	Nostoc sp.
+28bc23d709734832	29417	Escherichia coli
 a15b6bf658134dcc	29418	Metamycoplasma canadense
+23568a73c52a49eb	29419	Mycoplasma ovipneumoniae
+122d359c22a040c1	29424	Burkholderia cepacia
+87a11239eb8d4153	29425	Escherichia coli
 071f42d9500d46fc	29428	Campylobacter jejuni subsp. jejuni
 81aa2759554c4988	29473	Yersinia ruckeri
+3f0838afe3cd4775	29479	Lysobacter antibioticus
 8971dc3f298840ed	29482	Lysobacter brunescens
 4fc7bd1ca21f4979	29484	Lysobacter brunescens
 b7ef11a23ce24667	29487	Lysobacter enzymogenes
 b244bfc9fad14638	29489	Lysobacter gummosus
 e155328ceb924fe8	29510	Stenotrophomonas maltophilia
 330997a865f149ce	29514	Streptococcus pneumoniae
+1090bfd27c5c4652	29522	Aggregatibacter actinomycetemcomitans
+c746289c09d94602	29523	Aggregatibacter actinomycetemcomitans
 d47cbe234abe4c15	29543	Wolinella succinogenes
 d370d32edcfe4053	29544	Cronobacter sakazakii
 d914c4e2ffa34e09	29545	Avibacterium paragallinarum
 23570e0be6754487	29547	Oceanospirillum maris
+eaf1d104999d4438	29571	Mycobacterium malmoense
 06e841af4261485b	29572	Odoribacter splanchnicus
+a78fb6f12e514815	29573	Erwinia mallotivora
 1d2c2b8f6b184a1c	29577	Desulfovibrio desulfuricans subsp. desulfuricans
 30b9dff944be48cf	29590	Flavobacterium sp.
 6150f98cffab4781	29605	Haloferax volcanii
 f47f64543d5e4ba6	29611	Myxococcus stipitatus
 3974e2aaaf3a4009	29622	Stigmatella aurantiaca
+79dfb616a9894d94	29628	Salmonella enterica subsp. enterica serovar Newington
 bd200060ca5c49fb	29631	Salmonella enterica subsp. enterica serovar Typhimurium
 b8413565adf740f7	29632	Serratia marcescens
 63cf696f79a741b8	29633	Serratia marcescens
 4f50e53478084592	29635	Serratia marcescens
+a25d8e10853b4dc7	29644	Lactobacillus farciminis
 67037ea2179f4bbe	29660	Pseudoalteromonas undina
+5b20750cea5642c7	29663	Staphylococcus intermedius
 ddd3eb0713894a4a	29665	Klebsiella pneumoniae subsp. pneumoniae
+f151212a170946fe	29678	Mycobacterium austroafricanum
 30e2021d04724e75	29681	Saccharopolyspora rectivirgula
 c5c5d0b4511847e0	29703	Bibersteinia trehalosi
+87996888dbc54767	29707	Azospirillum lipoferum
 6bcf837f9b934863	29710	Azospirillum brasilense
 613adad65de1498b	29716	Mycobacterium szulgai
 b467b2753c61497b	29723	Aerococcus urinaeequi
+3f8d06081e11417a	29729	Azospirillum brasilense
 747b7583adf54c6b	29730	Bacillus thuringiensis
 a1a4a90c087742f0	29750	Macrococcus caseolyticus
 0a64711806244c2d	29771	Bacteroides fragilis
+a26d442d039349f8	29797	Terrisporobacter hibernicus
 a7cab2d63ef84885	29800	Alistipes putredinis
 2f790f9437a24684	29806	Streptomyces celluloflavus
+edbb32a9fef744d5	29833	Yersinia pseudotuberculosis
+fd3604a665404579	29837	Sphingomonas paucimobilis
 f8c47e9830034c30	29841	Jeotgalibacillus marinus
 a26a3bdaf3904722	29842	Escherichia coli
 f140253595924342	29845	Serratia fonticola
@@ -670,15 +1020,23 @@ a1d76e4b43b04c72	29851	Providencia stuartii
 c600b187cb2c47ee	29853	Morganella morganii subsp. morganii
 20ce34fc14004362	29884	Morganella morganii subsp. sibonii
 e9ec2d034f884f30	29885	Staphylococcus warneri
+30330eff90904e07	29897	Chryseobacterium indologenes
+e48277be5902480a	29900	Clostridium spiroforme
 a75eca9d69094d0f	29904	Pantoea agglomerans
+b456afe964d14e12	29905	Proteus vulgaris
+fb8c9e5d02364381	29907	Shimwellia  blattae
 fb1b3c7024c44826	29908	Yersinia ruckeri
 af8a9cca138945df	29909	Yersinia intermedia
+93c176b4feb942aa	29911	Yersinia kristensenii
 259860c5e2d64d99	29913	Yersinia enterocolitica subsp. enterocolitica
 f31e54fdc95548fb	29915	Phytobacter diazotrophicus
 111278c6a9a64a3b	29918	Kosakonia cowanii
+3e0a5c6c478f474d	29926	Hafnia alvei
 6d12ce24731e4e85	29927	Hafnia paralvei
 28efee2f86544286	29934	Salmonella enterica subsp. diarizonae
+f13624deadda4c4c	29935	Citrobacter youngae
 84b17b0ea0ea4f0f	29936	Citrobacter koseri
+79f7311b3fd9409a	29944	Providencia rettgeri
 d473f51adb814e5e	29948	Paenibacillus validus
 f10c2bb3fa524c8e	29968	Staphylococcus haemolyticus
 b06cd94960c6417e	29973	Staphylococcus cohnii subsp. cohnii
@@ -694,7 +1052,12 @@ bcee0c67955c4c3f	31180	Streptomyces lasalocidi
 832e66849333444e	31275	Neisseria meningitidis
 d05fd94ac95d489d	31278	Escherichia coli
 acf80e31432d456f	31284	Heyndrickxia faecalis
+d68a459a14bb4a41	31311	Klebsiella pneumoniae subsp. pneumoniae
 92cb8d0473de4ca3	31361	Escherichia coli
+16fd38c9eb704729	31363	Paraburkholderia acidicola
+2fb0ce62b3864fa9	31377	Streptococcus ratti
+2f3e2ff23f2f4c4d	314	Lactobacillus acidophilus
+ce30e3cb1d8342b1	31420	Pantoea ananatis
 5c5ba5666da74b0f	31437	Bordetella bronchiseptica
 12df5431d3234f74	31475	Streptococcus agalactiae
 c1ad39d5596a4233	31482	Pseudomonas aeruginosa
@@ -707,35 +1070,64 @@ e86b98234d8d451f	31532	Chromobacterium subtsugae
 cfe46b661abc4f31	31550	Thermoanaerobacter ethanolicus
 7685961438fe433c	31559	Stenotrophomonas maltophilia
 6da154d277494967	31571	Burkholderia sp.
+c3ec1d13f0f9451f	31608	Escherichia coli
 6a0769136ba64546	31609	Pasteurella multocida subsp. multocida
 ee6d384835054a90	31610	Pasteurella multocida subsp. multocida
 a1ce3cd7a50749b2	31616	Escherichia coli
 f90c1be970dd479f	31626	Tatumella punctata
+33bbd436aeba4ea2	31628	Tatumella terrea
+7c2676aa9b8e4af4	31629	Tatumella terrea
+b79f5af244af4c9e	31630	Tatumella ptyseos
+7e4da11c9043447e	31631	Tatumella ptyseos
 b61091e80e824bd5	31636	Rhodococcus jialingiae
 3ebd3f66ac2542a7	31646	Klebsiella pneumoniae subsp. pneumoniae
 c0bf8138f64843e2	31749	Agrobacterium fabrum
 ea17ae0157d9444d	31752	Pseudomonas putida
 d085455fa7c94c81	31898	Raoultella ornithinolytica
+57fbaf0b169449fb	31922	Xanthomonas campestris
+2ea775f550a5485c	31953	Neisseria gonorrhoeae
+81d1a0209ec741e8	33015	Pseudomonas putida
 2906502e7c0445a7	33028	Pluralibacter gergoviae
 493da284beb34476	33031	Corynebacterium genitalium
+c88c5304cbc843ae	33048	Dialister pneumosintes
+1801b9de100940a3	33062	Salmonella enterica subsp. enterica serovar Typhimurium
 d84e9169e39e44bd	33068	Salmonella enterica subsp. enterica serovar Typhimurium
 a252a7d509cd4cca	33072	Lelliottia amnigena
+c00858ba02ac4f8f	33078	Moraxella ovis
+823bf49596b941d9	3308	Nocardia farcinica
 07b47f109a564413	33089	Eubacterium brachy
 1d7afb2e50da4ffa	33090	Listeria innocua
+1dcbc37b60a444be	33099	Eubacterium nodatum
 04f524ad759145f1	33105	Serratia ficaria
 f8538f8124da4cc0	33113	Clavibacter michiganensis subsp. sepedonicus
+af812bb7e5d048b2	33114	Clavibacter michiganensis subsp. insidiosus
+a33c382fe45e49c3	33125	Vibrio splendidus
 d796826ba94946cd	33127	Halomonas aquamarina
+40ea9e1d5f5b4f67	33141	Porphyromonas macacae
+a87ef03a558744d4	33147	Vibrio vulnificus
 ad035abdf97c474f	33148	Vibrio vulnificus
 ca7651664dcd48d6	33149	Vibrio vulnificus
 33d3e6d6eaea453c	33153	Legionella pneumophila subsp. pneumophila
+5ae39fb149c24553	33155	Legionella pneumophila subsp. pneumophila
+a2cad9f571a249aa	33170	Halobacterium salinarum
+c6b39e531c2f4737	33171	Halobacterium salinarum
 544d81a1d5b54a38	33173	Halomonas elongata
+3b3018ff99b144f6	33179	Cutibacterium acnes
 73b4e5334a1e4082	3318	Nocardia farcinica
 5595735d1cfb46cd	33184	Prevotella denticola
+c3aad205303549c4	33186	Enterococcus faecalis
 ac06ea95149c482b	3320	Streptomyces flavovirens
+7409491c6af44d5a	33202	Edwardsiella ictaluri
 3615efb60a10415b	33203	Lysinibacillus sphaericus
+2c4c6133a9f64b57	33215	Legionella pneumophila subsp. pneumophila
+bf95ee67179e44e5	33216	Legionella pneumophila subsp. fraseri
+4b7478b9603e4442	33217	Legionella bozemanae
 e7df0acb84da43ba	33222	Ligilactobacillus saerimneri
 01d1567805034f70	33224	Shewanella hanedai
 c8ff880fe789484c	33237	Campylobacter concisus
+a79859a80bbc4d32	33242	Dickeya paradisiaca
+d0dd7564b3f24c9d	33243	Pantoea agglomerans
+f613c029b6084f38	33245	Erwinia tracheiphila
 0d904dd59c724b79	33246	Campylobacter fetus subsp. fetus
 72daeff2d5d54bd7	33247	Campylobacter fetus subsp. fetus
 2ef2a6fb5f1345af	33248	Campylobacter fetus subsp. fetus
@@ -743,11 +1135,16 @@ c8ff880fe789484c	33237	Campylobacter concisus
 d97d26e68f594ddd	33252	Campylobacter jejuni subsp. jejuni
 4bb8afd7dcd8420f	33253	Campylobacter jejuni subsp. jejuni
 4c7f773cc00f49de	33265	Thermoanaerobacter acetoethylicus
+8167320170da40fb	33267	Atopobium minutum
+6aa4522c920248ba	33269	Hoylesella oralis
 a4e4c791b9b74a33	33276	Anaerovibrio lipolyticus
+802c93c4527f4d1c	33279	Legionella dumoffii
 4e83962026cd487a	33288	Acetivibrio cellulolyticus
+1547059420644cd0	33291	Campylobacter jejuni subsp. jejuni
 8e5f8377b0754387	33297	Legionella gormanii
 da34a25f9ce944b3	33304	Acinetobacter baylyi
 9af35273c9804508	33305	Acinetobacter baylyi
+57e5bd3208a4426d	33313	Weissella paramesenteroides
 1eda7d6d4da54890	33321	Hoylesella oralis
 0d5b6bfc2ebf4c2f	33322	Hoylesella oralis
 b926c8c7fe4440b5	33323	Lactobacillus gasseri
@@ -765,25 +1162,33 @@ a93fa8ba9c5549a1	33337	Oceanospirillum beijerinckii
 f68d4cbfe34a4120	33344	Legionella micdadei
 89da8fea1e3a4ca8	33345	Legionella micdadei
 b2470acf534c4614	33346	Legionella micdadei
+8bb00d7b1c5d43c8	33348	Pseudomonas aeruginosa
 f693c91fbf2a4212	33352	Pseudomonas aeruginosa
 9828843db8dd43e9	33353	Pseudomonas aeruginosa
 c5cada21580746c2	33354	Pseudomonas aeruginosa
+99ff19f36207458f	33358	Pseudomonas aeruginosa
+6198800886af4b61	33359	Pseudomonas aeruginosa
 51c6f32490d14985	33379	Edwardsiella hoshinae
 5df70b3c2035468d	33384	Aggregatibacter actinomycetemcomitans
 511f009886584bbc	33386	Sebaldella termitidis
+2b62acfb52be436b	33387	Campylobacter ureolyticus
 7b7bbde5702d436d	33389	Aggregatibacter aphrophilus
 fd0bc69d9bd44069	33390	Haemophilus haemolyticus
 6d5ba4503123492e	33391	Haemophilus influenzae
+207ea01aab6349aa	33396	Mannheimia haemolytica
 c40c037df3a44974	33398	Streptococcus equi subsp. equi
 4cd7f2c7befc4767	33399	Streptococcus gordonii
 f607379ca1c74b04	334	Lacticaseibacillus paracasei
 a0e18898f7444e36	33400	Streptococcus pneumoniae
+cc879e19dbff4122	33405	Desulfovibrio oxamicus
 c964e546149a4def	33415	Actinobacillus suis
 78c8c5dbc8fa41a6	33420	Proteus vulgaris
 eccdbed606914600	33428	Pluralibacter gergoviae
+f2eeff6209d74fa6	33430	Shimwellia  blattae
 1d9b64a1e275474b	33445	Acetobacter pasteurianus subsp. pasteurianus
 a9b4e4ba2973433b	33447	Gluconobacter oxydans
 f6208982580b4a7c	33458	Salmonella enterica subsp. enterica serovar Typhi
+7e34b4c585ad4ee6	33463	Acidiphilium cryptum
 47a6b5175d72494d	33464	Mycobacterium austroafricanum
 5a9c922c687f4f66	33465	Mycobacterium austroafricanum
 a991d2a826a14f84	33466	Vibrio diazotrophicus
@@ -796,51 +1201,67 @@ bfc0ed78dbc9423a	33496	Klebsiella oxytoca
 b101483266ab4db5	33500	Haloferax mediterranei
 ac331a83ddc84e7f	33513	Pseudomonas alcaligenes
 4f678e1da4ba4be5	33519	Proteus penneri
+a537e178141745a2	33520	Treponema denticola
 7444bb089e934406	33521	Treponema denticola
 56e8d30767f14617	33532	Caulobacter vibrioides
 d5fce241ba5b4c4b	33540	Veillonella caviae
 fcbe45324ee1410d	33547	Prevotella corporis
 d608613ad4434cc2	33553	Mycoplasma pullorum
+59192a1d5a5e4d44	33559	Campylobacter coli
 4b074715c3e442a6	33560	Campylobacter jejuni subsp. jejuni
 dc08aad9c76341a8	33562	Campylobacter sputorum biovar sputorum
 29a364e6bc684923	33563	Prevotella nigrescens
 4514f6edb16a4823	33564	Grimontia hollisae
 7e8cce0f44e1460f	33566	Clavibacter michiganensis subsp. tessellarius
 8c120df2bec64cab	33573	Segatella oris
+b18c938bb17641b9	33574	Segatella buccae
 e98223e5d95e42bb	33577	Actinomadura cremea subsp. cremea
 0a7016e57a02462e	33581	Actinomadura vinacea
 b27906d2bf3f4b3e	33584	Pseudomonas aeruginosa
 d1c8fbf0ea2c426b	33585	Alcaligenes faecalis subsp. faecalis
 bfa4253471534524	33591	Staphylococcus aureus
 c46bebd5a88241c4	33592	Staphylococcus aureus
+5940add780854658	33593	Staphylococcus aureus
 f1ea6fc961c742af	33612	Capnocytophaga sputigena
 d54aceb31f174dff	33619	Acidovorax cattleyae
 04ba3960d4a349f6	33620	Lactobacillus amylovorus
+051ba29bb97144a0	33623	Legionella jordanis
 58f4f66ea0364f42	33637	Yersinia kristensenii
 33e99f9633f147b3	33638	Yersinia kristensenii
 95938baebafc40e6	33639	Yersinia rochesterensis
 9cb62e791c7a4e2e	33641	Yersinia frederiksenii
+9579d3e166bb4f11	33642	Yersinia frederiksenii
 744c67a72fd44cf7	33646	Yersinia intermedia
 97894387bffc4fc4	33647	Yersinia intermedia
 ef30ec7a7d3a4228	33648	Yersinia intermedia
+d9ca60321d2b4737	33650	Escherichia hermannii
+c81335e83b9f4f55	33653	Vibrio mimicus
 c988b246d3dc4d57	33654	Vibrio mimicus
 9c2894ee6ac943ed	33655	Vibrio mimicus
+40cbd2616b2b40ce	33658	Aeromonas salmonicida subsp. salmonicida
 fb581c5e44454372	33659	Aeromonas salmonicida subsp. achromogenes
 69721266b63046be	33662	Pseudomonas boreopolis
 83a6e1779cc948f9	33672	Providencia stuartii
+b120c9eb02cf4d8a	33689	Segatella buccae
+ee3ca172773a4f8c	33690	Segatella buccae
 b181356b7cf644fa	33691	Segatella buccae
 752c5ef30ff64c14	33693	Fusobacterium periodonticum
 37f60933afe64601	33697	Ureaplasma parvum
 981c21f40f4448a5	33700	Providencia stuartii
+389fbcded7e1400f	33715	Aliivibrio fischeri
 f9120e8515384df8	33728	Mycobacterium ulcerans
 df9be4d75fc44dd3	33733	Legionella pneumophila subsp. pneumophila
 d9ce8c602cda4b4e	33735	Legionella pneumophila subsp. pascullei
 cca52e784f2b4996	33736	Legionella pneumophila subsp. pascullei
+5e6dabbb1e054a88	33737	Legionella pneumophila subsp. pascullei
 355122c8a1674653	33743	Thermoanaerobacterium thermosulfurigenes
 3d8417a8a8eb403b	33748	Streptococcus downei
+1602652cf2034e97	33753	Staphylococcus auricularis
 1af5bc7d657f4020	33755	Halorubrum sodomense
 666114a76a84437c	33761	Legionella oakridgensis
 e86833a397b64db7	33775	Mycobacterium porcinum
+c66c863a1c8d4288	33780	Escherichia coli
+4c47566598054b49	33787	Vibrio alginolyticus
 38f55823700444fb	33788	Vibrio natriegens
 c4c08a9b4b7849cd	33793	Atopobium parvulum
 ea65c45576364188	33809	Vibrio fluvialis
@@ -854,6 +1275,10 @@ d7fb96ac15354681	33816	Vibrio vulnificus
 9936728496f24f1f	33838	Vibrio alginolyticus
 a3cfed00e0f14949	33840	Vibrio diabolicus
 936eba7bcbb04399	33841	Vibrio furnissii
+0ff69ee1ad0b4853	33844	Vibrio parahaemolyticus
+c8f0a449575e4401	33845	Vibrio parahaemolyticus
+ef5513a904e74863	33846	Vibrio parahaemolyticus
+8fc14b37af4b4e5b	33847	Vibrio parahaemolyticus
 9299fc01833e4f02	33850	Ewingella americana
 36b7baac91a74a74	33851	Ewingella americana
 1a36750eed5748dc	33853	Ewingella americana
@@ -861,36 +1286,51 @@ a3cfed00e0f14949	33840	Vibrio diabolicus
 69a68d10a88e4014	33892	Desulfobotulus sapovorans
 e154766169214dd3	33894	Vibrio nereis
 0019de34ca6a4bf3	33898	Vibrio natriegens
+17306ed6c16e4fb9	33907	Aeromonas media
 910b00550acd4a10	33908	Escherichia coli
+b78f28ca86514c0b	33909	Sulfolobus acidocaldarius
 4dfb6dea8b6c45cf	33910	Sarcina maxima
 36f0008c6ce04377	33913	Xanthomonas campestris pathovar campestris
+6f8cda74fe9b4589	33923	Thermus thermophilus
 c6fa7336391444b6	33925	Actinomadura viridilutea
 f5341533e58743ff	33926	Neisseria macacae
 c5bca2cdc72247ef	33929	Haemophilus influenzae
 976699ede5184c2f	33930	Haemophilus influenzae
+9227bf596e18457a	33940	Haemophilus ducreyi
 67498d63ae2d4824	33950	Alcaligenes faecalis subsp. faecalis
+5ed94610802349d5	33958	Elizabethkingia miricola
+12dc4a8e68eb42ae	33967	Haemophilus parainfluenzae
 08533b177af34134	33973	Leifsonia xyli subsp. cynodontis
 d98337a250d64433	33974	Leifsonia xyli subsp. xyli
+d2b92ebef97f4e52	33977	Photobacterium angustum
 710ec3a1deb14d52	33988	Pseudomonas aeruginosa
 9cf3e66985c349e3	33996	Acidovorax konjaci
 3c4f1f29f4134448	35009	Azotobacter nigricans subsp. nigricans
+925c1f21d9a5445b	35020	Lactobacillus murinus
+a156ba881c3c469a	35028	Klebsiella aerogenes
 474cf4b1e090492a	35029	Klebsiella aerogenes
 92547a60532c4447	35030	Enterobacter hormaechei subsp. steigerwaltii
+82381524507546d0	35037	Streptococcus oralis
 5027601d153844aa	35040	Lacrimispora saccharolytica
 825b1fefd62c4ea3	35050	Edwardsiella hoshinae
 3a36577f8c934a28	35053	Cereibacter sphaeroides
 ba3e7f97002f4d15	35055	Cereibacter sphaeroides
+e1d39979d864437a	35056	Haemophilus influenzae
 313766685e5e4e77	35059	Sporohalobacter lortetii
+e7f1e96d87224ca3	35072	Legionella feeleii
 1fa014286f914241	35074	Deinococcus proteolyticus
+20f15cf9f8ca4ccb	35084	Vibrio harveyi
 fcc2538356a44765	35085	Collinsella aerofaciens
 a405e049238d4ab3	35086	Bordetella avium
 fd91e27df2ce4e46	35088	Streptococcus pneumoniae
+b118716b253746b6	35092	Saccharolobus solfataricus
 dfecccf3a008445e	35098	Anaerococcus tetradius
 30d32add83fa493b	35109	Saccharothrix longispora
 b997a749d7704e8b	35113	Magnetospirillum fulvum
 9a4617925c35491c	35115	Desulfovibrio vulgaris subsp. vulgaris
 e1ea47092fbe4074	35117	Vibrio parahaemolyticus
 077874045e244268	35130	Burkholderia stagnalis
+0659af3ea93240e7	35149	Rodentibacter pneumotropicus
 c4eb637ad4874bcf	35151	Pseudomonas aeruginosa
 fde736261f2a4acf	35153	Mycobacterium pulveris
 d9b15c5dd55c4b12	35158	Filomicrobium fusiforme
@@ -902,26 +1342,34 @@ cd4c2ecd952d45c9	35217	Campylobacter hyointestinalis
 64d2a8bfe7654de2	35219	Mycobacterium fallax
 514c0b2f1305475a	35221	Campylobacter lari
 d94230c7adc343a3	35222	Campylobacter lari
+f95e1a6303a74b99	35223	Campylobacter lari
 9cbb2c24713e4053	35224	Campylobacter curvus
+ca341cdf8f8e4da2	35236	Yersinia aldovae
 2a3c5bad11804e31	35244	Blautia celeris
 9c403ce031ad41e9	35246	Streptococcus equi subsp. zooepidemicus
 8bd6cf66050e42ed	35248	Legionella sainthelensi
 42c8242269a14404	35251	Legionella pneumophila subsp. fraseri
+90e9c9b9a8b74412	35254	Burkholderia cepacia
+57ed92e58d72476f	35255	Shewanella hanedai
 3cb7bd50b7c94c30	35262	Spiroplasma velocicrescens
 360958cc611a4f6e	35271	Xenorhabdus bovienii
 083727fd6b704185	35272	Xenorhabdus poinarii
+b76992d6466a4ee5	35289	Legionella pneumophila subsp. pneumophila
 5fef26bbcd8143ab	35296	Clostridium cellulovorans
 90ef251aec734704	35300	Legionella maceachernii
 81f151e4ff8c4c40	35303	Legionella erythra
 8f921f0cf38e4f0c	35307	Oerskovia enterophila
 04f8d5b84f3b4777	35308	Prevotella denticola
+dd908089f7564705	35309	Segatella buccae
 3d1cb69d0c624d21	35398	Pantoea stewartii subsp. indologenes
 5327caaeebf64bc3	35400	Pantoea ananatis
 4843928b2129408b	35402	Pseudomonas diazotrophicus
 5894761e7cdb4a66	35407	Pseudonocardia compacta
 fa55f50ca42c4172	35408	Flavobacterium chilense
 fa58975ef17b440e	35410	Weissella halotolerans
+3aa138b1d26c4ae8	35412	Weissella minor
 92802b16f3d1491e	35421	Escherichia coli
+f43e911fcaf84de7	35423	Ensifer fredii
 d6cbf3a37c544323	35456	Erysipelothrix rhusiopathiae
 fdb31fccceb842b0	35460	Erysipelothrix rhusiopathiae
 3dd31d10da44404b	35462	Erysipelothrix rhusiopathiae
@@ -935,7 +1383,11 @@ c8afdd3678984d46	35490	Proteus mirabilis
 81230051dba849f2	35497	Proteus mirabilis
 7d5b9a36e38644b6	35498	Proteus mirabilis
 55c4de7251364ef0	35499	Proteus mirabilis
+20d1eb5fbd284f17	35503	Proteus mirabilis
+ff4760ff9d354e3f	35505	Proteus mirabilis
+524b3627d2fb44fa	35506	Proteus mirabilis
 112cd0d0d0804fb3	35508	Proteus mirabilis
+1d62f80f7df74d54	35509	Proteus mirabilis
 8b0ac1e17e3e46e3	35510	Proteus mirabilis
 081ae16c21834b5e	35511	Proteus mirabilis
 dc72641eebb04a10	35512	Paracoccus pantotrophus
@@ -946,26 +1398,38 @@ ef698c339b644c1f	35539	Staphylococcus gallinarum
 e9de34819337479b	35545	Legionella bozemanae
 e7e0f9805a6e4bb7	35547	Staphylococcus epidermidis
 ea25c4a007ea4c08	35549	Enterobacter hormaechei
+a5ae7aaff0fc477f	35554	Pseudomonas aeruginosa
 76f2adceb5ef4110	35557	Streptococcus gordonii
 d37bddc8bb22450d	35558	Neisseria meningitidis
 1069604796604f6e	35559	Neisseria meningitidis
 33d65f7912b94ae5	35560	Neisseria meningitidis
 c791c9367e8e40e1	35586	Carnobacterium maltaromaticum
+225c0ef08ab94bd3	35600	Klebsiella oxytoca
 7f26ca445f494d82	35613	Providencia heimbachae
 45eccb4bac924195	35624	Aeromonas veronii
 ef8a23b261fd4207	35652	Exiguobacterium aurantiacum
+d937709147904d4a	35654	Aeromonas hydrophila
+594a6bcbd13c4b13	35655	Alcaligenes faecalis subsp. faecalis
 47bc4526caf14324	35656	Sphingobacterium multivorum
+2d9c7d6798bd4f76	35659	Proteus mirabilis
 dcd7bfa1cc4e4a2c	35661	Staphylococcus capitis subsp. capitis
 cbf177327dea4e6c	35667	Enterococcus faecium
 3877930cb1ad43ed	35668	Streptococcus mutans
+796934292d03405d	35669	Yersinia aleksiciae
+6c6cf862822140fa	35674	Xanthobacter autotrophicus
 5a8172edd96544ac	35676	Halobacillus halophilus
+e16919b03e4b4aac	35678	Natronomonas pharaonis
+f3ac3a6a11384fbf	35681	Paenibacillus azotofixans
 39a3cd2314764dcd	35682	Streptomyces kunmingensis
 d9119fe5d32c4686	35690	Brevibacillus brevis
 0933230abf484931	35692	Corynebacterium tuberculostearicum
 3210fc7fdeb14ad2	35702	Clostridium beijerinckii
+e9a7377d16fb4154	35704	Clostridium scindens
 b608bb50f0cb4661	35712	Mycobacterium avium subsp. avium
 12c2198bdc7b4758	35715	Mycobacterium avium subsp. avium
 cd38399d33864c15	35717	Mycobacterium avium subsp. avium
+5d5a96bad37c4d97	35733	Mycobacterium tuberculosis variant bovis BCG
+882883fedf6944db	35734	Mycobacterium tuberculosis variant bovis BCG
 70a2deda3d264c54	35740	Mycobacterium tuberculosis variant bovis BCG
 5ee0cb9a03174736	35746	Mycobacterium tuberculosis variant bovis
 e12c368dda6149b7	35747	Mycobacterium bovis
@@ -975,14 +1439,20 @@ b982dfa880f342dd	35754	Mycobacterium fortuitum subsp. fortuitum
 cb58c44be597419f	35755	Mycobacterium senegalense
 874440cfc52e43b3	35756	Mycobacterium gordonae
 c97c2766c1774ffe	35760	Mycobacterium gordonae
+034fa5af5f3c40e6	35761	Mycobacterium intracellulare
 095f2e9ac367435d	35765	Mycobacterium avium
 c9a5d49b936342c6	35767	Mycobacterium avium
 0d7bb33b4b034538	35775	Mycobacterium kansasii
 bcb18d65254542f6	35785	Mycobacterium parascrofulaceum
+d0356bc4d77c4fc7	35799	Mycobacterium szulgai
+01a0722cb9b54493	35818	Mycobacterium tuberculosis
 f77d5037ecd04311	35822	Mycobacterium tuberculosis
+8c59aa66620c4084	35838	Mycobacterium tuberculosis
 804d639106f44ee5	35841	Mycobacterium xenopi
+fd14154b7378469b	35844	Staphylococcus aureus subsp. anaerobius
 6c7ab5e045484ec2	35850	Legionella dumoffii
 b78221fb675d49a5	35855	Mycobacterium fortuitum subsp. fortuitum
+1b025768b2e74e13	35879	Xylella fastidiosa subsp. fastidiosa
 6dbfec2fab404dbd	35881	Xylella fastidiosa subsp. fastidiosa
 5121b44362ab424a	35892	Herbaspirillum seropedicae
 13186683e9b3469c	35898	Ilyobacter tartaricus
@@ -990,22 +1460,30 @@ b78221fb675d49a5	35855	Mycobacterium fortuitum subsp. fortuitum
 ee17e1e097ac449c	35905	Acidiphilium rubrum
 3e9737a2f00b44b0	35913	Ruminococcus gnavus
 8a8e2d0333bd4550	35914	Bifidobacterium bifidum
+8988d5ce5a9442d9	35915	Ruminococcus torques
 7948beea66094336	35920	Campylobacter jejuni subsp. jejuni
 e11f585771874f40	35922	Campylobacter jejuni subsp. jejuni
 fbf79f25fc2b44b5	35927	Microbispora rosea subsp. rosea
 d90943fcf18d4446	35935	Xanthomonas translucens pathovar undulosa
+63941b9ba31e47b2	35937	Xanthomonas vesicatoria
+28e932ffa5e642fe	35950	Aeromonas media
 9d07145c1f914c5e	35951	Blastomonas natatoria
+b1f301d3a5664f54	35953	Enterobacter asburiae
 c8ca9f42336e4f21	35958	Giesbergeria anulus
 399ea14ba0834b5a	35964	Shigella boydii
 eb41915a939e4ccd	35973	Phenylobacterium immobile
 1d112e1701c44621	35979	Capnocytophaga canimorsus
 339bfba991f2463f	35983	Staphylococcus epidermidis
 4ae83d8e9e2442c2	35984	Staphylococcus epidermidis
+21b81814100b459b	3624	Clostridium perfringens
 93f2458542b64519	3626	Clostridium perfringens
 84de6483d8764061	3629	Clostridium perfringens
 8a9accc97bf148ce	367	Levilactobacillus brevis
+70b24ec7dcf84898	373	Corynebacterium xerosis
+a52b2016c15a4d8a	39049	Pantoea agglomerans
 46ff16ac05f8458e	39183	Salmonella enterica subsp. enterica serovar Typhimurium
 ac6c87e308fb45d5	39184	Salmonella enterica subsp. enterica serovar Dublin
+f4778fdd32e1452a	39324	Pseudomonas aeruginosa
 a49b1c4d26b2476c	39356	Burkholderia diffusa
 399a0900939643d0	39368	Pseudescherichia vulneris
 e42b9c76c88c472a	39403	Escherichia coli
@@ -1021,13 +1499,17 @@ ce3ebff34d3d4b96	39920	Streptococcus equi subsp. zooepidemicus
 38e3a38c05564aa0	4209	Klebsiella pneumoniae subsp. pneumoniae
 b8cfd96f0c324076	4244	Gordonia hongkongensis
 3ee873dfabb34cd5	4259	Clostridium acetobutylicum
+27173a74ca784cff	4277	Rhodococcus erythropolis
 7585fd619ceb449a	4284	Yersinia pseudotuberculosis
+9013eb160f4f4db5	43000	Methanococcus maripaludis
 ec1a9ac7e8504eff	43001	Yokenella regensburgei
 d06a7448ee134840	43002	Yokenella regensburgei
 efdb1bcb146d4790	43003	Yokenella regensburgei
 51c4b5e2cbe14dde	43004	Yokenella regensburgei
 9c8f12e151ec4f83	43015	Mycobacterium avium subsp. paratuberculosis
 fb1e81adde2641e1	43016	Mycoplasma cavipharyngis
+09fa9b8e5e0e4aa2	43019	Pasteurella multocida subsp. multocida
+d55ca12bd1c14aa5	43049	Haloarcula marismortui
 33ef8dc7ad1b4ef6	43057	Rhizobium rhizogenes
 71ef68df5e014a68	43058	Agathobaculum desmolans
 4f412fa7b96e45fd	43060	Actinomadura yumaensis
@@ -1038,22 +1520,29 @@ fb1e81adde2641e1	43016	Mycoplasma cavipharyngis
 1ae7323482584085	43072	Pantoea ananatis
 1c310adebc814535	43073	Pantoea ananatis
 180b783b04b14a98	43074	Pantoea ananatis
+58c9b749909548ac	43076	Enterococcus saccharolyticus
 1beabb0b902148fb	43085	Lactococcus garvieae
 36724e8773d84cf8	43086	Klebsiella michiganensis
 5c82a283f05b4ac6	43088	Pseudomonas aeruginosa
+22136a269a3640ce	43108	Legionella pneumophila
 60bcf450853c4947	43116	Psychrobacter immobilis
 26f1022463844b8e	43117	Psychrobacter immobilis
 ca6a0e5a6bcc4015	43120	Halanaerobium acetethylicum
 5d677b227fad4510	43121	Lactobacillus johnsonii
 7fc581bcd26646b6	43122	Anaerobaculum mobile
+9bb0ce37af38431c	43123	Cupriavidus metallidurans
+7cc8a4c5c82b401f	43130	Legionella pneumophila subsp. pneumophila
 7a14f40adc314900	43131	Campylobacter jejuni
+f99c76f04e634b2c	43137	Pasteurella multocida subsp. multocida
 9739680f01974f03	43143	Streptococcus gallolyticus subsp. gallolyticus
 52fbdd7a70e546b9	43154	Rugamonas rubra
 7fee0c39ba7e4664	43156	Glycomyces rutgersensis
+363a113ddf7f4d68	43158	Arcobacter cryaerophilus
 7c3f62653d59442f	43159	Arcobacter butzleri
 670a726e39c542c1	43161	Alcaligenes faecalis subsp. faecalis
 d73e101e77ea450b	43162	Citrobacter braakii
 573ce160d04742e6	43163	Haemophilus influenzae
+1349bb66e4bd47e0	43165	Klebsiella oxytoca
 0ca2fcd0b21f4c88	43171	Eubacterium cellulosolvens
 907cba64c8c74b87	43174	Leptotrichia trevisanii
 7744ca5bd3e64a54	43175	Klebsiella aerogenes
@@ -1062,28 +1551,40 @@ d73e101e77ea450b	43162	Citrobacter braakii
 0a2957a4a67b4ebc	43180	Rathayibacter agropyri
 1bb96cbb7b57439b	43183	Bacteroides stercoris
 77ffbf2b653b43ac	43184	Parabacteroides merdae
+dac70f96b67f4abe	43185	Bacteroides caccae
 9c5bc02bf4ad4aff	43186	Enterococcus mundtii
+3d689cf76f4e4052	43198	Enterococcus cecorum
 37afab72b43e4b56	43205	Granulicatella adiacens
 34599d8f00d5479d	43208	Spiroplasma sp.
 96ac2a570a1c4e80	43210	Spiroplasma diabroticae
+e8ee3b240156456f	43243	Bacteroides pectinophilus
 45f2a9b2d428484f	43250	Listeria monocytogenes
 0c66c54e21c447a6	43251	Listeria monocytogenes
+40655183302b46e7	43253	Staphylococcus haemolyticus
 b3a3e9d6f5664e8c	43256	Listeria monocytogenes
 4f0d1c80d1154e20	43257	Listeria monocytogenes
+8d68548c58b4462c	43258	Providencia stuartii
 efe306f0852a4c69	43272	Pseudomonas oryzihabitans
+87ef09c40b9a4e0c	43273	Chryseomonas luteola
+9f7343f0acdf44b5	43278	Eikenella corrodens
 b7a7d5a8c7a54281	43283	Legionella pneumophila subsp. pneumophila
 654a616eacd14698	43290	Legionella pneumophila subsp. pneumophila
 3ae6b3c807e044c0	43291	Cupriavidus necator
+8547a90fc6ae48d9	43297	Serratia marcescens
 584103eedfec4c63	43305	Pseudomonas straminea
 d9c66d923e844578	43306	Listonella anguillarum
 0938f1bbcef84e0a	43309	Listonella anguillarum
 b77641009a394d74	43312	Listonella anguillarum
 73c9eb81560c4196	43316	Pectobacterium wasabiae
+533622d47f9543dc	43319	Empedobacter brevis
+c60c4c2f2da14d65	43325	Pasteurella dagmatis
+9e9118f5680448bb	43326	Pasteurella canis
 4c2977068b734428	43327	Pasteurella stomatis
 65db7cee515141e0	43328	Pasteurella langaaensis
 3eea97268806442c	43337	Pseudoalteromonas denitrificans
 9a9eb60358044d31	43348	Pantoea agglomerans
 dbd9c71326ed480b	43380	Yersinia rohdei
+afa33a4e6cdb4390	43382	Vibrio vulnificus
 7c19d11b01494640	43409	Aeromonas hydrophila
 5f22811854c4463e	43414	Aeromonas hydrophila
 8d18515629bb4d31	43417	Serratia marcescens
@@ -1093,14 +1594,19 @@ ff285e79b0114b36	43420	Serratia marcescens
 c0e1ea680b744c8a	43423	Morganella sp.
 af6b1ed3e2454a31	43424	Serratia marcescens
 938f894ee1ad4c19	43425	Serratia marcescens
+fe51af39ded4438f	43429	Campylobacter jejuni subsp. jejuni
 481ccba5a4f1417a	43437	Campylobacter jejuni subsp. jejuni
 b03b0ab0b5d84fac	43456	Campylobacter jejuni subsp. jejuni
 00a51c02dcaf45ae	43458	Campylobacter jejuni subsp. jejuni
 85249d98098b4f13	43461	Campylobacter jejuni subsp. jejuni
 e7fe43442fef452c	43463	Campylobacter jejuni subsp. jejuni
 444f356652f646dc	43476	Campylobacter coli
+71ff54852d5a4b71	43478	Campylobacter coli
+b9522e0c73fa4982	43481	Campylobacter coli
+9a2484e42a964980	43484	Campylobacter coli
 cfb03c3acb8646c4	43494	Caldicellulosiruptor saccharolyticus
 979249a6ab8f4db2	43496	Streptococcus canis
+d78af5fc249a45fd	43504	Helicobacter pylori
 e23369ce20fd4529	43513	Geobacillus thermoleovorans
 c020962f15994885	4352	Klebsiella pneumoniae subsp. pneumoniae
 ac00131eae7d4e6f	43527	Selenomonas dianae
@@ -1113,14 +1619,20 @@ ce15588d217d4fb9	43544	Mycobacterium avium subsp. paratuberculosis
 ec9ebb6ff7f54974	43551	Listeria welshimeri
 4012b427ba214eec	43552	Achromobacter piechaudii
 8f37fbac58b0433f	43553	Achromobacter piechaudii
+60e230788c60496d	43569	Methanosarcina barkeri
+14b1364deb1a479a	43576	Methanocorpusculum labreanum
 6ef3f176f8f34720	43578	Lactobacillus acetotolerans
 ff041615cdad4035	43579	Helicobacter pylori
 727958977f314e4f	4358	Microbacterium arborescens
 ccbe11dd18d54473	43581	Acidomonas methanolica
+f54ea3a2cec848e1	43587	Pyrococcus furiosus
+8c3fafdfa9d34290	43589	Thermotoga maritima
+d8e8cabb01c747a0	43593	Clostridioides difficile
 17a12ee10df34486	43594	Clostridioides difficile
 93b46f15c02c4798	43596	Clostridioides difficile
 c206a32f36264988	43605	Campylobacter ureolyticus
 534c4297474c493a	43608	Acinetobacter sp.
+b59a14d7a36046c1	43617	Moraxella catarrhalis
 de1a92a61c9c4caf	43618	Moraxella catarrhalis
 82b6249c220942e6	43625	Histophilus somni
 a95719ea25884b3d	43626	Histophilus somni
@@ -1134,23 +1646,37 @@ a95719ea25884b3d	43626	Histophilus somni
 23a05af9fef74d37	43664	Providencia stuartii
 a6d160e5476a4e9f	43665	Providencia stuartii
 c3533bfdb588448f	43671	Stenotrophomonas maltophilia
+625fd0f7301a4b3f	43675	Campylobacter lari
 10eeb73edff742b4	43678	Streptomyces carpaticus
 2c1a4baac5694636	43680	Streptomyces cinereospinus
+c16dc3ea6c8f4946	43700	Aeromonas schubertii
 5f6af7b5bbcd4a70	43703	Legionella pneumophila subsp. pneumophila
 1b2d93f09cd0470a	43714	Eubacterium yurii subsp. yurii
 fa5f212aba3e4a30	43715	Eubacterium yurii subsp. margaretiae
 393ce8f056674026	43716	Eubacterium yurii subsp. schtitka
+fad59d8025364c73	43717	Aggregatibacter actinomycetemcomitans
 87fdad6b93244228	43718	Aggregatibacter actinomycetemcomitans
+ab1d5f5ed0a94063	43736	Legionella pneumophila subsp. pneumophila
+9b69035b31a640ce	43745	Escherichia coli
 e66093919a6c4f36	43751	Corynebacterium striatum
 a8ba6c5e4c104ff7	43762	Pectobacterium betavasculorum
+2c0b83c1945c43c7	43764	Staphylococcus chromogenes
+07ae7e3cb29440f0	43772	Helicobacter mustelae
 cce1e2d124f94787	43773	Helicobacter mustelae
+56fc387a26d74f6e	43783	Cupriavidus pauculus
 c15d616fd2a24de7	43820	Serratia marcescens
 4c8fa46e8000488d	43823	Mannheimia haemolytica
 9221b40f68c04c0d	43831	Neisseria meningitidis
+50bc4a56c380444d	43858	Bacteroides fragilis
+7dbc565e663b4fd1	43860	Bacteroides fragilis
+daa5504628e34f60	43861	Serratia marcescens
 62bc77a4011e4a16	43862	Serratia marcescens
 932792103fd64019	43863	Klebsiella michiganensis
+68d27a50d30f4dea	43866	Staphylococcus aureus
 2330e1ac4a144af8	43868	Delftia acidovorans
 d9623653284546bf	43869	Hyphomonas rosenbergii
+9f0436a8b2674de5	43870	Yersinia rohdei
+56c7366630194358	43871	Yersinia rohdei
 3b6475662c694650	43872	Yersinia rohdei
 364ca3d33a4c438d	43873	Yersinia rohdei
 7776017b1138416a	43874	Aeromonas hydrophila
@@ -1161,6 +1687,7 @@ f3d4d82b2a094377	43886	Escherichia coli
 ee8643073f8e40bf	43889	Escherichia coli
 0278477046384bd7	43892	Escherichia coli
 a11b2b9f2b2e4cdd	43893	Escherichia coli
+7ff844402916433e	43894	Escherichia coli
 05ca513e1661402f	43895	Escherichia coli
 82164ad563494bfb	43896	Escherichia coli
 610cb8644d184b58	43897	Paenibacillus validus
@@ -1171,9 +1698,14 @@ d69c15869d384569	43928	Pseudomonas chlororaphis
 2a315e656a0a4c04	43937	Bacteroides fragilis
 a2f9aaa1a6ce41f4	43950	Photorhabdus asymbiotica subsp. asymbiotica
 0c28563e96e341f5	43951	Photorhabdus asymbiotica subsp. asymbiotica
+6d422e33b65f451f	43953	Campylobacter upsaliensis
 899106b44b1b4e8e	43954	Campylobacter upsaliensis
+16779e8eaa444764	43958	Staphylococcus equorum
+5d589923b7d04967	43969	Yersinia mollaretii
 1ae977c13ae144c3	43970	Yersinia bercovieri
 06d1d4d4db8647b2	43971	Salmonella enterica subsp. enterica serovar Typhimurium
+99bc9568781c4634	43972	Salmonella enterica subsp. salamae
+7d893b53d98e4245	43974	Salmonella enterica subsp. houtenae
 739a8b20ac1d4f52	43976	Salmonella enterica subsp. indica
 cf941932fb444be2	43979	Aeromonas sobria
 483eaf0e1d6d4722	43982	Prevotella sp.
@@ -1182,13 +1714,19 @@ fbfd37d0f7184cd8	43985	Chromohalobacter israelensis
 c4fa94adbc924571	43991	Shewanella benthica
 4d14920714844aca	43993	Nocardia seriolae
 c76507cbdaee41bc	43994	Brachyspira aalborgi
+de536adb946a46dd	43996	Vibrio parahaemolyticus
 e2a4c5dee815443e	43998	Acinetobacter radioresistens
 1cd4555a15ea48c9	4412	Azotobacter chroococcum
+62ef878a135341a7	4520	Bacillus pumilus
+fb567747a3604d0e	4525	Lysinibacillus sphaericus
 5d6a559c10fa4a25	4630	Proteus mirabilis
+2f16885e55364843	4675	Proteus mirabilis
 317df2216d8d4140	4698	Micrococcus luteus
+bca30808225548c1	47014	Escherichia coli
 a4d044ef56574d17	47053	Pseudomonas aeruginosa
 9fbd368cd021490f	47076	Escherichia coli
 0ad378efe4884a85	47107	Escherichia coli
+90e61063a4394157	4720	Agrobacterium tumefaciens
 457dab6207084f7c	478	Azotobacter vinelandii
 08c57845cd604dda	4797	Lactobacillus leichmannii
 f4cb27fe82954ae9	484	Cellulomonas fimi
@@ -1202,12 +1740,14 @@ a375e06745f74e38	488	Cellulomonas gelida
 8b716d1d44e24397	49019	Pantoea agglomerans
 9eafb9d883ec441a	49020	Pantoea agglomerans
 0adfb8aad1fc4fad	49021	Pantoea agglomerans
+4b4e8dd41bf243c7	49025	Alicyclobacillus acidoterrestris
 a26a74d886aa463a	49031	Peptostreptococcus anaerobius
 15a89fadd572475f	49040	Rothia mucilaginosa
 56158c93e3c24f9f	49041	Rothia mucilaginosa
 20268922b3e44c65	49042	Rothia mucilaginosa
 966d14ec62074877	49046	Prevotella intermedia
 d4f0697eaca0488d	49054	Pseudomonas brassicacearum subsp. neoaurantiaca
+4e0296596d164446	49064	Bacillus cereus
 2c1109d638cf4757	49071	Shigella flexneri
 c134b9f4dc2c4bdc	49085	Salimicrobium halophilum
 b6bda146b6c94c3a	49103	Mycobacterium cookii
@@ -1236,12 +1776,18 @@ c6ddeef84c1646b9	49146	Aggregatibacter aphrophilus
 085513db9f0445a4	49147	Streptococcus gallolyticus
 25692319bbb64419	49150	Streptococcus pneumoniae
 fccf0b584d7a4276	49156	Lactococcus garvieae
+b473051a637648f6	49162	Enterobacter hormaechei
+3d3160d153cf447c	49168	Staphylococcus felis
 ad29a09054224525	49174	Pantoea agglomerans
 28973c0388734a84	49175	Granulicatella adiacens
+130252a15510442f	49176	Abiotrophia defectiva
 332aa64f6d97448f	49179	Helicobacter felis
 e0eef189b7204bd2	49188	Ochrobactrum anthropi
 95b7e20d7de248e1	49197	Pasteurella caballi
+02beeef8657b40bf	49226	Neisseria gonorrhoeae
 2321b91d442a4fc1	49230	Staphylococcus aureus
+ae6667f0a5714d57	49234	Mycoplasma anseris
+6f21695a9adf4c9a	49256	Fusobacterium nucleatum subsp. vincentii
 ccac0e3c67a94007	49262	Moraxella catarrhalis
 0d3b9d1aac5d44de	49263	Moraxella catarrhalis
 9b27ae2246144ffe	49264	Moraxella veridica
@@ -1251,6 +1797,7 @@ ae9eebe3815548c3	49278	Paenibacillus glucanolyticus
 76761dd49c9e4e99	49282	Helicobacter muridarum
 93205d5560c145e3	49284	Salmonella enterica subsp. enterica serovar Minnesota
 612584c254a1427a	49305	Myxococcus sp.
+69591a76d9ac441e	4931	Salmonella enterica subsp. enterica serovar Enteritidis
 944d86b4a49c40e1	49323	Pseudomonas sp.
 90e31949cf614056	49324	Staphylococcus capitis subsp. urealyticus
 21d5a08ca5d443fc	49325	Staphylococcus capitis subsp. urealyticus
@@ -1258,51 +1805,76 @@ ae9eebe3815548c3	49278	Paenibacillus glucanolyticus
 4ccaa65453e34f2b	49336	Halomonas eurihalina
 06075a4c967d4937	49337	Bacillus atrophaeus
 743a270889b94f28	49348	Shigella boydii
+11ba4c1e2f704e20	49349	Campylobacter jejuni subsp. doylei
 d81ae8566cbe4734	49353	Campylobacter mucosalis
 3807e90a65a14a63	49358	Acetivibrio aldrichii
 0a65209f13c54246	49368	Corynebacterium amycolatum
 71cfbb5d26724082	49377	Neisseria elongata subsp. nitroreducens
 a919282cb13a468b	49385	Aeromonas salmonicida subsp. salmonicida
+9edb2f077951413a	49386	Streptococcus sp.
+e512e30ac24e405c	49387	Aliivibrio fischeri
 869ee9e197b7435a	49389	Acholeplasma palmae
 21aef7fdad004e17	49393	Aeromonas salmonicida subsp. smithia
 87f2d364c3494a50	49394	Aeromonas salmonicida subsp. smithia
 9f733fa694024a0a	49395	Aeromonas salmonicida subsp. smithia
+bbd7a4b8923c4fb6	49396	Helicobacter pylori
 9ed3834d7dbd421f	49397	Yersinia enterocolitica subsp. enterocolitica
 19ab5e9ea72e47fd	49398	Vibrio parahaemolyticus
+9febe95396a74e21	49399	Streptococcus pyogenes
 86ba5fa0ca744bb8	49402	Aquaspirillum arcticum
 f218e4ce45334d80	49403	Mycobacterium houstonense
 3e36ed0e3826493e	49404	Mycobacterium neworleansense
+84bc8e3a62974679	49407	Porphyromonas salivosa
 8d5bb58d0f0b4c99	49415	Cryptosporangium minutisporangium
 5cf2da3ccf6444ad	49416	Salmonella enterica subsp. enterica serovar Typhimurium
 96a862f6213e4e35	49417	Porphyromonas gingivalis
+cb146f9ae6e04d49	49418	Flavobacterium psychrophilum
 677f9ca9c3064b8b	49421	Pseudomonas aeruginosa
 ff87a2f0b2a94c10	49427	Enterococcus raffinosus
 e28e91b70f2743a3	49444	Staphylococcus pseudintermedius
+a4e0e14786e44cf3	49446	Streptococcus agalactiae
+b698e7b32caf482d	49453	Staphylococcus saprophyticus
+bc7932088e864dde	49454	Staphylococcus warneri
 10a1d987385c476b	49455	Yokenella regensburgei
 e258e7cb4f854b2f	49457	Actinobacillus hominis
 618c97aa1151408c	49459	Actinomadura fibrosa
 4969954f76204878	49460	Saccharopolyspora spinosa
 c53ac237b8c64aef	49464	Enterococcus raffinosus
 41634071feb14d9c	49466	Acinetobacter baumannii
+7a342b9b1329423f	49469	Klebsiella aerogenes
 ab4c5949445743df	49471	Chryseobacterium sp.
 f1f490c036bb41b0	49475	Streptococcus gallolyticus subsp. gallolyticus
 7abde9cac98b4bb8	49481	Pectobacterium cacticida
 509cdb3a3f7547b4	49483	Pectobacterium cacticida
 942cc4f423b34de6	49485	Pectobacterium cacticida
+c466a6a84cce4746	49488	Stenotrophomonas maltophilia
+1f4a4b6416cf45df	49489	Stenotrophomonas maltophilia
+9fc9fa45104b40d3	49498	Neisseria gonorrhoeae
 eed2fb3ef8934d46	49499	Actinokineospora riparia
+98ec70ed6dc94576	49512	Flavobacterium columnare
 ca3d0b2b610b4192	49521	Staphylococcus aureus
+7bf837cda4bc4664	49525	Staphylococcus aureus
 a28ae31c69ff4ddf	49528	Corynebacterium striatum
+c3633b86cbde4884	49529	Vibrio parahaemolyticus
 17b5cc3a87924a0e	49530	Flavobacterium saccharophilum
 d1af839e2fef4496	49531	Flavonifractor plautii
+5108b3f2686c4f1b	49532	Enterococcus faecalis
+91b6a675b55f4140	49533	Enterococcus faecalis
 c4449af66c08443a	49540	Lactobacillus vaginalis
 2cf946e796794426	49542	Xenorhabdus beddingii
 0627cfe3d32a4749	49545	Staphylococcus schleiferi subsp. coagulans
 105d162b52bb47aa	49546	Shigella dysenteriae
 e50f861514194c47	49547	Shigella dysenteriae
+f520596cc0d34547	49565	Proteus mirabilis
 15ac50dfe64445b7	49566	Roseobacter litoralis
+4e3c32edafbe48ee	49568	Aeromonas jandaei
+9deb35a6fcd94738	49576	Staphylococcus lugdunensis
 9d62136f8d924389	49582	Acholeplasma pleciae
 f08895075ebc4608	49594	Listeria monocytogenes
 572ed62eedb54537	49607	Enterococcus durans
+95ba0051334b4dd4	49608	Enterococcus gallinarum
+fe4f189637d14d42	49609	Enterococcus gallinarum
+5e7a334149db464c	49610	Enterococcus gallinarum
 5314999fdfec4c65	49623	Lacrimispora xylanolytica
 ae778b94da164249	49630	Anaerococcus hydrogenalis
 ade95b134e6049d4	49631	Paracoccus kocurii
@@ -1311,7 +1883,9 @@ fc67310226b747a5	49632	Paracoccus aminovorans
 f0e11b3085384317	49642	Pseudomonas brenneri
 b305fed83fc7444d	49647	Fervidobacterium islandicum
 5f23d8d5693141bb	49649	Mycobacterium mucogenicum
+b6bbf6491b7d4673	49650	Mycobacterium mucogenicum
 3d1b4163811b428f	49651	Mycobacterium mucogenicum
+14fef2b2ff1c46ac	49652	Chlorobaculum tepidum
 ea1fc87e9afa46fb	49674	Azotobacter salinestris
 a325931d2b38454b	49676	Exiguobacterium chiriqhucha
 f34dde38aafa44af	49678	Mycoplana ramosa
@@ -1319,6 +1893,7 @@ f34dde38aafa44af	49678	Mycoplana ramosa
 ad461974574e4743	49689	Propionispira paucivorans
 6814684dd5d74a69	49690	Selenomonas lacticifex
 9d8e9dc89ef849a3	49691	Propionispira raffinosivorans
+12d8ea0920ac43af	49692	Halomonas meridiana
 75c2e1ecd2664261	49695	Mycoplasma spermatophilum
 9c2fa581422e4d57	49699	Haemophilus influenzae
 d0559282c91e42bc	49701	Klebsiella aerogenes
@@ -1338,43 +1913,63 @@ f3de11d4bc2547c8	49772	Mycobacterium asiaticum
 8238f887c4404231	49773	Mycobacterium shimoidei
 6553106a6c1a48a3	49775	Staphylococcus aureus
 5cd88950f9b3493b	49779	Serratia marcescens
+ff2ecd482ef2499c	49793	Bartonella henselae
 12e905a78767463b	49795	Gallicola barnesae
+5e9770fafca640b6	49809	Providencia stuartii
 951c580e711a458f	49815	Campylobacter upsaliensis
+ae31ba3a12ec494c	49816	Campylobacter upsaliensis
+0cd21ce21d4a4564	49822	Bacillus subtilis
+61317d3ce4da4a8d	49840	Marinobacter nauticus
 e637a51553ab4a7b	49842	Saccharopolyspora taberi
 0d3bdca9de634c88	49843	Paenibacillus larvae
 7fda9db083c44565	49851	Pluralibacter pyrinus
 54fc600415fd4a3a	49853	Laceyella putida
+94dfefaa068a4bcd	49870	Guyparkeria halophila
 217ecce3ae5040ab	49884	Mycobacterium avium subsp. silvaticum
 c450e9088aae4d48	49889	Mycoplasma leopharyngis
 4460f932609b4664	49894	Mycoplasmoides pneumoniae
 5525d8f73f794ab4	49895	Mycoplasmoides genitalium
+063fcaf919da4982	49896	Mycoplasma genitalium
 87c53b7a4a424192	49898	Mycoplasma genitalium
 0b3887820bd84fc6	49901	Acholeplasma cavigenitalium
 21677cd937e34672	49903	Enterococcus sulfureus
+e7edd863d0e64208	49904	Aeromonas ichthiosmia
+6f42916f8cf7411a	49907	Staphylococcus saprophyticus
 8ee9274961314f52	49913	Mycobacterium kansasii
 b0691799a8a640f8	49915	Thermoanaerobacterium saccharolyticum
 74b1f4709db34d74	49920	Mycobacterium confluentis
+39024ab883f64ddd	49926	Neisseria gonorrhoeae
 fb36f4ba724f4b50	49927	Bartonella elizabethae
 f1f26398307544db	49938	Mycobacterium brisbanense
+905f52c819374197	49941	Campylobacter coli
 be024477a7144672	49942	Arcobacter butzleri
 b081f23050cc4cf4	49944	Halanaerobacter lacunarum
+a96fd4bbb9584aa2	49946	Erwinia amylovora
 777220bfbe1d48f9	49948	Morganella morganii subsp. sibonii
 913cda475a234769	49949	Ruminococcus flavefaciens
 bd3ca299915b4b99	49956	Roseomonas gilardii subsp. gilardii
 63f439b287fe4bad	49957	Roseomonas cervicalis
+b11c312948194ffe	49969	Halomonas halophila
 20f1bac3a2b848a2	49970	Pelobacter acidigallici
 556b4bff18664b8d	49973	Pelobacter massiliensis
 522659ab97a241e7	49978	Thermanaerovibrio acidaminovorans
+0c82c6e19b9843bb	49979	Escherichia coli
 c1f96cd19a7d4b82	49981	Neisseria gonorrhoeae
+f2b267a2d0f44b2d	49991	Morganella morganii subsp. morganii
 c715284e1fd04810	49992	Morganella morganii subsp. morganii
 f3a7fa922493462d	49993	Morganella morganii subsp. morganii
 ef8c890110ba4026	49994	Morganella morganii subsp. morganii
 15d95e0953d042ca	51100	Streptococcus cristatus
 d3947fcf8cef4c31	51109	Neisseria gonorrhoeae
+eb7b7a84dac9479d	51111	Helicobacter pylori
+1b2008d00d45442d	51113	Citrobacter braakii
 4480a977416e4b49	51115	Citrobacter sedlakii
+49d27d9f62d2409c	51116	Citrobacter rodentium
 b9366d80093f4c7f	51117	Citrobacter gillenii
+8f282c9c718342d0	51118	Citrobacter murliniae
 c105b8af42a747a9	51129	Staphylococcus pasteuri
 afab866a1a0f4db2	51139	Brachyspira pilosicoli
+ac9aa4f68cbd4f9b	51142	Crocosphaera subtropica
 308febfdda9a45ec	51146	Campylobacter showae
 5be8941a2ced43fe	51148	Mycoplasma corogypsi
 395f4a1d8ec7467a	51149	Weissella kandleri
@@ -1385,7 +1980,10 @@ d7352e6d1ea14027	51170	Anaerococcus vaginalis
 e41bce5ebc7d4184	51177	Anaerosinus glycerini
 93d6938c172445f5	51179	Pseudodesulfovibrio halophilus
 8b2dbf8f746f4959	51186	Rhodopseudomonas palustris
+5262c1832141410f	51190	Fusobacterium nucleatum subsp. fusiforme
 989b7046b95b47d9	51191	Fusobacterium nucleatum subsp. animalis
+92764a5a00bf4d8a	51192	Shewanella algae
+553f406fd5f94935	51198	Haloterrigena turkmenica
 c5db68fc25624cc1	51199	Paracoccus alcaliphilus
 fc232533a13b4e4c	51202	Morganella morganii subsp. morganii
 b696c5a67657434a	51203	Morganella morganii subsp. morganii
@@ -1393,14 +1991,20 @@ b696c5a67657434a	51203	Morganella morganii subsp. morganii
 763cb65eee6d42a0	51205	Morganella morganii subsp. sibonii
 3155992001d14159	51206	Morganella morganii subsp. sibonii
 202deb3a3ffc4bb2	51207	Morganella morganii subsp. sibonii
+88c947b2dbee40de	51208	Aeromonas allosaccharophila
 fb755bcab5da4be0	51220	Ilyobacter polytropus
 98e84154684a43d6	51228	Catenococcus thiocycli
+c8ca1e967e8d4bd5	51230	Sphingobium yanoikuyae
+6fb0eaffe36f4b04	51242	Rubrobacter radiotolerans
 37e6d863317947ef	51251	Rhizobium etli
+967be1a3eda6494c	51259	Alloprevotella tannerae
 a6adeea381134454	51265	Saccharopolyspora gregorii
 55231e4c273e4cc8	51266	Enterococcus dispar
 be0ee88d4a5a4003	51267	Alloiococcus otitis
+8a2cff3cad63423e	51268	Aerococcus urinae
 ccba5bcc2a284907	51277	Cutibacterium acnes
 514f41f4b94b41cf	51284	Brachyspira murdochii
+9276a1bdd96d4baf	51286	Proteus mirabilis
 2d457b06fd664f7e	51289	Rhizorhabdus argentea
 956ad5ebba7443a9	51292	Sphingobium mellinum
 aef7a0b1cf114f5d	51299	Enterococcus faecalis
@@ -1413,20 +2017,26 @@ d33457ca0a40483b	51340	Delftia tsuruhatensis
 db6924665a044cfb	51346	Mycoplasma yeatsii
 b6374569c45b4624	51350	Rhizobium radiobacter
 2d1cdd1aed324935	51351	Saccharopolyspora sp.
+a0d8ea4257514808	51357	Fusobacterium necrophorum subsp. funduliforme
 953f651a476f4c77	51361	Acidocella aminolytica
 9d6ede6adc6847a6	51362	Acidocella aminolytica
+86e4d856239e4ddf	51365	Staphylococcus carnosus subsp. carnosus
+d99cb137456f4dd3	51375	Bacillus methanolicus
 f2cc4cfe7a434474	51378	Citrobacter sp.
+48c0c24ea2464497	51383	Borrelia garinii
 913ce34d09e7457d	51384	Mycobacterium brumae
 308745d8fd8c4bb5	51393	Proteus mirabilis
 f937a157c5554e7b	51401	Helicobacter canis
 3832da0a05e243c0	51403	Corynebacterium afermentans subsp. afermentans
 5984d4df835a4f14	51413	Aeromonas salmonicida subsp. salmonicida
+3b65aa991a794a57	51414	Listeria monocytogenes
 4db7f073724c40d0	51422	Streptococcus pneumoniae
 3e4402176bb64a4c	51428	Terrisporobacter mayombei
 7c3464bf09b7495b	51432	Acinetobacter baumannii
 ee6d4be18aee47e0	51435	Escherichia coli
 e4ef3fc9cefa4f75	51445	Bordetella pertussis
 87b468c6916e4b4b	51448	Helicobacter hepaticus
+7995ca0527144133	51449	Helicobacter hepaticus
 8ccd2b0cf6a64564	51452	Thiomicrospira thyasirae
 d71ffdc77c764409	51455	Anaeroarcus burkinensis
 a39e9b2e2b804819	51459	Citrobacter rodentium
@@ -1434,9 +2044,13 @@ a39e9b2e2b804819	51459	Citrobacter rodentium
 adb28cc47d9f486d	51473	Microbacterium schleiferi
 5e884be7c2a54cb5	51474	Microbacterium luteolum
 94f78d1475ce4d25	51477	Bacteroides fragilis
+e3caa82d6255440e	51487	Streptococcus agalactiae
 7783a55069df4f43	51502	Capnocytophaga granulosa
+ba0d9b64fa5b4876	51503	Klebsiella pneumoniae subsp. pneumoniae
 0f4296d079f84a07	51504	Klebsiella pneumoniae subsp. pneumoniae
+703765f4ba1246ce	51507	Desulfitobacterium dehalogenans
 2baabce4d1094615	51521	Rhodocista centenaria
+1a915b83014b471d	51530	Thermoplasma volcanium
 783d0974005e450e	51533	Streptomyces macrosporus
 21914c98efc44cfa	51541	Bordetella holmesii
 322c2b47136d499d	51542	Cycloclasticus pugetii
@@ -1445,20 +2059,30 @@ adb28cc47d9f486d	51473	Microbacterium schleiferi
 6872943a750b4fca	51570	Pasteurella dagmatis
 ad3fee7ddf5c4486	51572	Plesiomonas shigelloides
 8453af41fd4842cb	51575	Enterococcus faecalis
+f30f81550f174d11	51579	Sutterella wadsworthensis
 cef5861324fc44ac	51580	Bilophila wadsworthia
 1afd181bec544ec1	51584	Moraxella catarrhalis
 433c5d6450ef402b	51595	Providencia rettgeri
 e2c3b5f266054854	51596	Morganella morganii subsp. sibonii
 d3b0840d8615407b	51597	Citrobacter sp.
+76c97945e3024155	51599	Lautropia mirabilis
 2273a1af14f04185	51622	Haemophilus ducreyi
 44475fef9a4f4869	51624	Staphylococcus hominis subsp. hominis
 2939504a8cc04f4d	51625	Staphylococcus epidermidis
+87da773e808f4994	51638	Citrobacter rodentium
+1709ff0bcc70424b	51639	Citrobacter gillenii
+0c30ce8998534d7d	51640	Citrobacter gillenii
 e81b3a73094b4937	51641	Citrobacter sp.
+d2f3758d43c04c5f	51642	Citrobacter murliniae
 894f996e9c2341ad	51644	Fusobacterium pseudonecrophorum
 984ed7d2c8654773	51649	Holdemania filiformis
 fbfbe07c21374c94	51651	Staphylococcus aureus
 c2bcc49a65da4e3d	51653	Helicobacter pylori
+6698e2a91a8146d6	51654	Haemophilus influenzae
 01bb6b668c3f4d28	51656	Streptococcus gordonii
+290628a01f414050	51663	Brevibacillus agri
+499c4e47467d4dde	51671	Burkholderia cepacia
+99e27ff9b50b4f85	51672	Bartonella vinsonii subsp. berkhoffii
 22976a57bd694002	51675	Pseudomonas aeruginosa
 49c1c311e2564f7c	51681	Pseudomonas aeruginosa
 0256e3956c3e4cc1	51682	Pseudomonas aeruginosa
@@ -1466,7 +2090,9 @@ c2bcc49a65da4e3d	51653	Helicobacter pylori
 e3a80ab8b7b84782	51687	Pasteurella multocida subsp. septica
 1212a614a5e14add	51689	Pasteurella multocida subsp. gallicida
 5cddfc0718964977	51690	Ensifer saheli
+eceec8f2121f4143	51694	Bartonella quintana
 640bca29821f480e	51697	Klebsiella aerogenes
+a1f4559996cb42e0	51700	Porphyromonas gulae
 78689f7c0b774300	51713	Buttiauxella noackiae
 05ea155edee84641	51724	Eikenella corrodens
 fc846acbdaf44102	51729	Campylobacter coli
@@ -1474,6 +2100,7 @@ fc846acbdaf44102	51729	Campylobacter coli
 d0baa7561a7549d1	51736	Photobacterium damselae subsp. piscicida
 ebfe053b29b5414f	51739	Escherichia coli
 967da852dd884248	51740	Staphylococcus aureus
+ce6b20184e334194	51742	Listeria innocua
 40cff596e9af405d	51743	Clostridium beijerinckii
 2b9e6bbe18ea42d3	51745	Spiroplasma montanense
 61b1deffe1ca44ae	51746	Spiroplasma helicoides
@@ -1481,11 +2108,16 @@ ebfe053b29b5414f	51739	Escherichia coli
 f0f673c939d243c9	51752	Spiroplasma alleghenense
 f915d106799f45e6	51753	Shewanella putrefaciens
 b5ec46dd43184535	51763	Agromyces cerinus subsp. nitratus
+45d816201c924d9d	51772	Listeria monocytogenes
+a63f03c506fe4686	51775	Listeria monocytogenes
+f73cce1ddb7f4684	51779	Listeria monocytogenes
 c384b20fb91c438a	51780	Listeria monocytogenes
+41b30d9997924b95	51782	Listeria monocytogenes
 19ea90fe7afb44ba	51785	Pantoea stewartii subsp. indologenes
 ba0872c9f9d047d7	51788	Mycobacterium branderi
 7f6b8b0c887a497a	51789	Mycobacterium branderi
 395aea84417c4029	51798	Campylobacter coli
+d0a3534e47a14627	51799	Corynebacterium ulcerans
 c57540fdc9e9418a	51805	Photobacterium damselae subsp. damselae
 993f568f12c64a7a	51806	Photobacterium damselae subsp. damselae
 0e3929d16d7340f6	51807	Photobacterium damselae subsp. damselae
@@ -1494,21 +2126,35 @@ cd741587f14349ff	51812	Salmonella enterica subsp. enterica serovar Typhimurium
 4b7652e7ffd84831	51814	Serratia liquefaciens
 befdbc3534ee4e05	51816	Lelliottia amnigena
 1c29402198b4491c	51817	Klebsiella oxytoca
+5e0e4459f57244d0	51818	Lelliottia amnigena
+146a14106ec841ea	51819	Acinetobacter sp.
+0e126b4fe6d442b6	51823	Chryseobacterium shigense
 036bc9ece1504297	51834	Macrococcus caseolyticus
 f213242c382342b1	51835	Macrococcus caseolyticus
 6941ed6d465c4563	51844	Brachybacterium rhamnosum
 7aa470ff7aa34b3c	51854	Erwinia amylovora
 ba145822d7f84110	51858	Enterococcus faecium
+fe53117eba824db5	51871	Yersinia enterocolitica subsp. enterocolitica
+0ef4a66a35834d2b	51872	Yersinia enterocolitica subsp. enterocolitica
 7b478297468245db	51874	Staphylococcus pseudintermedius
 6e9a71a754834573	51880	Clostridium perfringens
+0c25fbcd8bf94ae6	51894	Dialister invisus
 91b2d699d739475f	51896	Ruminococcus bromii
+9faf76eed33640f3	51902	Providencia alcalifaciens
+35bee58e543d485d	51903	Plesiomonas shigelloides
 1012a010b0654d46	51909	Mycoplasmopsis hyopharyngis
+634fb25fbda5437c	51915	Streptococcus pneumoniae
 f12027e27d2c4abb	51928	Streptomyces griseus
+a9340af7868f4d3c	51932	Helicobacter pylori
+736ecb63e3934e06	51955	Salmonella enterica subsp. enterica serovar Virchow
+b29ab41c16544051	51957	Salmonella enterica subsp. enterica serovar Agona
+d98084de6b834bf0	51958	Salmonella enterica subsp. enterica serovar Mbandaka
 d2dd2e887257498a	51964	Cellulomonas hominis
 db50cdb9a9d1410a	51983	Klebsiella oxytoca
 2992976e79c24a4e	51986	Mycobacterium ahvazicum
 6bdbc1e1e2894dc2	51987	Mycobacterium lentiflavum
 c1feb8a11963424f	51988	Mycobacterium lentiflavum
+bddf0bd17153406f	51991	Borrelia garinii
 f33cbe6d6c9043ec	51992	Borrelia afzelii
 4e22ef0d1ef04545	51993	Burkholderia ambifaria
 c40ca0bb104b4fde	51994	Burkholderia ambifaria
@@ -1517,6 +2163,7 @@ c40ca0bb104b4fde	51994	Burkholderia ambifaria
 5c7497a3fe52462d	521	Lactobacillus helveticus
 5f05cd5d2e504e01	53199	Stenotrophomonas maltophilia
 c29fa5c074e14fb0	53205	Amycolatopsis albidoflava
+6082adbce47e4178	53281	Corynebacterium diphtheriae
 357b057766384ef9	53434	Chromobacterium violaceum
 4a038ffce6a74425	53480	Haemophilus influenzae
 e88fd544ca3b4219	53496	Escherichia coli
@@ -1524,12 +2171,17 @@ e88fd544ca3b4219	53496	Escherichia coli
 324600d8dc744302	53544	Lactobacillus acidophilus
 71e4d7223dd34386	53546	Lactobacillus amylovorus
 194cd98e64b84912	53556	Thermoanaerobacter brockii subsp. brockii
+765e520a26af45f0	53582	Komagataeibacter hansenii
 cdede12ecb2e40dc	53598	Micrococcus luteus
 4e11d06c5c464757	53642	Burkholderia vietnamiensis
 c3a801428a424f92	53643	Pandoraea communis
 1ce6c1a958f7482b	53672	Lactobacillus taiwanensis
 12907130271b47d1	53877	Pseudomonas sp.
+07426db78695495a	55081	Pseudomonas aeruginosa
+af4eb0db97e94f94	55083	Pseudomonas aeruginosa
+4d994d58c3184fb7	55084	Pseudomonas sp.
 9b7e63aac6614819	55089	Burkholderia ambifaria
+7c1804a427704bc1	55151	Escherichia coli
 da8f8369bc254989	6008	Clostridium septicum
 f588ae2b5dae496a	6013	Clostridium pasteurianum
 e39a201650674ef7	6057	Enterococcus faecium
@@ -1538,6 +2190,7 @@ d75c11c1fcca4580	61	Niallia circulans
 3cecd1e71e4a4467	6207	Propionibacterium freudenreichii subsp. freudenreichii
 b5e4a0c073fb4ef8	621	Gluconobacter oxydans
 fd35feb0e12c4af6	624	Streptococcus agalactiae
+41f0a84ac2974401	6301	Streptococcus pneumoniae
 636dafb0fe5d4e51	6302	Streptococcus pneumoniae
 56601258a10a4c36	6304	Streptococcus pneumoniae
 e7ccbcdb6eba426b	6307	Streptococcus pneumoniae
@@ -1550,33 +2203,51 @@ acdb6f47ed7d4c15	6324	Streptococcus pneumoniae
 b46cf152e8d34cea	638	Paraclostridium bifermentans
 950c7239aa33492b	6380	Proteus vulgaris
 9558eafabedf4af5	64	Brevibacillus laterosporus
+efbae02485a949b2	6453	Sporosarcina pasteurii
 804f954591074364	6538P	Staphylococcus aureus
+19610e6748044d3d	6539	Salmonella enterica subsp. enterica serovar Typhi
 7a63eb4daac54a8e	6569	Enterococcus faecium
 6f89b0fec9924191	6841	Mycobacterium fortuitum subsp. fortuitum
 d2fc08d7aee546f0	6870	Paracoccus sp.
 e10a4f2f49524332	6871	Corynebacterium ammoniagenes
+478ffa6ac6bd456b	6872	Corynebacterium stationis
 bd2dfde7c3be4133	6879	Citrobacter freundii
 85f5a2bc081646c2	6896	Proteus vulgaris
+0ff4f2c0c7d54519	6903	Yersinia pseudotuberculosis
 0292c850ea9644ce	6915	Janthinobacterium sp.
 762b931e874f4359	6922	Cutibacterium acnes
 28f7cf1c212d4148	6939	Rhodococcus equi
+fa2c98c2c4694d49	6946	Nocardioides simplex
+9e3ddca113cc4f9d	6960	Salmonella enterica subsp. enterica serovar Derby
+65c55491695c4748	6967	Salmonella enterica subsp. enterica serovar Reading
+c4cc0db1f2324b4c	700038	Alicycliphilus sp.
 a9a2cdc3a025446a	700052	Bordetella holmesii
 4614b1d5d9284128	700053	Bordetella holmesii
+33f71afd434946f7	700057	Clostridioides difficile
 f773f2b38e5a4d72	700058	Mammaliicoccus sciuri
 ad1a1f5abac64be1	700059	Mammaliicoccus sciuri
 cb608a3688074374	700061	Mammaliicoccus sciuri
 3fb8689330c1473b	700062	Mammaliicoccus sciuri
 1ab6160f12044094	700067	Brachybacterium alimentarium
 fd5305ca81a64f35	700068	Brachybacterium tyrofermentans
+875a7a84d56242fb	700070	Burkholderia cepacia
 3e846040b213414b	700078	Escherichia coli
 2ecd3486a2134dc1	700082	Tsukamurella inchonensis
 60de8cbdab9343d0	700089	Gordonia hydrophobica
 87de97b8d20d4992	700090	Mycobacterium conspicuum
+ba6ca9827ed54836	7001	Salmonella enterica subsp. enterica serovar Choleraesuis
 53f965ba4af04470	700100	Bacillus carboniphilus
+98242661e107499f	700110	Neisseria meningitidis
 389354bfbfcf48d7	700112	Neisseria meningitidis
 88f1bd68b0584af3	700128	Bosea sp.
+6ab9123f8e044dc8	700133	Bartonella doshiae
+cb9a64e2ea204ab3	700136	Salmonella enterica subsp. enterica serovar Braenderup
+1759397af94c4748	700148	Salmonella enterica subsp. salamae
+466db6f4e60a438f	700149	Salmonella enterica subsp. salamae
 0deb8c9a1aa54848	700150	Salmonella enterica subsp. salamae
+5aeba9717a61488d	700156	Salmonella enterica subsp. arizonae
 32ea66e0835d4439	700159	Alkalihalophilus pseudofirmus
+84a9f10870974061	700160	Shouchella clausii
 1a8d96e456a24e46	700168	Xenorhabdus nematophila
 3b8cd8c9bc4341cb	700171	Paracoccus thiocyanatus
 23267a6aca0841f0	700179	Actinobacillus delphinicola
@@ -1584,6 +2255,7 @@ fd5305ca81a64f35	700068	Brachybacterium tyrofermentans
 c3dbb07002204b19	700182	Brenneria alni
 7c5fa35a39b4467e	700187	Xanthomonas codiaei
 2637fe95eef94092	700197	Prevotella tannerae
+dad33de45d6b4497	700198	Tannerella forsythia
 e419438850184353	7002	Proteus mirabilis
 ba2dc83efa834236	700201	Oceanidesulfovibrio gabonensis
 a0ca6b22c5e641bc	700209	Abiotrophia defectiva
@@ -1591,10 +2263,14 @@ b86d161d5580476d	700223	Haemophilus influenzae
 e160b097bf964624	700231	Streptococcus anginosus
 0a808cd99dc14167	700248	Streptomyces turgidiscabies
 8bd12b13814542b7	700255	Gordonia hirsuta
+aa8cbf051037480a	700256	Micrococcus luteus
 5cb3037d833d4a3a	700261	Spirochaeta asiatica
+44083b5442644563	700265	Thauera aromatica
 e0278ed37dc64459	700267	Stenotrophomonas maltophilia
 43ae74259d3f4e26	700268	Stenotrophomonas maltophilia
 2cc68c8d6b3745b5	700269	Stenotrophomonas maltophilia
+367a98fac1c7441c	700273	Halomonas pantelleriensis
+806e8b399de7439b	700285	Helicobacter rodentium
 a060e0622a0a404b	700293	Treponema medium
 f05685f3b6fc4cf0	700301	Listeria monocytogenes
 1e875b7b0e1d43c4	700302	Listeria monocytogenes
@@ -1602,64 +2278,95 @@ f05685f3b6fc4cf0	700301	Listeria monocytogenes
 7a295814cd864131	700309	Bordetella trematum
 0095bf0d98a74aa1	700320	Thermoanaerobacter sulfurigignens
 9f54047d94f74796	700323	Enterobacter hormaechei subsp. steigerwaltii
+06c92245cdca483d	700324	Klebsiella oxytoca
 dd95e41c13164507	700325	Leclercia adecarboxylata
 31858e51fd864365	700326	Vibrio mimicus
 4545ae6bc92d4294	700327	Enterococcus casseliflavus
+b357ba0b2be646ff	700328	Staphylococcus lugdunensis
+108da8497c3846b2	700329	Shewanella amazonensis
 e20a47b46ed747ed	700336	Escherichia coli
 cf2f546aead9434e	700342	Aquamonas haywardensis
 e873747ed35542d6	700344	Neisseria meningitidis
 25ff8e759d034930	700345	Shewanella pealeana
 2968166c821f46a0	700348	Brevibacterium otitidis
+a05888de81314d98	700349	Bacteroides thetaiotaomicron
 6bb7e37d9fbb4fb9	700351	Mycobacterium mageritense
 46a78a79616a4ff8	700366	Bosea thiooxidans
 68b09bec187c46cf	700389	Shewanella algae
+3bb728db5d8c478e	700390	Shewanella algae
 2ab2aa47df9d4362	700391	Shewanella algae
 759f089417ab4efb	700393	Meiothermus ruber
 2923b030ec404723	700399	Polaribacter franzmannii
 cd6b7af296b440c3	700400	Streptococcus equi subsp. zooepidemicus
+bf8f4c0ff10d413d	700404	Staphylococcus xylosus
+814faf288b9547a2	700405	Micrococcus luteus
 26250c65fb774abc	700407	Streptococcus uberis
+cf0d63bdbe9c461e	700408	Salmonella enterica subsp. enterica serovar Typhimurium
 8c18b32b79b048de	700413	Bogoriella caseilytica
+6f3c4a24186f436a	700425	Enterococcus gallinarum
 69b18767b1624583	700426	Desulfocella halophila
 43f3ed2055d64f8d	700433	Eubacterium infirmum
 1615bf2614fb4119	700434	Eubacterium minutum
+0adab91613de4a98	700475	Stenotrophomonas maltophilia
 5fc8a64b98984acf	700476	Pseudomonas monteilii
 a5a5158f40e14244	700478	Pseudomonas sp.
 f4c56a3d98c54d33	700505	Mycobacterium immunogenum
+294369a439964b0c	700513	Legionella feeleii
 ff2ac5689b2c497a	700519	Pseudoalteromonas elyakovii
+12c7d9e149dc4885	700524	Prevotella melaninogenica
+87f0dcd94572471d	700529	Thermococcus zilligii
 4a190f7c048f4e3f	700531	Escherichia coli
 f17f0311cec64849	700539	Planococcus mcmeekinii
+bd2d8635a41640d7	700541	Bifidobacterium animalis subsp. lactis
 ff6a2ef8479646ec	700544	Burkholderia graminis
 3a2024dfdf7947d0	700545	Listeria grayi
 1ea3755fd8c14be7	700555	Borrelia andersonii
+ee560aa9a73e4fa4	700560	Halanaerobium lacusrosei
+0c50894ffbcb42c8	700561	Erwinia persicina
 65cc1e0471dd4a2c	700563	Staphylococcus epidermidis
+d5fc2839d13b4ac0	700564	Staphylococcus haemolyticus
+6d0bd071a9b74960	700565	Staphylococcus epidermidis
 5076cd049c8b4067	700566	Staphylococcus epidermidis
+c644d46f5f2a4e8b	700569	Staphylococcus epidermidis
 1facac5c8d1b49fd	700574	Staphylococcus epidermidis
 6d52efd69e944bf9	700577	Staphylococcus epidermidis
 eb54346d5a4e4fe0	700581	Staphylococcus epidermidis
 d3d3d78cc95d414a	700582	Staphylococcus lugdunensis
 53fdc749955149bf	700583	Staphylococcus epidermidis
+cbd5efddfe9c40a7	700584	Staphylococcus sp.
+0ff39a3b7abd445d	700586	Staphylococcus hominis
+1795a078491c4bcf	700590	Ralstonia pickettii
 8a2e83ca3d154c22	700591	Ralstonia pickettii
 97b9d495bae54ff6	700593	Leuconostoc fallax
 a256d355d15c47e3	700596	Alcaligenes sp.
+6ff690aeba924296	700601	Aliivibrio fischeri
 b9d6b9a5368d40a0	700606	Alkalibacillus haloalkaliphilus
+6fcfac086c8d4742	700609	Escherichia coli
 2dfa9d1c7172484a	700611	Streptococcus mutans
 bbf9ab1963e64b54	700614	Anaerobacillus arseniciselenatis
 292db4a769434b73	700622	Serratia marcescens
 4ff5083283ae4a49	700626	Virgibacillus marismortui
 365c6010aa02492d	700632	Gemella sanguinis
+37c2f7429e624c3c	700637	Neptunomonas naphthovorans
 2b774b83fc664b1c	700638	Janibacter hoylei
 5af6dd260b4e4058	700642	Cellulomonas persica
+519a54ff80c94542	700654	Thermococcus gorgonarius
 fbc5dbc0d8ff4b0f	700665	Geothrix fermentans
 c339aa59eb7e4735	700667	Acholeplasma vituli
+79646ed2b7284890	700668	Enterococcus casseliflavus
 30d6aef4c9b042bc	700671	Streptococcus pneumoniae
 a1f1283b82a24049	700672	Streptococcus pneumoniae
 a0fc4ca4cba64fd8	700674	Streptococcus pneumoniae
 e0151833ca70499f	700677	Streptococcus pneumoniae
 77deaa9993de4c3c	700684	Helicobacter pylori
+8f5089a25e564513	700686	Mycobacterium peregrinum
 d6fd5f445ec14336	700687	Zoogloea resiniphila
 5bf44832084a4f7f	700690	Pseudomonas nitroreducens
 0a5686a910f64b48	700693	Bartonella koehlerae
 9999bcab3cce425c	700711	Legionella pneumophila
+68df63e35142406f	700717	Neisseria gonorrhoeae
+0f1745ec5952465b	700718	Neisseria gonorrhoeae
+c8834ecc180d4b81	700719	Neisseria gonorrhoeae
 92b978c8034c407b	700728	Escherichia coli
 f140593b0f4942c9	700730	Salmonella enterica subsp. enterica serovar Typhimurium
 54b7008ea3df4405	700732	Mycobacterium kubicae
@@ -1668,31 +2375,53 @@ a2181c531ec341e0	700736	Mycobacterium avium
 40d094bf79ef4d68	700752	Shewanella gelidimarina
 5530ec49a71147e3	700754	Psychrobacter glacincola
 54ab5e5eda12496b	700778	Bacillus horti
+028c463eb40d4aa6	700781	Phaeobacter gallaeciensis
+f09a83bb1fa34b5a	700782	Corynebacterium riegelii
 fd58420889094a59	700786	Bacteroides fragilis
+29141e78c4d94a15	700788	Staphylococcus aureus
+f75a92d9d5ce4437	700789	Staphylococcus aureus
 08b6b61f1de44f2e	700794	Streptococcus suis
 73c361ede7b84b0b	700803	Pasteurella multocida subsp. multocida
+75f243ed4659400b	700804	Pasteurella multocida subsp. multocida
+a866ef9698a246b3	700805	Pasteurella multocida subsp. multocida
 3a0f842745c5486a	700806	Pasteurella multocida subsp. multocida
 978db02619684606	700810	Flavobacterium frigidarium
 3e3594762bb244cc	700815	Cupriavidus gilardii
 5cae983a280d463c	700818	Cupriavidus pauculus
 b7c781ad9dfd4ab6	700821	Prevotella pallens
+a614b8c4a4664441	700822	Yersinia enterocolitica subsp. palearctica
 c658ba739ed449ea	700823	Yersinia enterocolitica subsp. palearctica
 a712be05ac2940ac	700826	Proteus hauseri
+783612ff71414260	700841	Thermaerobacter marianensis
 1133362656974d43	700842	Roseivivax halotolerans
+d9627c5b01d14609	700850	Haloarcula quadrata
 b6a8de28649e43e6	700859	Agrococcus citreus
+03d54ca823bf4938	700860	Pyrococcus horikoshii
 94e066e48c204ef4	700861	Streptomyces rameus
+dc1d75383a9f40a8	700874	Haloarcula mukohataei
+6beb106516d54ea3	700875	Haloarcula argentinensis
+faba1c07c1ca4541	700876	Halobaculum gomorrense
 fca77e55cb5a48f0	700882	Erwinia oleae
 12ddb17fa3204149	700887	Enterobacteriaceae sp.
 69b08687494348ac	700891	Escherichia coli
 e056b7742b334398	700894	Thiocapsa litoralis
 0f9526990a8e4a87	700896	Rhodovulum robiginosum
+ef4ad03ce6c94761	700897	Mycobacterium avium
+4d4ba00315ec4ddc	700898	Mycobacterium avium
 dc93e4b5e57645d5	700904	Streptococcus pneumoniae
 d0c386a7f9a74b00	700905	Streptococcus pneumoniae
 212522c9208d4ad7	700906	Streptococcus pneumoniae
+c04995bece2549d2	700910	Thermus scotoductus
+95ea6d4886874ebd	700916	Stenotrophomonas acidaminiphila
+fef240ec06df40b6	700917	Stenotrophomonas acidaminiphila
+40201578f7274d67	700927	Escherichia coli
 fb819206acf94551	700932	Helicobacter mesocricetorum
+f492f0e6ab8c42e0	700961	Thermus antranikianii
 653ea045a4cb44c5	700962	Thermus igniterrae
 a1ed48cd081c4998	700964	Xylella fastidiosa subsp. fastidiosa
 be26c795f30c4b15	700975	Corynebacterium aurimucosum
+213260106d2549e8	700993	Pseudoxanthomonas mexicana
+555840d50ab749d5	700995	Halomonas maura
 8d7bc33e7666493e	7064	Bacillus cereus
 8901a730895b46a7	7073	Streptococcus salivarius subsp. salivarius
 b8338dc15b394254	7080	Enterococcus faecalis
@@ -1703,6 +2432,7 @@ aa4a72dd59e8407f	7256	Enterobacter asburiae
 61d9c23f88bb4d8b	7430	Clavibacter michiganensis subsp. michiganensis
 be26086b041042e9	7468	Micrococcus luteus
 84966fd8fe034a5b	7496	Azotobacter vinelandii
+8024bb277e304d13	7644	Listeria monocytogenes
 f9cc6d300b8f4db9	7646	Listeria monocytogenes
 20440eef03fb410e	7700	Pseudomonas aeruginosa
 0ea599f6dd274011	7715	Corynebacterium bovis
@@ -1712,47 +2442,77 @@ a18036624a784cda	785	Bordetella bronchiseptica
 1084b179da484809	786	Bordetella bronchiseptica
 d4a6d0bc3e164ef7	79	Morganella morganii subsp. morganii
 c2c88e7c673a4557	7901	Aggregatibacter aphrophilus
+226b7ffbf1b64320	7955	Clostridium sporogenes
+9004958ba2674f02	7956	Thermoanaerobacterium thermosaccharolyticum
 5ba694ed774845b3	7960	Pasteurella multocida subsp. multocida
 92c8c93d35f043e4	7962	Lactococcus lactis subsp. lactis
 4508a2305c914e9b	7965	Aeromonas salmonicida
+76df1944e1f64938	8000	Lactobacillus delbrueckii subsp. lactis
+5307011b5cf44b1d	8010	Arthrobacter globiformis
+3b2baae19d9e4f0c	8014	Lactiplantibacillus plantarum
+3721318940dd45e2	8019	Morganella morganii subsp. morganii
 88f30bd0f66d46ef	8041	Lactiplantibacillus pentosus
 591f6de295b54261	8042	Pediococcus acidilactici
+fd3fef137a1b4e72	8043	Enterococcus hirae
+d16d94e9512f41b9	8071	Shewanella putrefaciens
 9d6b8b7156bb4c11	8073	Shewanella xiamenensis
 b7a5f3810c8248fe	809	Corynebacterium xerosis
 50fdde278af04605	8090	Citrobacter freundii
+ff64433ec7424962	8100	Serratia marcescens
 61531f24254f4b17	8142	Haemophilus influenzae
+b21f6589c45349af	8176	Moraxella catarrhalis
 d8c0f8e86bd64b84	8193	Moraxella catarrhalis
+cbaf1ab6d1524d0f	8195	Serratia marcescens
 c21f581790f1493e	8199	Pantoea stewartii subsp. stewartii
 ae841aafcee648a2	8260	Clostridium beijerinckii
 7590ec9f73af49ef	828	Enterococcus faecalis
 d916dc2420814fbe	8287	Levilactobacillus brevis
 a9d6e459eb9a4838	832	Lactobacillus acidophilus
 20119b0e3bc041fe	8324	Salmonella enterica subsp. enterica serovar Gaminara
+db1b1c8d4ce34134	8334	Streptococcus pneumoniae
 48632a1c774a4a92	8368	Tsukamurella paurometabola
 e303341659714390	8387	Salmonella enterica subsp. enterica serovar Montevideo
 0c67b18a0b3044b5	8388	Salmonella enterica subsp. enterica serovar Muenchen
 ece8e3934f8d4e03	8392	Salmonella enterica subsp. enterica serovar Berta
+93f577703d2d4b05	8400	Salmonella enterica subsp. enterica serovar Senftenberg
+dd9acef2299942f9	842	Paenibacillus polymyxa
 297f05a7ce7648f7	8427	Proteus vulgaris
 f5794a6e30e04f82	8467	Bordetella pertussis
 03886d3eea40484e	8492	Bacteroides uniformis
+8a1200fe7c4c48da	8501	Fusobacterium varium
 b5ad568f2c07445d	8530	Lacticaseibacillus rhamnosus
+1ad3d9cb781744d9	8724	Klebsiella michiganensis
 744096d8a4314a77	8759	Salmonella enterica subsp. enterica serovar Paratyphi B
 775770d7b468409b	9007	Haemophilus influenzae
 19da1b622f51457e	9008	Haemophilus influenzae
 ca35cf2dda824b5a	9043	Azotobacter chroococcum
 1ff9be10061f4799	907	Yersinia pseudotuberculosis
+70d3172cfd794cbc	9071	Aeromonas veronii
+a3235aefec84467c	909	Yersinia pseudotuberculosis
+309730b7c59b4bd4	9115	Salmonella enterica subsp. enterica serovar Bareilly
+e7949ebcd6764687	9120	Salmonella enterica subsp. enterica serovar Pullorum
+fba4721850234380	9141	Brevibacillus laterosporus
 dfe28b11b3a44f5f	9144	Staphylococcus aureus
+cc684ceeec4547f7	9175	Brevibacterium aurantiacum
 361eadbf4d1d432d	9184	Salmonella enterica subsp. enterica serovar Hillingdon
+31ac3cef402c4391	9199	Shigella flexneri
 434d21fdc5f84649	9207	Shigella boydii
 6f19f6bad7ea4db1	9220	Achromobacter xylosoxidans
 555f9ad2c437462f	9237	Morganella morganii subsp. morganii
+b5085cda13204d4b	9239	Salmonella enterica subsp. enterica serovar Oranienburg
 a3dcae3c711240a2	9261	Salmonella enterica subsp. enterica serovar Urbana
+d41698abd40a4ca6	9263	Salmonella enterica subsp. enterica serovar Kentucky
 e8c5f01e307d41d3	927	Mycobacterium marinum
 8470351bb06541dd	93	Serratia marcescens
+7c25fb16f3644d1f	9305	Bordetella parapertussis
+9f49243a65854c5d	9332	Haemophilus influenzae
+cb4ac0bdc9814736	9338	Lactobacillus fermentum
 7f51dcbd45f84f78	9340	Bordetella pertussis
+0166f53805764e2e	9345	Arcanobacterium haemolyticum
 b11de036359a4ce5	9347	Actinobacillus equuli subsp. equuli
 ed0e5477aef143af	9380	Shigella flexneri
 f4ff7222efe442e4	9436	Klebsiella pneumoniae subsp. rhinoscleromatis
+4db511dad20f40d0	9446	Pseudomonas chlororaphis subsp. chlororaphis
 0333d99a2b2e4e8a	9458	Vibrio cholerae
 f04cb46dc74e4ad4	9473	Shigella flexneri
 c736ee22f8fb4e60	9528	Streptococcus equi subsp. equi
@@ -1764,6 +2524,9 @@ c899652cad5f42c7	9563	Xanthomonas phaseoli
 114002bf1d1448d1	9617	Propionibacterium freudenreichii subsp. freudenreichii
 c51ce20debc6483e	9637	Escherichia coli
 d2017941139a4457	9650	Clostridium haemolyticum
+7a6b9f33acd441cd	9658	Pasteurella multocida subsp. multocida
+9177ed2167f545a1	9700	Salmonella enterica subsp. enterica serovar Minnesota
+769a5746849f4cc8	9712	Salmonella enterica subsp. enterica serovar Saintpaul
 66d789a5916c4d59	9714	Paeniclostridium sordellii
 c4857887cff14438	9715	Paeniclostridium sordellii
 52e349382ce843bd	9748	Shigella flexneri
@@ -1771,27 +2534,37 @@ c4857887cff14438	9715	Paeniclostridium sordellii
 fed533d4c2e342d7	9790	Enterococcus hirae
 433a21e06f954c71	9795	Haemophilus influenzae
 1573aed27df64bf7	9796	Haemophilus parainfluenzae
+e69fb2f0f6ec438d	9809	Streptococcus gallolyticus
+93e1ad3e84ae428a	9811	Streptococcus oralis
 a8dc6a95bc0643c1	9812	Streptococcus equinus
 3af75a7134f848b8	9817	Fusobacterium mortiferum
 bb234d2e10014dc1	984	Listeria monocytogenes
 50a80cb72f4b45f6	9854	Enterococcus faecalis
+ec0f72bbe13f4a5c	9886	Providencia alcalifaciens
 06cc5b833762402b	9905	Shigella boydii
 2457d883951f4c13	9906	Shigella flexneri
 e97c0b2f22cb4e34	9913	Neisseria sicca
 d7f3713b10674c98	9920	Proteus vulgaris
 00cd7b0fed084c4c	9930	Ensifer meliloti
+7fcfce51b7664b48	9945	Bacillus paralicheniformis
 67e8d9a8652e4cee	9945a	Bacillus paralicheniformis
+d58ef350a3f94488	9963	Streptococcus constellatus
 abca071981fc48f3	BAA-102	Streptococcus infantarius subsp. infantarius
 132a4774f72144f3	BAA-1032	Microbacterium natoriense
 6ce958655d45450d	BAA-104	Aliivibrio wodanis
 6dd5186f897e4d9a	BAA-1045	Salmonella enterica subsp. enterica serovar Enteritidis
+09f0c3af547f4ca1	BAA-105	Moritella viscosa
 708802b879034ce1	BAA-106	Pandoraea apista
 7b419f27fcd443cd	BAA-1064	Streptococcus pyogenes
+deef6b87b44c4cab	BAA-107	Pandoraea pnomenusa
+cfcf487c25c0466c	BAA-108	Pandoraea sputorum
 4a9a2ae73f02468e	BAA-1080	Labrys methylaminiphilus
 caabae80fbf242e1	BAA-1083	Spirochaeta dissipatitropha
 5ff986ede52c45d7	BAA-109	Pandoraea capi
 28da5dc490b14648	BAA-1096	Shewanella oneidensis
 4f36d9c892624ec6	BAA-1097	Shewanella putrefaciens
+86a294bae93f4e80	BAA-1098	Shewanella amazonensis
+599443fd62f44722	BAA-110	Pandoraea bronchicola
 7a026e3932014e02	BAA-111	Arthrobacter methylotrophus
 48b8e6484f5b468c	BAA-1119	Vibrio campbellii
 8f210b4cf8984c82	BAA-1121	Vibrio campbellii
@@ -1803,24 +2576,37 @@ b8f50dbf8aed4434	BAA-1169	Methanobrevibacter gottschalkii
 b57ea71419f645f9	BAA-1173	Methanomethylovorans thermophila
 0111e736526f44b5	BAA-1174	Streptococcus agalactiae
 e898e136acd84a1e	BAA-1175	Streptococcus agalactiae
+c5d244ff63bc4c88	BAA-1176	Streptococcus agalactiae
+b4c521c3bb2943de	BAA-1177	Streptococcus agalactiae
 2c31251b11de4221	BAA-1179	Alistipes shahii
 c51de078bc964a16	BAA-1180	Parabacteroides goldsteinii
+033b06168e2b49e6	BAA-12	Stenotrophomonas nitritireducens
 e89f1a6630e944be	BAA-1205	Shewanella morhuae
+73b0ecee67c34a91	BAA-1208	Shewanella hafniensis
 ef85270cb4494e3d	BAA-1219	Gracilibacter thermotolerans
 da9809955a0640ee	BAA-1227	Psychrobacter arcticus
+ad805fdcc38443c6	BAA-1239	Sphingomonas mucosissima
 a303f7bbb31b403d	BAA-1240	Enterococcus caccae
 4eac4bbf7e474934	BAA-1250	Salmonella enterica subsp. enterica serovar Paratyphi B
 44c811263bac4863	BAA-1251	Moritella sp.
 f2160a9347714044	BAA-1258	Caldalkalibacillus uzonensis
 46028d5bf22d409c	BAA-1259	Moraxella bovoculi
+2e201d1f883b4f8c	BAA-1296	Bacteroides ovatus
 f82904f439994cfd	BAA-130	Janibacter terrae
 0c15715916c0479c	BAA-1303	Azotobacter vinelandii
+c1bd7a0870cb40a6	BAA-1304	Bacteroides ovatus
+7ab6cdcca2dd44b6	BAA-1331	Methanococcus maripaludis
+fc4df47e00f24243	BAA-1332	Methanococcus maripaludis
+5bab1bb9ae3645c9	BAA-1333	Methanococcus maripaludis
+2c8c432bb7064545	BAA-1334	Methanococcus voltae
 ce395fcd1dc34562	BAA-1371	Mycobacterium crocinum
 1fa3154354d04700	BAA-1372	Mycobacterium pallens
 d5787e8706664c98	BAA-1374	Mycobacterium rutilum
 2e602ac18e0d4928	BAA-1378	Mycobacterium aromaticivorans
+7931c6718aba4ee7	BAA-1382	Clostridioides difficile
 f55962e2acbe444b	BAA-1384	Peptoniphilus olsenii
 a01cd296cf034735	BAA-1388	Pelobacter seleniigenes
+f04a215a8e944929	BAA-139	Listeria ivanovii subsp. londoniensis
 7fce2aa472cc43cc	BAA-1400	Mycobacterium arosiae
 cfc894a154584cd1	BAA-1401	Mycobacterium arosiense
 0caf1669880245d5	BAA-1402	Streptococcus pneumoniae
@@ -1834,18 +2620,22 @@ c9ae1fb561e24ad5	BAA-1404	Streptococcus pneumoniae
 0194e91032014406	BAA-1425	Moraxella catarrhalis
 62d9f959891f45e4	BAA-1428	Escherichia coli
 a374dd646c7f42b2	BAA-1429	Escherichia coli
+b2bff5251c95461e	BAA-1430	Escherichia coli
 0a8241dfa0aa49b9	BAA-1431	Escherichia coli
 b858370c11ae49f6	BAA-1434	Bacillus pumilus
 db92543b87f8494e	BAA-1435	Mycoplasma insons
 61396de69c514d03	BAA-1439	Endothiovibrio diazotrophicus
 31bb36fb407645dc	BAA-1452	Bartonella durdenii
+e025b0c749014e19	BAA-1453	Bartonella silvicola
 9a32d2a84a2a4f1f	BAA-1457	Campylobacter concisus
+b811a89a7c9146bb	BAA-1459	Campylobacter curvus
 6ff96f7973584f1f	BAA-1460	Desulfotignum toluenicum
 586294595c2d4f6f	BAA-1465	Massilia brevitalea
 f9b3d3662f3746e8	BAA-1478	Mycobacterium simiae
 82011c88511e47b6	BAA-1489	Verminephrobacter eiseniae
 716827632bd4487b	BAA-1494	Pseudomonas oleovorans subsp. lubricantis
 f8cf37e9833e409e	BAA-1498	Bartonella rochalimae
+8cc3fa4546234e4a	BAA-1500	Bartonella melophagi
 6891448d26fa4fd7	BAA-1505	Yersinia pestis
 950a4198dadf431d	BAA-1506	Yersinia pestis
 5abc9df0250f426d	BAA-1508	Yersinia pestis
@@ -1864,14 +2654,21 @@ b9a8969d4b0740b2	BAA-1581	Salmonella enterica subsp. houtenae
 d1da3230c8f34588	BAA-1582	Salmonella enterica subsp. salamae
 06ef7c52033743ff	BAA-1586	Salmonella enterica subsp. enterica serovar Sendai
 f57f4491e48045a6	BAA-1587	Salmonella enterica subsp. enterica serovar Enteritidis
+a9c7504b5f7e4ecf	BAA-1593	Salmonella enterica subsp. enterica serovar Javiana
+65a507bc109a4152	BAA-1595	Listeria marthii
 41b70d3b09c84bdb	BAA-1596	Yersinia pestis
 cfc6aaa594c64bee	BAA-16	Caldanaerobius zeae
+7eb1d311ab0043e5	BAA-1605	Acinetobacter baumannii
 82b04d1d08c74e80	BAA-1608	Yersinia pestis
+4d340f9f08ea4784	BAA-1611D-5	Yersinia pestis
 2d2540f8155f49bf	BAA-1612	Yersinia pestis
 0afdf96b99404e92	BAA-1613	Yersinia pestis
 00cb0ba1ba99453d	BAA-1614	Yersinia pestis
 8f0d80b247b544ae	BAA-1616	Yersinia pestis
 f7e92a39e9244662	BAA-1623	Herminiimonas glaciei
+4512585a97e741d2	BAA-163	Thermus thermophilus
+d3e1494a13dd4a8d	BAA-1650	Shewanella xiamenensis
+9e10b87e24b145b8	BAA-1653	Escherichia coli
 25b70f3ea93844da	BAA-1658	Streptococcus pneumoniae
 b3ac0ef3de4b4eb0	BAA-1659	Streptococcus pneumoniae
 8e5de6f8f08b458d	BAA-1660	Streptococcus pneumoniae
@@ -1879,30 +2676,49 @@ b3ac0ef3de4b4eb0	BAA-1659	Streptococcus pneumoniae
 4c485f121450442b	BAA-1663	Streptococcus pneumoniae
 73374c59c63248f0	BAA-1665	Streptococcus pneumoniae
 d8e1adb52c6b4966	BAA-1668	Streptococcus sp.
+167f87d2e8de4c22	BAA-1673	Salmonella enterica subsp. enterica serovar Poona
 b0b595a245194fe2	BAA-1674	Salmonella enterica subsp. enterica serovar Muenchen
 eea1b3abe288427c	BAA-1677	Thermus islandicus
 7afc35f71e0f4fe0	BAA-1680	Staphylococcus aureus
 ea764e94abb749fd	BAA-1681	Staphylococcus aureus
+6f06c1c39c184234	BAA-1682	Staphylococcus aureus
 68e0a5139de741fe	BAA-1683	Staphylococcus aureus
 9f42710d57d44ef4	BAA-1684	Staphylococcus aureus
+048c6e05335041d4	BAA-1687	Staphylococcus aureus
+5245fb825a934bca	BAA-1688	Staphylococcus aureus
 65e4106815a1482d	BAA-1689	Staphylococcus aureus
+8953aca6187c4978	BAA-1690	Staphylococcus aureus
 e85ce0c8dfde4312	BAA-1691	Staphylococcus aureus
+fe1ea1bf61f14861	BAA-1693	Staphylococcus haemolyticus
 28c8d87d360d4830	BAA-1694	Staphylococcus aureus
 3c9b3ab0cacb4305	BAA-1695	Staphylococcus aureus
 09cdcf579b3e4a01	BAA-1697	Staphylococcus aureus
 601d266d625248ec	BAA-1698	Staphylococcus aureus
+8ce581d5628442e0	BAA-1708	Staphylococcus aureus
+769bdfb9664048c8	BAA-1709	Acinetobacter baumannii
 908cf7aaec5f4f09	BAA-171	Lactiplantibacillus plantarum
 b877391a8bcf45a0	BAA-1711	Caldicoprobacter oshimai
 dc87a897f1544bf8	BAA-1712	Isoptericola sp.
 6e2451a3840b43da	BAA-1716	Streptococcus equi subsp. zooepidemicus
 51c94c4db9e54ce5	BAA-1720	Staphylococcus aureus
+887b8849c73c4109	BAA-173	Tsukamurella strandjordii
 cfc832de45b64c09	BAA-1735	Salmonella enterica subsp. enterica serovar Montevideo
 b649deb4d69040ac	BAA-1739	Salmonella enterica subsp. enterica serovar Braenderup
 8607d242b3934acd	BAA-1740	Salmonella enterica subsp. enterica serovar Bovismorbificans
 09661e6bb34543e0	BAA-1744	Pseudomonas aeruginosa
+4bb69a0f05eb4ecb	BAA-1747	Staphylococcus aureus
 42a40e137da14cd8	BAA-1750	Staphylococcus aureus
+2e5b5da108e74575	BAA-1752	Staphylococcus aureus
 ade5ab9d246d45c9	BAA-1753	Staphylococcus aureus
+4ad7d842b4304658	BAA-1754	Staphylococcus aureus
+b13a519abf61495f	BAA-1756	Staphylococcus aureus
+981ff2d6ebe64ba6	BAA-1757	Staphylococcus aureus
 8c51dc91ab4b47fa	BAA-1760	Staphylococcus aureus
+0c2e3c7def604523	BAA-1762	Staphylococcus aureus
+63c4eb3b09cb4634	BAA-1763	Staphylococcus aureus
+15032bdbbc884faa	BAA-1764	Staphylococcus aureus
+585f542b14a44a07	BAA-1766	Staphylococcus aureus
+542ec111fb314f8f	BAA-1767	Staphylococcus aureus
 33d3261be07d43ea	BAA-1768	Staphylococcus aureus
 64cea1a01a1b4166	BAA-1769	Staphylococcus aureus
 6070b755982f410b	BAA-1771	Staphylococcus aureus
@@ -1910,46 +2726,95 @@ b4d62f0178c54ccd	BAA-1776	Thermoanaerobacterium thermostercoris
 cebaec7e05584d49	BAA-1777	Bartonella washoensis
 46880598b9804627	BAA-178	Escherichia coli
 ebbde2d9edf7495c	BAA-1784	Arcanobacterium haemolyticum
+780b15ba9ba44a03	BAA-1790	Acinetobacter baumannii
+fa63bc8a77c24c01	BAA-1791	Acinetobacter baumannii
+43aba109c7bf4771	BAA-1792	Acinetobacter baumannii
+d455f4f98a104ccc	BAA-1793	Acinetobacter baumannii
 c273f13a463b4b3b	BAA-1794	Acinetobacter baumannii
+fa4fb75a2e1b4e79	BAA-1795	Acinetobacter baumannii
+1d256ed88bd64d92	BAA-1796	Acinetobacter baumannii
 497902ff377c4280	BAA-1797	Acinetobacter baumannii
+59f89b77baba4974	BAA-1798	Acinetobacter baumannii
 e9aac30765c14380	BAA-1799	Acinetobacter baumannii
+9e1ce5cb15394c70	BAA-1800	Acinetobacter baumannii
 f42b9f700a7d4dcb	BAA-1801	Clostridioides difficile
+cb70f041e9ad4b92	BAA-1803	Clostridioides difficile
+95e58ece5ac0463c	BAA-1804	Clostridioides difficile
+a56d54a8d44149d9	BAA-1805	Clostridioides difficile
 39f30c19504843d6	BAA-181	Escherichia coli
+6bbb41313b6d4241	BAA-1812	Clostridioides difficile
+5d611d4e9c754267	BAA-1814	Clostridioides difficile
 e077a82f29f049fc	BAA-1818	Microbacterium paraoxydans
 0649a1200b1647c7	BAA-1832	Brachyspira canis
 df4ab418436d4c75	BAA-1833	Neisseria gonorrhoeae
+2ce77d3dbe414af8	BAA-1837	Neisseria gonorrhoeae
+a0ed11135d434cd9	BAA-1838	Neisseria gonorrhoeae
+e3cc7ff84565490b	BAA-1839	Neisseria gonorrhoeae
+6ae298ad53224cdf	BAA-184	Escherichia coli
 d2546e5050bc4f63	BAA-1845	Neisseria gonorrhoeae
 649d31280e3b4981	BAA-1846	Neisseria gonorrhoeae
+dbc52e037d2c4c15	BAA-1848	Dechloromonas aromatica
 3fcd1c2f5a9b4aad	BAA-1852	Rhodoferax saidenbachensis
+4a3c154ae2bb41ce	BAA-1870	Clostridioides difficile
 76c58a9e461c4074	BAA-1877	Borrelia americana
 23545793ef5049d4	BAA-1880	Anoxystipes aquaeolei
 9e58d11d214648a4	BAA-1882	Escherichia coli
+635a8f6e34dc4b46	BAA-1883	Escherichia coli
+524bc0efda9f4b69	BAA-1899	Klebsiella pneumoniae
 d063967e1a9f487c	BAA-1900	Klebsiella pneumoniae
+63b8d90703da4d39	BAA-1902	Klebsiella pneumoniae
+7a8d73d736be40ec	BAA-1903	Klebsiella pneumoniae
+83c301ff400d45cd	BAA-1904	Klebsiella pneumoniae
+ca314d687f42414b	BAA-1905	Klebsiella pneumoniae
 94ec369bcd02461a	BAA-1906	Constrictibacter antarcticus
 29fdf1ae2d6d4d05	BAA-1916	Desulfovibrio sp.
 5df0b9f2df9f43ef	BAA-196	Escherichia coli
+2786b8b7ac3541d9	BAA-198	Escherichia coli
+fa4ba57a75354706	BAA-199	Escherichia coli
+ac748925cc40487a	BAA-200	Escherichia coli
+7c79624f48b74df3	BAA-201	Escherichia coli
+458625e7a53d4fca	BAA-204	Escherichia coli
 e62dea674ed84571	BAA-207	Aquabacterium citratiphilum
 a2b975998568450b	BAA-2073	Caldicellulosiruptor obsidiansis
 2c95020b7dbb417f	BAA-2081	Proteus mirabilis
 bdbcb0c987d843b5	BAA-2082	Enterobacter hormaechei subsp. steigerwaltii
 ad7ab3a5791a4107	BAA-2085	Salmonella enterica subsp. enterica serovar Worthington
+c6c3488f95164ef4	BAA-2094	Staphylococcus aureus
 b50d6c45bf0e41eb	BAA-2105	Peptoniphilus tyrrelliae
+1efc02f876c44ae3	BAA-2108	Pseudomonas aeruginosa
 812cf45bbaf14fb9	BAA-2110	Pseudomonas aeruginosa
+79fa6d16acc94b46	BAA-2111	Pseudomonas aeruginosa
+e7b3daa3bcbf4b4f	BAA-2112	Pseudomonas aeruginosa
+afc5ac9389864b00	BAA-2113	Pseudomonas aeruginosa
+a86969582da540ab	BAA-2114	Pseudomonas aeruginosa
 e299fa73e72c4cc0	BAA-2116	Rhizobium endophyticum
 ae351dee6bd04d56	BAA-2120	Mageeibacillus indolicus
 5af21362f7114aa2	BAA-2123	Rhizobium mesoamericanum
+24e8609bb3684ef2	BAA-2127	Enterococcus faecium
+13b3b61c2a594f91	BAA-2128	Enterococcus faecalis
+19071909dd4a462a	BAA-2129	Escherichia coli
 b13a6cca61474b4a	BAA-2149	Mycobacterium franklinii
 089d6955844d479d	BAA-2151	Campylobacter jejuni
 60c087403d83418d	BAA-2156	Clostridioides difficile
+78a6ece703a44424	BAA-216	Salmonella enterica subsp. diarizonae
 5e7aeb8ac74e46e3	BAA-2162	Salmonella enterica subsp. enterica serovar Abony
+0e4b09cbc8b74b70	BAA-2163	Vibrio cholerae
 acb027d0dbe14bb9	BAA-2173	Geobacter sp.
 e9c4a55f72f1458d	BAA-2182	Escherichia coli
 07bae7db17d24a17	BAA-219	Campylobacter jejuni subsp. jejuni
 f13d3c68e45b42a8	BAA-2192	Escherichia coli
+5e4cc825ffda47b9	BAA-2194	Escherichia coli
+6d67124b2cda476e	BAA-2196	Escherichia coli
+964d8cbcbca94b85	BAA-22	Streptococcus agalactiae
 a2408d5affca4ceb	BAA-2203	Escherichia coli
+a5cb7c70626343bf	BAA-2212	Escherichia coli
+855ecdfb41794476	BAA-2214	Escherichia coli
+8a9beb6bf976436a	BAA-2216	Escherichia coli
 9603ad7afbfc44cf	BAA-2219	Escherichia coli
 337e7d891e3c4e65	BAA-2221	Escherichia coli
 11ca16611d804aea	BAA-2233	Algoriphagus machipongonensis
+de1743d4ec9e474f	BAA-2236	Mycobacterium tuberculosis
+015d1b5f1ae54d1a	BAA-2237	Mycobacterium tuberculosis
 8aa07c334bc142c8	BAA-2240	Agrobacterium fabrum
 c10aace954274131	BAA-2248	Bartonella doshiae
 4ec586721e104e7e	BAA-2251	Bartonella tamiae
@@ -1963,51 +2828,81 @@ b00fc5b405cc46d3	BAA-227	Ensifer kostiensis
 7e0aa144bbe344ef	BAA-2291	Streptococcus pneumoniae
 18d2c711dfa34170	BAA-2292	Streptococcus pneumoniae
 ee7fc290d0d5446b	BAA-23	Streptococcus agalactiae
+8943729a27d1448c	BAA-2316	Enterococcus faecium
+f657b53764454a90	BAA-2318	Enterococcus faecium
+2171282257864684	BAA-2319	Enterococcus faecium
 67cfab12032e4f65	BAA-2320	Enterococcus faecium
+1764263978714820	BAA-2331	Caulobacter crescentus
+dbe951de093c4c3c	BAA-2341	Enterobacter hormaechei subsp. xiangfangensis
+4d33c7ae449747a5	BAA-2342	Klebsiella pneumoniae
+8901d6a3c0b848b0	BAA-2343	Klebsiella pneumoniae
+6918dd0ebad54015	BAA-2344	Klebsiella pneumoniae
+c68dbb0836ef4a3d	BAA-2355	Escherichia coli
+68510ccf3a5444b6	BAA-2356	Klebsiella aerogenes
 850c41b0474542b7	BAA-2361	Allofrancisella guangzhouensis
+717e6438cc354ab9	BAA-2363	Vibrio campbellii
+02bf400ac05044f5	BAA-2365	Enterococcus faecalis
 480d98687aaa4a35	BAA-2377	Delftia tsuruhatensis
 4d99e001433a48b8	BAA-238	Vibrio parahaemolyticus
 da84589be8274d7e	BAA-2381	Rothia amarae
 87b9e0464f7a46c0	BAA-239	Vibrio parahaemolyticus
 38b68ec80e3c44a8	BAA-24	Agrobacterium albertimagni
 8765f2efd7b3495d	BAA-240	Vibrio parahaemolyticus
+fcdc43646914416f	BAA-2403	Klebsiella michiganensis
 464dc2dce07f4be5	BAA-2406	Xenorhabdus khoisanae
+99311bf7035c4f19	BAA-2408	Shewanella electrodiphila
 97674d2fc4254cbc	BAA-241	Vibrio parahaemolyticus
 145d6983bbbb423d	BAA-2414	Listeria fleischmannii subsp. coloradonensis
+bb37689ae5fe456d	BAA-2423	Stenotrophomonas maltophilia
 72bd21516ec64976	BAA-2428	Escherichia coli
 dbf9ff5021d2449c	BAA-2441	Escherichia coli
 7f3f28c7a74545bf	BAA-2443	Escherichia coli
 ac40a1621c1647ce	BAA-2448	Gilliamella apicola
+336b199a86464315	BAA-2449	Snodgrassella alvi
 2cc27ae407a5450b	BAA-2452	Escherichia coli
 3def391c1b2c4818	BAA-2467	Marinobacter vinifirmis
 75918406d2f7422a	BAA-2468	Enterobacter hormaechei subsp. steigerwaltii
 0505fb1208a84582	BAA-2469	Escherichia coli
 9086182856c14180	BAA-2470	Klebsiella pneumoniae subsp. pneumoniae
+e5952e7ea4604d4a	BAA-2471	Escherichia coli
 99f6bbb69391433d	BAA-2472	Klebsiella pneumoniae subsp. pneumoniae
 718a100332de4754	BAA-248	Burkholderia vietnamiensis
 8df308b788704bed	BAA-2481	Liberibacter crescens
 80d7fe785ec14004	BAA-249	Streptococcus gallolyticus subsp. macedonicus
+4a80fc5284c043a5	BAA-2496	Borrelia garinii subsp. bavariensis
 46f6005999c54ab0	BAA-2500	Methylorubrum extorquens
 8579a3b872234a26	BAA-2501	Pectinatus sottacetonis
+fbb86d33311b4c0b	BAA-2504	Vibrio cholerae
 9e8d3a088cd14b76	BAA-2505	Vibrio cholerae
 613a8519f3f24976	BAA-2506	Vibrio cholerae
 0553bec8639740aa	BAA-2523	Escherichia coli
+3356b84ff228483e	BAA-2525	Providencia rettgeri
 3c2fdbb712b84dbc	BAA-2540	Chryseobacterium aahli
 208856ae9b4447fe	BAA-2541	Flavobacterium tructae
 b5b7964bcd5640da	BAA-2546	Pseudomonas putida
 738557cb026d46d2	BAA-255	Streptococcus pneumoniae
 a83919d08cb0480d	BAA-2551	Saccharopolyspora indica
+3402d1f06a094d92	BAA-2552	Klebsiella variicola
 627cb79076b84f3d	BAA-2554	Sodalis praecaptivus subsp. praecaptivus
 fd1523a89c6f43c5	BAA-2555	Anoxybacillus geothermalis
 0beecf1fe08742d0	BAA-2564	Citrobacter freundii
 a7ee54842bd748c5	BAA-257	Pseudomonas frederiksbergensis
+1e29410b6e4048d3	BAA-2571	Enterococcus faecium
 4ab65faf91aa4be7	BAA-2572	Klebsiella oxytoca
+89f141a2e1944869	BAA-2574	Enterococcus faecium
+befd6d0260f4439c	BAA-2580	Escherichia coli
+1b5d4c36474c44fa	BAA-2581	Escherichia coli
+7e25de0889ca426b	BAA-2583	Escherichia coli
+11d511ca6f084ec9	BAA-2590	Shewanella benthica
 b069a26ededd4ea0	BAA-2592	Brachyspira suanatina
+b3332873cb174696	BAA-2593	Streptococcus salivarius
 b37db735ef4f43bf	BAA-2594	Paenibacillus lentus
+a7614df208a24a03	BAA-260	Enterobacter kobei
 0bb14e85f61c46c2	BAA-2609	Colwellia arctica
 a964ee245c7d4aad	BAA-2610	Psychroserpens sp.
 15bd28ab7da14589	BAA-262	Gelria glutamica
 8aa43b322df74b2d	BAA-2621	Lysobacter yananisis
+a6d2e440c395480f	BAA-2622	Alkalibacterium sp.
 581775b39b354eb5	BAA-2624	Citrobacter rodentium
 91958c11ec924ebb	BAA-2629	Nonomuraea thermotolerans
 a6f205bcb7654db0	BAA-2630	Paenactinomyces guangxiensis
@@ -2015,6 +2910,7 @@ a6f205bcb7654db0	BAA-2630	Paenactinomyces guangxiensis
 aa54a25272714394	BAA-2636	Bartonella koehlerae subsp. bothieri
 bf37fe726dfa41c8	BAA-2637	Yersinia rochesterensis
 85ed2969ecd34941	BAA-2638	Oribacterium parvum
+e05f4381b6b2472b	BAA-2643	Porphyromonas pogonae
 3d563d3d6595431b	BAA-2649	Escherichia coli
 a6850fd2b8bd4062	BAA-2658	Listeria monocytogenes
 cd010fa833b3451f	BAA-2659	Listeria monocytogenes
@@ -2022,6 +2918,7 @@ cd010fa833b3451f	BAA-2659	Listeria monocytogenes
 834dcd93cbb24dd8	BAA-2668	Streptococcus agalactiae
 a3b0b1dfedbe44c5	BAA-2669	Streptococcus agalactiae
 5d5a7ed48f8848ff	BAA-2670	Streptococcus agalactiae
+08ffd99ed82b4684	BAA-2671	Streptococcus agalactiae
 3880dc55ee004550	BAA-2672	Streptococcus agalactiae
 6d278044512d460c	BAA-2673	Streptococcus agalactiae
 349ca7339a0e469e	BAA-2674	Streptococcus agalactiae
@@ -2038,22 +2935,30 @@ dce77c7f6dab446f	BAA-269	Solibacillus silvestris
 0aa1873b1d0c46a9	BAA-2694	Bartonella ancashensis
 4d9c1dfd5a9f4ebc	BAA-2701	Bordetella pertussis
 efb44c653a434aab	BAA-2705	Bordetella pertussis
+1914328ce68547c7	BAA-2707	Bordetella pertussis
 2eb1d7579103428a	BAA-2716	Desulfuromonas carbonis
+f5d7de048b2f4096	BAA-2717	Tannerella forsythia
+a09620fe3e284eaf	BAA-2718	Nitrosomonas stercoris
 6e930f03035c4e1b	BAA-2720	Salmonella enterica subsp. enterica serovar Typhimurium
 13d28f9a855a40fd	BAA-2721	Salmonella enterica subsp. enterica serovar Typhimurium
+9bf67c54f5b14a88	BAA-2722	Salmonella enterica subsp. enterica serovar Typhimurium
 86c019ca45874cd0	BAA-2725	Sphaerotilus montanus
 b29d3c1ce827472c	BAA-2730	Escherichia coli
 f0e00cccdd4d49e3	BAA-2731	Escherichia coli
 2c70a9fd8fbf408d	BAA-2732	Shewanella indica
 3f2132604dfd4382	BAA-2739	Salmonella enterica subsp. enterica serovar Mississippi
 c33ffbb16e9f4eb8	BAA-2741	Salmonella enterica subsp. enterica serovar Salford
+b63e9bcf34904a94	BAA-2754	Streptococcus pneumoniae
 ecaec8784ef94900	BAA-2762	Staphylococcus aureus
 25f440d8b05a40e6	BAA-2763	Staphylococcus aureus
+2e571085ff46469d	BAA-2764	Staphylococcus aureus
 c3037ee6b9434d4d	BAA-2765	Staphylococcus aureus
 b0929aff2d544d97	BAA-2767	Burkholderia humptydooensis
 a107250ee3954987	BAA-2768	Hafnia alvei
 88afc943de9c40f9	BAA-2770	Pluralibacter gergoviae
+6608ddfa98464be4	BAA-2773	Lactobacillus florum
 a1fcb531cc0e4ce7	BAA-2814	Klebsiella pneumoniae
+74983a36b59a4833	BAA-2815	Geobacter sulfurreducens
 f60484c05a0a4c16	BAA-2820	Enterococcus faecalis
 8448134585e4419a	BAA-2830	Legionella pneumophila
 adb85661251b4c47	BAA-2831	Komagataeibacter rhaeticus
@@ -2063,6 +2968,7 @@ adb85661251b4c47	BAA-2831	Komagataeibacter rhaeticus
 345ab27565904534	BAA-2846	Enterococcus faecium
 07262ad15e094599	BAA-2848	Bifidobacterium animalis subsp. lactis
 b4c38b2acfda4e34	BAA-2850	Bifidobacterium bifidum
+91099c676a4b48b5	BAA-2852	Xylella fastidiosa subsp. multiplex
 a810789ed0314aac	BAA-2858	Corynebacterium kroppenstedtii
 924f25a1a2e04a2c	BAA-286	Dysgonomonas gadei
 20ada2cae3484685	BAA-2869	Akkermansia muciniphila
@@ -2174,24 +3080,40 @@ d01d0d28701d4fdd	BAA-3125	Streptococcus pneumoniae
 878ac1c6b44f4608	BAA-3128	Streptococcus pneumoniae
 a16efc9878b34015	BAA-3129	Streptococcus pneumoniae
 522f26d46c064ab1	BAA-3130	Arachnia propionica
+d3f65587f2264862	BAA-3131	Listeria monocytogenes
+4c4281a3985c4458	BAA-3132	Listeria monocytogenes
+18fcd2e3a5654069	BAA-3133	Listeria monocytogenes
 03a559a9f87e4843	BAA-3135	Listeria monocytogenes
 eb239a1502cc4c9b	BAA-3136	Salmonella enterica subsp. enterica serovar Cerro
+ad6f4e954d8e4b19	BAA-3144	Pseudomonas aeruginosa
 dfeb9e4fa4734e04	BAA-3145	Bifidobacterium longum
 02cd4aea0a8f421e	BAA-3146	Enterococcus faecium
 e2a4bc3da6e341ff	BAA-3147	Lactobacillus johnsonii
 b80784d22a584824	BAA-3150	Streptococcus thermophilus
 9d036bbf1c4f4e14	BAA-3151	Borrelia miyamotoi
+b2774306988d4299	BAA-3152	Listeria monocytogenes
 d7357cddbbbe455e	BAA-3153	Listeria monocytogenes
+df2327f60e404c76	BAA-3154	Salmonella enterica subsp. enterica serovar Typhimurium
 f67e08f90ad84b8e	BAA-3155	Salmonella enterica subsp. enterica serovar Typhimurium
+033389c9dee74df8	BAA-3158	Salmonella enterica subsp. enterica serovar Typhimurium
+da6aae89cafb465f	BAA-3159	Salmonella enterica subsp. enterica serovar Enteritidis
 c9fd2dfa642b42bd	BAA-316	Shewanella japonica
+1b8e6cc901634d72	BAA-3160	Salmonella enterica subsp. enterica serovar Enteritidis
+229cb6e673744378	BAA-3161	Salmonella enterica subsp. enterica serovar Newport
 731b2fd214d644ae	BAA-317	Shewanella japonica
+ee58e30d09284925	BAA-3170	Escherichia coli
 2bbe156db1824f7e	BAA-318	Shewanella fidelis
 913edeac943f454d	BAA-3180	Streptococcus pneumoniae
 b7f3e034bc7544ee	BAA-3197	Pseudomonas aeruginosa
 db6f10c5f1244ba3	BAA-3199	Salmonella enterica subsp. enterica
+d0e37eba482d4e9f	BAA-3203	Aromatoleum toluclasticum
+edbc459548ce4486	BAA-3204	Bordetella pertussis
+e4d121661afa4a59	BAA-3205	Bordetella pertussis
 df0a0e2b776c47e8	BAA-3208	Escherichia coli
 6b4f165d2f45467e	BAA-3209	Schaalia odontolytica
+833dd80ad10349a3	BAA-3210	Roseomonas mucosa
 84bb24fe69964abb	BAA-3211	Pseudomonas aeruginosa
+cba8f6a317f94679	BAA-3212	Bradyrhizobium sp.
 0a1dd2daa16849bc	BAA-3217	Clostridium ljungdahlii
 c9eacfad1b764873	BAA-3218	Pseudomonas aeruginosa
 97a0838856744b0f	BAA-3219	Escherichia coli
@@ -2257,6 +3179,7 @@ bd197937a0e14a37	BAA-3322	Streptococcus pneumoniae
 a39396fa7c5846ab	BAA-3325	Streptococcus pneumoniae
 9da10287ef8d4e86	BAA-3327	Streptococcus pneumoniae
 8843073ab7e3413f	BAA-3328	Streptococcus pneumoniae
+ecdda0c0511945ab	BAA-333	Exiguobacterium aurantiacum
 391623df94964877	BAA-3330	Streptococcus pneumoniae
 8c9a4f0e67d24a95	BAA-3332	Streptococcus pneumoniae
 fc50296bd8714d48	BAA-3335	Streptococcus pneumoniae
@@ -2275,29 +3198,47 @@ a72315d2de224e54	BAA-3345	Cronobacter sakazakii
 5349c1a9431d4da7	BAA-337	Streptococcus dysgalactiae subsp. equisimilis
 301d253360b841b2	BAA-340	Streptococcus pneumoniae
 2a1b9c27a2064ebf	BAA-341	Streptococcus pneumoniae
+389b053b858f4f75	BAA-343	Streptococcus pneumoniae
 14b81703230c4130	BAA-3440	Neisseria gonorrhoeae
 27f4f6c76cd64a67	BAA-349	Listeria innocua
+4182747b16024987	BAA-365	Lactobacillus delbrueckii subsp. bulgaricus
+f913461008c84c25	BAA-369	Caldimonas manganoxidans
+eb63f9aaf8b44edc	BAA-371	Campylobacter coli
 97199415a25d44ab	BAA-372	Campylobacter coli
 7b5bdbc85f3e42f9	BAA-373	Campylobacter jejuni subsp. jejuni
 81911a5463124c74	BAA-375	Campylobacter jejuni subsp. jejuni
+a1e0fa798d0641a1	BAA-38	Staphylococcus aureus
+fb5536521b014fde	BAA-381	Campylobacter hominis
+784b633be4064239	BAA-382	Enterococcus haemoperoxidus
 d93c4bf3e6a34d05	BAA-383	Enterococcus moraviensis
 d29ae13296e84bc7	BAA-39	Staphylococcus aureus
 d013e0d7c6504b8b	BAA-399	Meiothermus taiwanensis
+7cdff29a23994fea	BAA-40	Staphylococcus aureus
 2a63a24b697042bf	BAA-406	Rubrobacter taiwanensis
+d26ee2a655d54d0a	BAA-412	Enterococcus phoeniculicola
 fa8b8d554b9e4ba0	BAA-413	Paenibacillus brasilensis
+28825c132c334f0d	BAA-42	Staphylococcus aureus
 8ae7dfa7b75b4d17	BAA-427	Pseudomonas aeruginosa
 d7fd17811f53423d	BAA-428	Pasteurella multocida subsp. multocida
+b2b084fef3e846a8	BAA-43	Staphylococcus aureus
 61d660b63d084d3e	BAA-430	Helicobacter winghamensis
+3568910da2514c60	BAA-450	Vibrio coralliilyticus
 8560ffef52804335	BAA-47	Pseudomonas aeruginosa
+2ed0c1b60cfe40f7	BAA-473	Stenotrophomonas rhizophila
+113764b8354a46fa	BAA-474	Cetobacterium somerae
 e5891294105d48a4	BAA-475	Streptococcus pneumoniae
 161f771471d14f92	BAA-478	Companilactobacillus versmoldensis
 0c1c2468cabf4c82	BAA-488	Thermotoga petrophila
 0569a987c2f24e5c	BAA-495	Mycobacterium sp.
+5cf08f295b9041e3	BAA-500	Polaromonas sp.
 2399acd1cede418d	BAA-515	Pantoea ananatis
 997625a104d744c1	BAA-52	Lacticaseibacillus paracasei subsp. paracasei
 b4990491bddf4353	BAA-521	Spiroplasma leucomae
+aa07e8781d624001	BAA-525	Escherichia coli
 d415ae75c2eb4b33	BAA-527	Campylobacter jejuni subsp. jejuni
+12f05509f6e0427e	BAA-531	Novosphingobium tardaugens
 6e09b58d46904a59	BAA-532	Sinorhizobium americanum
+16950c688f9243cb	BAA-535	Mycobacterium marinum
 6849c842fff34cc8	BAA-55	Fannyhessea vaginae
 49212cc3e4c643bd	BAA-553	Pantoea ananatis
 2fe359b927994506	BAA-554	Delftia tsuruhatensis
@@ -2309,6 +3250,7 @@ c467d01c32334f57	BAA-580	Clostridium lacusfryxellense
 90fb4b0c6b754a85	BAA-599	Paracoccus yeei
 93c379e273ee45ea	BAA-60	Luteococcus peritonei
 739454283e174df2	BAA-600	Pasteurella multocida subsp. tigris
+991aaf840de642a6	BAA-601	Peptoniphilus harei
 a12abf729ef24f70	BAA-602	Peptoniphilus ivorii
 ff64f3298b1d44a7	BAA-613	Clostridium bolteae
 0b215b2f02244c85	BAA-617	Acinetobacter ursingii
@@ -2321,29 +3263,42 @@ effd631be4ae490c	BAA-639	Salmonella enterica subsp. diarizonae
 a4b245f4da2e4c00	BAA-659	Streptococcus pneumoniae
 71b284c472f64826	BAA-660	Streptococcus pneumoniae
 68d65ca401c44025	BAA-661	Streptococcus pneumoniae
+d91bbc12741d4858	BAA-663	Proteus mirabilis
 9b70d39ac2554352	BAA-664	Salmonella enterica subsp. enterica serovar Braenderup
+f50eae19c1e0447a	BAA-665	Propionispora hippei
+c2f089326b004eda	BAA-67	Burkholderia stabilis
 f20f4ebfb0284766	BAA-673	Pectobacterium atrosepticum
 f8e5e39968354cb9	BAA-68	Citrobacter farmeri
 c5ea1537943b45ce	BAA-680	Listeria innocua
+6ec71a9cee6841d9	BAA-689	Fusobacterium canifelinum
 cfd0d8e49145434f	BAA-691	Roseomonas gilardii subsp. rosea
 783e3d1c04bd4224	BAA-692	Roseomonas mucosa
+09cc7d7387d24225	BAA-698	Burkholderia anthina
+4bc82f71385e43fa	BAA-699	Cupriavidus basilensis
 e50ebfab63954811	BAA-707	Salmonella enterica subsp. enterica serovar Agona
 c0ad39d4ff61446c	BAA-708	Salmonella enterica subsp. enterica serovar Enteritidis
+100b594ab4114233	BAA-710	Salmonella enterica subsp. enterica serovar Montevideo
 d288a3708efc4abe	BAA-716	Ralstonia mannitolilytica
+7a4f9a8151364bbe	BAA-722	Salinicoccus alkaliphilus
 17cfcccd26744328	BAA-724	Psychromonas marina
 508faa21f2294950	BAA-729	Neisseria meningitidis
 a8f78fabe53c4a95	BAA-747	Acinetobacter baumannii
 48508f2260984b89	BAA-749	Brucella anthropi
+cbe7f208664e43d0	BAA-752	Kocuria kristinae
+3b86675a286946d8	BAA-753	Listeria ivanovii subsp. londoniensis
 b8925c5392bb44fe	BAA-762	Nitratireductor aquibiodomus
 197bf01ef6cd4c11	BAA-769	Escherichia coli
 6bd8206472154c52	BAA-787	Cellulomonas septica
 5ec370fd7c53416a	BAA-79	Pseudomonas aeruginosa
 63b82849da614fa7	BAA-792	Marinobacter squalenivorans
 d84d82305a4e4886	BAA-799	Microbacterium sp.
+32dbca83da4746c8	BAA-802	Halomonas axialensis
 9602dc03dcbd437b	BAA-807	Curvibacter gracilis
 ba8f08498168443b	BAA-809	Brevibacterium celere
+5d42906719ee4a9d	BAA-811	Staphylococcus aureus
 b507f86d57dc4fd0	BAA-822	Furfurilactobacillus rossiae
 9de23dbf55ca42db	BAA-823	Mycobacterium hackensackense
+76c4ecebfe1a4190	BAA-824	Mycobacterium caprae
 d930ccdff06f4ed2	BAA-827	Intestinibacter bartlettii
 21c5c1d709a64a91	BAA-830	Klebsiella variicola
 b852c17eb8ca49a1	BAA-832	Mycobacterium sherrisii
@@ -2354,7 +3309,10 @@ c52b51a4132d47f0	BAA-836	Salmonella subterranea
 9c9cedb444a84ef0	BAA-848	Halomonas alkaliantarctica
 a8d03268e6564fa6	BAA-85	Stenotrophomonas maltophilia
 751b580f243f44b5	BAA-850	Mycobacterium senegalense
+1d9baf8fc9fb4594	BAA-856	Proteus mirabilis
 d35089f6a55940b2	BAA-86	Vibrio vulnificus
+2ce5aff9b28141c9	BAA-868	Rhizobium sp.
+078db121de6a4b43	BAA-87	Vibrio vulnificus
 b7b388b754754369	BAA-879	Mycobacterium cosmeticum
 4b38f49ea5944bc7	BAA-885	Serratia marcescens
 57f9cd76712747f7	BAA-889	Marinobacter alkaliphilus
@@ -2362,9 +3320,12 @@ a340dfa8930849cb	BAA-89	Vibrio vulnificus
 33ff10e0f1b848be	BAA-890	Marinobacter alkaliphilus
 4c6b8ea00e8b4624	BAA-894	Cronobacter sakazakii
 cfaac647eaa14a0e	BAA-90	Vibrio vulnificus
+27f9177acb52468d	BAA-902	Stenotrophomonas maltophilia
 4ae44ade9fe54263	BAA-945	Helicobacter pylori
 e52281e6d773431c	BAA-949	Corynebacterium jeikeium
 6d1cf7e7af254f91	BAA-950	Corynebacterium sp.
+1e40e45e27cb4c66	BAA-952	Salinivibrio costicola subsp. alcaliphilus
+08763c2928fa4bec	BAA-953	Halomonas alkaliphila
 b16dbb34bc4b465b	BAA-955	Mycobacterium goodii
 3b75dfa335a94a0b	BAA-960	Streptococcus pseudopneumoniae
 16581fd37cbf4efb	BAA-977	Staphylococcus aureus
@@ -2374,9 +3335,11 @@ ea33e3778a51454d	BAA-990	Acetobacterium sp.
 f220465e7a584d36	BAA-991	Exiguobacterium sp.
 e64b326a146f45ce	BAA-997	Bacteroides salyersiae
 cd885970e20a4d8e	TSD-102	Butyricicoccus porcorum
+172ce6e316c943a7	TSD-103	Ferroacidibacillus organovorus
 a80e74a1ae66443e	TSD-105	Paenibacillus athensensis
 7133930aca644839	TSD-106	Shinella sumterensis
 61d7aa6cc14e4c51	TSD-107	Marinobacter gelidimuriae
+c0af72ec5bd64703	TSD-110	Halomonas eurialkalitoleranis
 b1d1400610234a5c	TSD-117	Mycobacterium decipiens
 a09ef81e46804d04	TSD-123	Teredinibacter franksiae
 4707b7238f634fad	TSD-126	Halobacterium bonnevillei
@@ -2386,37 +3349,66 @@ d872074f68cb43d7	TSD-129	Desulfotomaculum guttoideum
 03734829712d43e9	TSD-138	Blastochloris tepida
 89ff6e20e86f432a	TSD-139	Acholeplasma equirhinis
 68b4efeaab22490f	TSD-144	Klebsiella quasivariicola
+632e3bb51ed049df	TSD-167	Campylobacter novaezeelandiae
+2724274c8aea4269	TSD-168	Campylobacter paihamu
+a9ceb2284553461e	TSD-169	Bacillus jemisoniae
+e387cd4efbc8404e	TSD-170	Bacillus frankliniae
+7f548633cf594b33	TSD-171	Bacillus resnikiae
+d3e05b3a25654018	TSD-172	Bacillus ruffinii
+2e9196aa12704a63	TSD-175	Erysipelothrix piscisicarius
+be0fce62682b4397	TSD-177	Sodalis sp.
 6df5cea68e374c25	TSD-179	Rhodocaloribacter litoris
 d5736e2c78124eba	TSD-180	Chimaeribacter arupi
 28844c23c8d14076	TSD-182	Chimaeribacter coloradensis
 12ee21735cb948a6	TSD-189	Oceanivirga miroungae
+c217ff160a5840da	TSD-19	Halolactibacillus miurensis subsp. spheniscus
 74d14594e499491f	TSD-20	Bartonella dromedarii
 c4c3de6f5064434b	TSD-206	Megasphaera hutchinsoni
 3aceae739cf34c67	TSD-210	Sphingobacterium phlebotomi
+90821c9acac845fc	TSD-22	Clostridium sp.
 e80126027e094011	TSD-229	Duganella violaceipulchra
 afa864b68b714550	TSD-232	Pantoea ananatis
 eed5c6fc5da24869	TSD-235	Sporosarcina obsidiansis
 ca31a52048bd4a83	TSD-24	Clostridium sp.
+100a8683d0f34bdb	TSD-242	Denitromonas iodocrescerans
 797842d272964588	TSD-244	Streptococcus pacificus
 a8f77de6b3cb47d1	TSD-245	Streptococcus zalophi
 43d207e9a3ec4ce9	TSD-246	Flavobacterium covae
 bed20047482d470b	TSD-247	Flavobacterium davisii
 90c553742b9040af	TSD-248	Flavobacterium oreochromis
+c8e7b3b44abb43bd	TSD-250	Rouxiella badensis subsp. acadiensis
 bc61398fea014050	TSD-259	Chromobacterium sinusclupearum
+97f054c3d2cd4df3	TSD-26	Kineothrix alysoides
+7ea5442adad846c6	TSD-261	Aquitalea palustris
 bc3cb0e367fc4f50	TSD-262	Legionella bononiensis
 b091fbdca51d44ca	TSD-266	Pseudomonas schmalbachii
+12c97a73efb6465b	TSD-267	Proteiniphilum sp.
 26b31bc86c514973	TSD-27	Caproiciproducens sp.
+2d8585719c3e407b	TSD-270	Denitromonas halophilus
+2e76ae1f858441b6	TSD-271	Denitromonas ohloneium
+5f0fe0922af8498a	TSD-272	Stenotrophomonas forensis
+d908da5d65b840ac	TSD-273	Mergibacter septicus
+30a715d69b6d4c00	TSD-279	Sphingobium lignivorans
 0f3f9379607a44ea	TSD-28	Haloimpatiens sp.
+803ff17490564e52	TSD-280	Flavobacterium okayamensis
+933a67f7cdad4b49	TSD-281	Curtobacterium mali
 dcc960d31c43420d	TSD-283	Caproiciproducens reaktori
+9b11bf5719b645cd	TSD-284	Shewanella irciniae
+a7bf100f54844361	TSD-286	Aureispira sp.
+babd1d117331432c	TSD-287	Pseudomonas pergaminensis
+32b00562dfff4f66	TSD-289	Mycolicibacterium cyprinidae
 5841c72854374db9	TSD-290	Nanosynbacter lyticus
 01d7be749ccf4357	TSD-291	Pantoea leporis
 5b4498703e9741de	TSD-293	Bacillus sp.
 cf4a982ffba94606	TSD-294	Nitratireductor zodletonensis
+e364251a640543f7	TSD-295	Mycobacterium pinniadriaticum
 d8d6948b74c84a9b	TSD-296	Mycolicibacter vasticus
+df616e4178de4c94	TSD-297	Mycolicibacter crassicus
 74f4775a298244c8	TSD-30	Robinsoniella peoriensis
 971bcb210626484d	TSD-300	Aerococcus loyolae
 77581a2652354f08	TSD-303	Pseudomonas rubra
 35622fa83cb74a83	TSD-308	Pseudomonas noduli
+0791e27642144a6a	TSD-309	Lactobacillus peromysci
 d66226ab2be844ac	TSD-31	Clostridium sp.
 b14eab1df9984cc3	TSD-312	Cupriavidus sp.
 2b773e438dea4a79	TSD-314	Cupriavidus consociatus
@@ -2437,10 +3429,12 @@ dddaea37d1f94f90	TSD-361	Aquimarina spinulae
 751f22c2c2b240dd	TSD-366	Methanoglobus nevadensis
 f2faa2daad164388	TSD-367	Terasakiella magnetica
 6144fe710adc40b7	TSD-368	Magnetovibrio massiliensis
+02983cb495e54da6	TSD-37	Halanaerobium vreelandii
 dc84960a08e24bd2	TSD-371	Streptococcus urinae
 4ce12ad67ed54aaa	TSD-372	Turicibacter faecis
 266d766c42c34441	TSD-374	Xenorhabdus bakwenae
 12b707b7ec854783	TSD-376	Geodermatophilus sp.
+7e1d8d4486684221	TSD-39	Cephaloticoccus capnophilus
 f7f285e8ef0a44c8	TSD-397	Microbacterium sp.
 20eb14c9f0d54e4e	TSD-398	Sodalis praecaptivus subsp. spalangiae subsp. nov
 a57f21b32cf54908	TSD-399	Divinella watersii
@@ -2467,6 +3461,7 @@ b9304a3ef0f84ec6	TSD-423	Marinococcus salinum
 40bedfc23aa44b35	TSD-431	Lactiplantibacillus sp.
 2aa967fd5698452b	TSD-435	Corynebacterium hallux
 785d621181e745f1	TSD-439	Corynebacterium nasorum
+1906755ccee44917	TSD-45	Helicobacter jaachi
 6b8588a4abc74a45	TSD-450	Xanthobacter albus
 8f8ba21d66294fb0	TSD-453	Xanthobacter sediminis
 73409852a52f4a88	TSD-454	Xanthobacter variabilis
@@ -2474,16 +3469,21 @@ b9304a3ef0f84ec6	TSD-423	Marinococcus salinum
 3b64175f88dd455b	TSD-456	Cupriavidus sp.
 e0dff05878324437	TSD-46	Helicobacter japonicus
 359f945744b0401b	TSD-464	Novosphingobium oxfordensis
+722d6a5b8e5c4e98	TSD-47	Helicobacter saguini
 f34e8f85337e4a9d	TSD-473	Sphingopyxis aridaterra
 86f7ed17014c4c4f	TSD-474	Dryocola mayonii
 573690195f2f45d3	TSD-475	Dryocola sharpii
 70e37ff810e94803	TSD-485	Rhodanobacter montanensis
 283fb5145a234a2d	TSD-58	Immundisolibacter cernigliae
 b9673fedbf5d4356	TSD-60	Xanthomonas floridensis
+eaf7f733804f4f9e	TSD-61	Xanthomonas nasturtii
 2a5c9a7b037042d9	TSD-62	Vibrio japonicus
 3edc33236bf34b8d	TSD-68	Pseudomonas silesiensis
 48b643c8357f4166	TSD-69	Noviherbaspirillum denitrificans
 0bd9f2be5e1243c2	TSD-70	Noviherbaspirillum autotrophicum
+fe1fbb21b7614cc8	TSD-73	Fulvivirga aurantia
+ad6766af365c45d4	TSD-75	Xanthovirga aplysinae
+9915c14ab3a84fdb	TSD-76	Pseudovibrio flavus
 aa56922b71814fc0	TSD-78	Rathayibacter agropyri
 c3a6cd878c2c4dc7	TSD-88	Veillonella infantium
 f4ac13aaa7ef4494	TSD-90	Pseudomonas floridensis
