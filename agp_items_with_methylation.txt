@@ -134,6 +134,7 @@ c0b8add20793486c	12401	Streptococcus agalactiae
 a31555d6160245b5	12435	Escherichia coli
 3bf1ccdc63414f61	12453	Proteus mirabilis
 2041e20fbac74ffb	12473	Janthinobacterium lividum
+20dbe537d00a4423	12478	Mycobacterium kansasii
 459ce9e49ad748bd	12630	Streptomyces virginiae
 2024a871828a4f61	12633	Pseudomonas putida
 8e70773b7342451b	12642	Veillonella atypica
@@ -949,6 +950,7 @@ c88c5304cbc843ae	33048	Dialister pneumosintes
 d84e9169e39e44bd	33068	Salmonella enterica subsp. enterica serovar Typhimurium
 a252a7d509cd4cca	33072	Lelliottia amnigena
 07b47f109a564413	33089	Eubacterium brachy
+1d7afb2e50da4ffa	33090	Listeria innocua
 1dcbc37b60a444be	33099	Eubacterium nodatum
 04f524ad759145f1	33105	Serratia ficaria
 f8538f8124da4cc0	33113	Clavibacter michiganensis subsp. sepedonicus
@@ -2602,6 +2604,7 @@ d9b73ca901d24e85	BAA-2884	Acinetobacter baumannii
 fa90570cc7624959	BAA-2885	Acinetobacter baumannii
 bc5ccde03316404d	BAA-2887	Acinetobacter baumannii
 55c4f409f27d4477	BAA-2888	Acinetobacter baumannii
+99e45e22665649c2	BAA-2891	Acinetobacter baumannii
 3d7d94572e5347d8	BAA-2893	Acinetobacter baumannii
 806a72493c394bdf	BAA-2894	Acinetobacter baumannii
 f509ebe750e64c82	BAA-2896	Acinetobacter baumannii
@@ -2612,6 +2615,7 @@ f6835955f5f24e78	BAA-2901	Acinetobacter baumannii
 07083a98c74f4baa	BAA-294	Phenylobacterium lituiforme
 73c780c0203c4d90	BAA-3035	Acinetobacter baumannii
 d384e22d53ca475f	BAA-3036	Acinetobacter baumannii
+e7e432dc35774a54	BAA-3037	Citrobacter braakii
 67f3a5f5558b4da1	BAA-3038	Citrobacter freundii
 757b1805a2764718	BAA-3040	Citrobacter freundii
 a821f9eae5e140fa	BAA-3041	Citrobacter freundii
